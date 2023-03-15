@@ -1,0 +1,191 @@
+{
+    "$id": 0,
+    "$type": "0|BulwarkStudios.Stanford.Saves.SaveDataLockdoor, BulwarkStudios.Stanford",
+    "states": {
+        "$id": 1,
+        "$type": "1|System.Collections.Generic.List`1[[BulwarkStudios.Stanford.Torus.Sectors.LockdoorState, BulwarkStudios.Stanford]], mscorlib",
+        "$rlength": 6,
+        "$rcontent": [
+            {
+                "$id": 2,
+                "$type": "2|BulwarkStudios.Stanford.Torus.Sectors.LockdoorState, BulwarkStudios.Stanford",
+                "guid": beed0180-596b-44dc-88e0-831f6c9fd4da,
+                "data": $eref:0,
+                "bounds": {
+                    "$id": 3,
+                    "$type": "3|BulwarkStudios.Stanford.Torus.Grid.GridDimensionBounds, BulwarkStudios.Stanford",
+                    "ModuleRotation": 0,
+                    "X": 68,
+                    "Y": 0,
+                    "RawWidth": 12,
+                    "RawHeight": 30,
+                    "Width": 12,
+                    "Height": 30,
+                    "HandleRotation": false,
+                    "middlePointRaw": {
+                        "$type": "4|UnityEngine.Vector3, UnityEngine.CoreModule",
+                        74,
+                        15,
+                        0
+                    },
+                    "middlePoint": {
+                        "$type": 4,
+                        74,
+                        15,
+                        0
+                    }
+                }
+            },
+            {
+                "$id": 4,
+                "$type": 2,
+                "guid": ded22a83-7eda-4e95-b03c-02c79e5e4b26,
+                "data": $eref:1,
+                "bounds": {
+                    "$id": 5,
+                    "$type": 3,
+                    "ModuleRotation": 0,
+                    "X": 0,
+                    "Y": 0,
+                    "RawWidth": 12,
+                    "RawHeight": 30,
+                    "Width": 12,
+                    "Height": 30,
+                    "HandleRotation": false,
+                    "middlePointRaw": {
+                        "$type": 4,
+                        6,
+                        15,
+                        0
+                    },
+                    "middlePoint": {
+                        "$type": 4,
+                        6,
+                        15,
+                        0
+                    }
+                }
+            },
+            {
+                "$id": 6,
+                "$type": 2,
+                "guid": 2615c8b5-77e5-42a3-8eb6-4c142933f86b,
+                "data": $eref:2,
+                "bounds": {
+                    "$id": 7,
+                    "$type": 3,
+                    "ModuleRotation": 0,
+                    "X": 340,
+                    "Y": 0,
+                    "RawWidth": 12,
+                    "RawHeight": 30,
+                    "Width": 12,
+                    "Height": 30,
+                    "HandleRotation": false,
+                    "middlePointRaw": {
+                        "$type": 4,
+                        346,
+                        15,
+                        0
+                    },
+                    "middlePoint": {
+                        "$type": 4,
+                        346,
+                        15,
+                        0
+                    }
+                }
+            },
+            {
+                "$id": 8,
+                "$type": 2,
+                "guid": 2e4f9e7a-2370-47c7-bfff-7dd003b32fc6,
+                "data": $eref:3,
+                "bounds": {
+                    "$id": 9,
+                    "$type": 3,
+                    "ModuleRotation": 0,
+                    "X": 272,
+                    "Y": 0,
+                    "RawWidth": 12,
+                    "RawHeight": 30,
+                    "Width": 12,
+                    "Height": 30,
+                    "HandleRotation": false,
+                    "middlePointRaw": {
+                        "$type": 4,
+                        278,
+                        15,
+                        0
+                    },
+                    "middlePoint": {
+                        "$type": 4,
+                        278,
+                        15,
+                        0
+                    }
+                }
+            },
+            {
+                "$id": 10,
+                "$type": 2,
+                "guid": 57557b29-26cc-4ddd-af87-2c39f69717d2,
+                "data": $eref:4,
+                "bounds": {
+                    "$id": 11,
+                    "$type": 3,
+                    "ModuleRotation": 0,
+                    "X": 204,
+                    "Y": 0,
+                    "RawWidth": 12,
+                    "RawHeight": 30,
+                    "Width": 12,
+                    "Height": 30,
+                    "HandleRotation": false,
+                    "middlePointRaw": {
+                        "$type": 4,
+                        210,
+                        15,
+                        0
+                    },
+                    "middlePoint": {
+                        "$type": 4,
+                        210,
+                        15,
+                        0
+                    }
+                }
+            },
+            {
+                "$id": 12,
+                "$type": 2,
+                "guid": f972fb9f-4ce8-4c4b-b36a-9df793c1670e,
+                "data": $eref:5,
+                "bounds": {
+                    "$id": 13,
+                    "$type": 3,
+                    "ModuleRotation": 0,
+                    "X": 136,
+                    "Y": 0,
+                    "RawWidth": 12,
+                    "RawHeight": 30,
+                    "Width": 12,
+                    "Height": 30,
+                    "HandleRotation": false,
+                    "middlePointRaw": {
+                        "$type": 4,
+                        142,
+                        15,
+                        0
+                    },
+                    "middlePoint": {
+                        "$type": 4,
+                        142,
+                        15,
+                        0
+                    }
+                }
+            }
+        ]
+    }
+}

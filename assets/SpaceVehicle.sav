@@ -1,0 +1,626 @@
+{
+    "$id": 0,
+    "$type": "0|BulwarkStudios.Stanford.Saves.SaveDataSpaceVehicle, BulwarkStudios.Stanford",
+    "states": {
+        "$id": 1,
+        "$type": "1|System.Collections.Generic.List`1[[BulwarkStudios.Stanford.SolarSystem.SpaceVehicles.SpaceVehicleState, BulwarkStudios.Stanford]], mscorlib",
+        "$rlength": 3,
+        "$rcontent": [
+            {
+                "$id": 2,
+                "$type": "2|BulwarkStudios.Stanford.SolarSystem.SpaceVehicles.SpaceVehicleState, BulwarkStudios.Stanford",
+                "guid": 891a3a37-5808-43e8-9b99-5a6312243b6e,
+                "data": $eref:0,
+                "shipUniqueName": "SpaceVehicle/Science_Ship_18",
+                "incomingStockedResources": {
+                    "$id": 3,
+                    "$type": "3|BulwarkStudios.Stanford.Core.GameResources.ResourceContainer, BulwarkStudios.Stanford",
+                    "values": {
+                        "$id": 4,
+                        "$type": "4|System.Int32[], mscorlib",
+                        "$plength": 21,
+                        "$pcontent": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "stockedResources": {
+                    "$id": 5,
+                    "$type": 3,
+                    "values": {
+                        "$id": 6,
+                        "$type": 4,
+                        "$plength": 21,
+                        "$pcontent": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "outgoingStockedResources": {
+                    "$id": 7,
+                    "$type": 3,
+                    "values": {
+                        "$id": 8,
+                        "$type": 4,
+                        "$plength": 21,
+                        "$pcontent": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "isDocked": false,
+                "isUnloading": false,
+                "hasWeatherProtection": true,
+                "isUnavailable": false,
+                "workingOnAutomatedTask": false,
+                "startScienceCollect": 0,
+                "scienceShipState": {
+                    "$id": 9,
+                    "$type": "5|BulwarkStudios.Stanford.SolarSystem.SpaceVehicles.Actions.SpaceVehicleActionStateBehaviourScienceShip, BulwarkStudios.Stanford",
+                    "doingOption": true,
+                    "inEvent": true,
+                    "dlsEvent": $eref:1
+                },
+                "miningShipState": {
+                    "$id": 10,
+                    "$type": "6|BulwarkStudios.Stanford.SolarSystem.SpaceVehicles.Actions.SpaceVehicleActionStateBehaviourMiningShip, BulwarkStudios.Stanford",
+                    "resourcePriorities": {
+                        "$id": 11,
+                        "$type": "7|System.Collections.Generic.Dictionary`2[[BulwarkStudios.Stanford.Core.GameResources.ResourceData, BulwarkStudios.Stanford],[System.Int32, mscorlib]], mscorlib",
+                        "comparer": {
+                            "$id": 12,
+                            "$type": "8|System.Collections.Generic.ObjectEqualityComparer`1[[BulwarkStudios.Stanford.Core.GameResources.ResourceData, BulwarkStudios.Stanford]], mscorlib"
+                        },
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "sortedResourcesByPriority": {
+                        "$id": 13,
+                        "$type": "9|System.Collections.Generic.List`1[[BulwarkStudios.Stanford.Core.GameResources.ResourceData, BulwarkStudios.Stanford]], mscorlib",
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "currentTaskResource": null
+                },
+                "cargoShipState": {
+                    "$id": 14,
+                    "$type": "10|BulwarkStudios.Stanford.SolarSystem.SpaceVehicles.Actions.SpaceVehicleActionStateBehaviourCargoShip, BulwarkStudios.Stanford",
+                    "resourcePriorities": {
+                        "$id": 15,
+                        "$type": 7,
+                        "comparer": $iref:12,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "sortedResourcesByPriority": {
+                        "$id": 16,
+                        "$type": 9,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    }
+                },
+                "targetedByCounterMeasure": false,
+                "spaceVehicleTask": 2,
+                "movementTimeRemaining": 0.000843584538,
+                "buildingProgress": 100,
+                "solarSystemPosition": {
+                    "$type": "11|UnityEngine.Vector3, UnityEngine.CoreModule",
+                    -2.48878336,
+                    0,
+                    1.89034891
+                },
+                "currentTaskProgress": 0.246820748,
+                "autonomyLeft": 600,
+                "exp": 120,
+                "level": 1,
+                "waitingForDock": false,
+                "buildingGuid": 00000000-0000-0000-0000-000000000000,
+                "dockingBayPlatformGuid": 0ae324ad-b278-4bdc-a5d4-44ce372a652e,
+                "localisationStellarObject": b2e4eb42-18ef-4a56-95a9-009c5da0decb,
+                "localisationSpaceVehicleDockableSolarSystem": false,
+                "localisationSpaceVehicleDockableTorus": false,
+                "destinationStellarObject": 00000000-0000-0000-0000-000000000000,
+                "destinationSpaceVehicleDockableSolarSystem": false,
+                "destinationSpaceVehicleDockableTorus": false,
+                "crewMembersGuid": {
+                    "$id": 17,
+                    "$type": "12|System.Collections.Generic.List`1[[System.Guid, mscorlib]], mscorlib",
+                    "$rlength": 5,
+                    "$rcontent": [
+                        997642ce-e3fa-44fb-97cc-e886104bfbf5,
+                        73a7b600-5378-428a-b136-0613ab0198e6,
+                        8a7c1b18-3ddb-415b-8e9d-73c8167c9c73,
+                        cde73bf2-d34e-47b2-8272-b959ec6419c9,
+                        0c035728-3f3e-44e9-aee1-bd493acfa5f8
+                    ]
+                },
+                "listCommandable": {
+                    "$id": 18,
+                    "$type": "13|System.Collections.Generic.List`1[[BulwarkStudios.Stanford.Core.Commands.ICommandSaveable, BulwarkStudios.Stanford]], mscorlib",
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "assignedOptionEventGuid": 8a8855a9-82b5-4522-a46b-e1c22d8beb42,
+                "assignedOptionGuid": f5faa8a0-a1f4-4839-93db-a26a284afbbb,
+                "pendingStellarTaskGuid": 00000000-0000-0000-0000-000000000000
+            },
+            {
+                "$id": 19,
+                "$type": 2,
+                "guid": 6f958761-37be-4ad9-bd42-80b4b2205263,
+                "data": $eref:2,
+                "shipUniqueName": "SpaceVehicle/Cargo_Ship_28",
+                "incomingStockedResources": {
+                    "$id": 20,
+                    "$type": 3,
+                    "values": {
+                        "$id": 21,
+                        "$type": 4,
+                        "$plength": 21,
+                        "$pcontent": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "stockedResources": {
+                    "$id": 22,
+                    "$type": 3,
+                    "values": {
+                        "$id": 23,
+                        "$type": 4,
+                        "$plength": 21,
+                        "$pcontent": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "outgoingStockedResources": {
+                    "$id": 24,
+                    "$type": 3,
+                    "values": {
+                        "$id": 25,
+                        "$type": 4,
+                        "$plength": 21,
+                        "$pcontent": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "isDocked": false,
+                "isUnloading": false,
+                "hasWeatherProtection": true,
+                "isUnavailable": false,
+                "workingOnAutomatedTask": false,
+                "startScienceCollect": 0,
+                "scienceShipState": {
+                    "$id": 26,
+                    "$type": 5,
+                    "doingOption": false,
+                    "inEvent": false,
+                    "dlsEvent": null
+                },
+                "miningShipState": {
+                    "$id": 27,
+                    "$type": 6,
+                    "resourcePriorities": {
+                        "$id": 28,
+                        "$type": 7,
+                        "comparer": $iref:12,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "sortedResourcesByPriority": {
+                        "$id": 29,
+                        "$type": 9,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "currentTaskResource": null
+                },
+                "cargoShipState": {
+                    "$id": 30,
+                    "$type": 10,
+                    "resourcePriorities": {
+                        "$id": 31,
+                        "$type": 7,
+                        "comparer": $iref:12,
+                        "$rlength": 3,
+                        "$rcontent": [
+                            {
+                                "$k": $eref:3,
+                                "$v": 2
+                            },
+                            {
+                                "$k": $eref:4,
+                                "$v": 3
+                            },
+                            {
+                                "$k": $eref:5,
+                                "$v": 3
+                            }
+                        ]
+                    },
+                    "sortedResourcesByPriority": {
+                        "$id": 32,
+                        "$type": 9,
+                        "$rlength": 3,
+                        "$rcontent": [
+                            $eref:4,
+                            $eref:5,
+                            $eref:3
+                        ]
+                    }
+                },
+                "targetedByCounterMeasure": false,
+                "spaceVehicleTask": 3,
+                "movementTimeRemaining": 0.8965266,
+                "buildingProgress": 100,
+                "solarSystemPosition": {
+                    "$type": 11,
+                    -1.90686262,
+                    0,
+                    2.117358
+                },
+                "currentTaskProgress": 0.307960451,
+                "autonomyLeft": 1200,
+                "exp": 232,
+                "level": 1,
+                "waitingForDock": false,
+                "buildingGuid": 00000000-0000-0000-0000-000000000000,
+                "dockingBayPlatformGuid": 0ae324ad-b278-4bdc-a5d4-44ce372a652e,
+                "localisationStellarObject": 00000000-0000-0000-0000-000000000000,
+                "localisationSpaceVehicleDockableSolarSystem": false,
+                "localisationSpaceVehicleDockableTorus": true,
+                "destinationStellarObject": 00000000-0000-0000-0000-000000000000,
+                "destinationSpaceVehicleDockableSolarSystem": false,
+                "destinationSpaceVehicleDockableTorus": false,
+                "crewMembersGuid": {
+                    "$id": 33,
+                    "$type": 12,
+                    "$rlength": 1,
+                    "$rcontent": [
+                        f89dc62b-2676-4a85-83a5-eb7121be6eff
+                    ]
+                },
+                "listCommandable": {
+                    "$id": 34,
+                    "$type": 13,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "assignedOptionEventGuid": 00000000-0000-0000-0000-000000000000,
+                "assignedOptionGuid": 00000000-0000-0000-0000-000000000000,
+                "pendingStellarTaskGuid": 00000000-0000-0000-0000-000000000000
+            },
+            {
+                "$id": 35,
+                "$type": 2,
+                "guid": 0541e36c-13c2-4ac9-bc8f-f67daad5cb29,
+                "data": $eref:6,
+                "shipUniqueName": "SpaceVehicle/Mining_Ship_23",
+                "incomingStockedResources": {
+                    "$id": 36,
+                    "$type": 3,
+                    "values": {
+                        "$id": 37,
+                        "$type": 4,
+                        "$plength": 21,
+                        "$pcontent": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "stockedResources": {
+                    "$id": 38,
+                    "$type": 3,
+                    "values": {
+                        "$id": 39,
+                        "$type": 4,
+                        "$plength": 21,
+                        "$pcontent": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "outgoingStockedResources": {
+                    "$id": 40,
+                    "$type": 3,
+                    "values": {
+                        "$id": 41,
+                        "$type": 4,
+                        "$plength": 21,
+                        "$pcontent": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "isDocked": false,
+                "isUnloading": false,
+                "hasWeatherProtection": true,
+                "isUnavailable": false,
+                "workingOnAutomatedTask": false,
+                "startScienceCollect": 0,
+                "scienceShipState": {
+                    "$id": 42,
+                    "$type": 5,
+                    "doingOption": false,
+                    "inEvent": false,
+                    "dlsEvent": null
+                },
+                "miningShipState": {
+                    "$id": 43,
+                    "$type": 6,
+                    "resourcePriorities": {
+                        "$id": 44,
+                        "$type": 7,
+                        "comparer": $iref:12,
+                        "$rlength": 1,
+                        "$rcontent": [
+                            {
+                                "$k": $eref:7,
+                                "$v": 3
+                            }
+                        ]
+                    },
+                    "sortedResourcesByPriority": {
+                        "$id": 45,
+                        "$type": 9,
+                        "$rlength": 1,
+                        "$rcontent": [
+                            $eref:7
+                        ]
+                    },
+                    "currentTaskResource": null
+                },
+                "cargoShipState": {
+                    "$id": 46,
+                    "$type": 10,
+                    "resourcePriorities": {
+                        "$id": 47,
+                        "$type": 7,
+                        "comparer": $iref:12,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "sortedResourcesByPriority": {
+                        "$id": 48,
+                        "$type": 9,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    }
+                },
+                "targetedByCounterMeasure": false,
+                "spaceVehicleTask": 3,
+                "movementTimeRemaining": 0,
+                "buildingProgress": 100,
+                "solarSystemPosition": {
+                    "$type": 11,
+                    -1.90686262,
+                    0,
+                    2.117358
+                },
+                "currentTaskProgress": 0,
+                "autonomyLeft": 1200,
+                "exp": 0,
+                "level": 1,
+                "waitingForDock": false,
+                "buildingGuid": 00000000-0000-0000-0000-000000000000,
+                "dockingBayPlatformGuid": 0ae324ad-b278-4bdc-a5d4-44ce372a652e,
+                "localisationStellarObject": 00000000-0000-0000-0000-000000000000,
+                "localisationSpaceVehicleDockableSolarSystem": false,
+                "localisationSpaceVehicleDockableTorus": true,
+                "destinationStellarObject": 00000000-0000-0000-0000-000000000000,
+                "destinationSpaceVehicleDockableSolarSystem": false,
+                "destinationSpaceVehicleDockableTorus": false,
+                "crewMembersGuid": {
+                    "$id": 49,
+                    "$type": 12,
+                    "$rlength": 1,
+                    "$rcontent": [
+                        12f4a100-f6b8-4730-a365-7f76cb11f750
+                    ]
+                },
+                "listCommandable": {
+                    "$id": 50,
+                    "$type": 13,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "assignedOptionEventGuid": 00000000-0000-0000-0000-000000000000,
+                "assignedOptionGuid": 00000000-0000-0000-0000-000000000000,
+                "pendingStellarTaskGuid": 00000000-0000-0000-0000-000000000000
+            }
+        ]
+    }
+}

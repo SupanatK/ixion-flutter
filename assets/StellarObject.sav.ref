@@ -1,0 +1,116 @@
+{
+    "$id": 0,
+    "$type": "0|BulwarkStudios.Stanford.Saves.SaveDataReference, BulwarkStudios.Stanford",
+    "refObjects": {
+        "$id": 1,
+        "$type": "1|System.Collections.Generic.List`1[[BulwarkStudios.Stanford.Saves.SaveDataReference+DataRefObject, BulwarkStudios.Stanford]], mscorlib",
+        "$rlength": 15,
+        "$rcontent": [
+            {
+                "$type": "2|BulwarkStudios.Stanford.Saves.SaveDataReference+DataRefObject, BulwarkStudios.Stanford",
+                "name": "BaseAsteroid",
+                "path": "Assets/Data/SolarSystem/CelestialObjects/SpawnableAsteroids/BaseAsteroid.asset",
+                "type": "BulwarkStudios.Stanford.SolarSystem.StellarObjects.StellarObjectData",
+                "guid": "ef005d2f70c64f642be4f991530ae842"
+            },
+            {
+                "$type": 2,
+                "name": "C0_C1_Sun",
+                "path": "Assets/Data/SolarSystem/CelestialObjects/Chapter0/C0_C1_Sun.asset",
+                "type": "BulwarkStudios.Stanford.SolarSystem.StellarObjects.StellarObjectData",
+                "guid": "9ad124038bbb0f145b2a8691f965b543"
+            },
+            {
+                "$type": 2,
+                "name": "C0_C1_Mercury",
+                "path": "Assets/Data/SolarSystem/CelestialObjects/Chapter0/C0_C1_Mercury.asset",
+                "type": "BulwarkStudios.Stanford.SolarSystem.StellarObjects.StellarObjectData",
+                "guid": "38decb59870051541ba551043e93ad28"
+            },
+            {
+                "$type": 2,
+                "name": "C0_C1_Venus",
+                "path": "Assets/Data/SolarSystem/CelestialObjects/Chapter0/C0_C1_Venus.asset",
+                "type": "BulwarkStudios.Stanford.SolarSystem.StellarObjects.StellarObjectData",
+                "guid": "2d862d24d0fcc5c4682bca640f1b2d28"
+            },
+            {
+                "$type": 2,
+                "name": "C1_Earth",
+                "path": "Assets/Data/SolarSystem/CelestialObjects/Chapter1/C1_Earth.asset",
+                "type": "BulwarkStudios.Stanford.SolarSystem.StellarObjects.StellarObjectData",
+                "guid": "542de107dc5a8d844915e53ccc01f213"
+            },
+            {
+                "$type": 2,
+                "name": "C1_Moon",
+                "path": "Assets/Data/SolarSystem/CelestialObjects/Chapter1/C1_Moon.asset",
+                "type": "BulwarkStudios.Stanford.SolarSystem.StellarObjects.StellarObjectData",
+                "guid": "3af25353f9ada4b4caa63583d63d4063"
+            },
+            {
+                "$type": 2,
+                "name": "C0_C1_Mars",
+                "path": "Assets/Data/SolarSystem/CelestialObjects/Chapter0/C0_C1_Mars.asset",
+                "type": "BulwarkStudios.Stanford.SolarSystem.StellarObjects.StellarObjectData",
+                "guid": "5021463faf365a344ba9c02e720298ca"
+            },
+            {
+                "$type": 2,
+                "name": "C0_C1_Jupiter",
+                "path": "Assets/Data/SolarSystem/CelestialObjects/Chapter0/C0_C1_Jupiter.asset",
+                "type": "BulwarkStudios.Stanford.SolarSystem.StellarObjects.StellarObjectData",
+                "guid": "35efa54072de0a6498eca4770e172c95"
+            },
+            {
+                "$type": 2,
+                "name": "C0_C1_Saturn",
+                "path": "Assets/Data/SolarSystem/CelestialObjects/Chapter0/C0_C1_Saturn.asset",
+                "type": "BulwarkStudios.Stanford.SolarSystem.StellarObjects.StellarObjectData",
+                "guid": "8c1c1e8dfcd1941429b2e4935fd95053"
+            },
+            {
+                "$type": 2,
+                "name": "C0_C1_Uranus",
+                "path": "Assets/Data/SolarSystem/CelestialObjects/Chapter0/C0_C1_Uranus.asset",
+                "type": "BulwarkStudios.Stanford.SolarSystem.StellarObjects.StellarObjectData",
+                "guid": "32b633c8109ae3b40960e3dde969f4df"
+            },
+            {
+                "$type": 2,
+                "name": "C0_C1_Neptune",
+                "path": "Assets/Data/SolarSystem/CelestialObjects/Chapter0/C0_C1_Neptune.asset",
+                "type": "BulwarkStudios.Stanford.SolarSystem.StellarObjects.StellarObjectData",
+                "guid": "6428d63e49581694b88cb23b88f8715b"
+            },
+            {
+                "$type": 2,
+                "name": "C1_AsteroidBelt_IP1",
+                "path": "Assets/Data/SolarSystem/CelestialObjects/Chapter0/C1_AsteroidBelt_IP1.asset",
+                "type": "BulwarkStudios.Stanford.SolarSystem.StellarObjects.StellarObjectData",
+                "guid": "9a17ba6a1ecf2ab42a9f665cacce7826"
+            },
+            {
+                "$type": 2,
+                "name": "C1_Urshanabi",
+                "path": "Assets/Data/SolarSystem/CelestialObjects/Chapter1/C1_Urshanabi.asset",
+                "type": "BulwarkStudios.Stanford.SolarSystem.StellarObjects.StellarObjectData",
+                "guid": "4d6c982aa6a624241a4254057f65ca5e"
+            },
+            {
+                "$type": 2,
+                "name": "C1_OuterHope",
+                "path": "Assets/Data/SolarSystem/CelestialObjects/Chapter1/C1_OuterHope.asset",
+                "type": "BulwarkStudios.Stanford.SolarSystem.StellarObjects.StellarObjectData",
+                "guid": "6c4856d093988bd44b15d5f920fddc37"
+            },
+            {
+                "$type": 2,
+                "name": "C1_DebrisField",
+                "path": "Assets/Data/SolarSystem/CelestialObjects/Chapter1/C1_DebrisField.asset",
+                "type": "BulwarkStudios.Stanford.SolarSystem.StellarObjects.StellarObjectData",
+                "guid": "6bf195b191f32b24ebac1e9daa068041"
+            }
+        ]
+    }
+}

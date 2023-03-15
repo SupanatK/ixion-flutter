@@ -1,0 +1,1530 @@
+{
+    "$id": 0,
+    "$type": "0|BulwarkStudios.Stanford.Saves.SaveDataReference, BulwarkStudios.Stanford",
+    "refObjects": {
+        "$id": 1,
+        "$type": "1|System.Collections.Generic.List`1[[BulwarkStudios.Stanford.Saves.SaveDataReference+DataRefObject, BulwarkStudios.Stanford]], mscorlib",
+        "$rlength": 217,
+        "$rcontent": [
+            {
+                "$type": "2|BulwarkStudios.Stanford.Saves.SaveDataReference+DataRefObject, BulwarkStudios.Stanford",
+                "name": "Player",
+                "path": "Assets/Data/Common/Players/Player.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.PlayerData",
+                "guid": "7092d32c376e58948bb5f918317f7e4a"
+            },
+            {
+                "$type": 2,
+                "name": "ModeSetting",
+                "path": "Assets/Data/Common/Players/Settings/ModeSetting.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.PlayerModeSettingData",
+                "guid": "c9ddaff107855ec408ed0545c15fb706"
+            },
+            {
+                "$type": 2,
+                "name": "StockpileCapacityMultiplierSetting",
+                "path": "Assets/Data/Common/Players/Settings/Stockpiles/StockpileCapacityMultiplierSetting.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.PlayerSettingFloatData",
+                "guid": "7599032190961fd40bc4d6c52392e082"
+            },
+            {
+                "$type": 2,
+                "name": "StockpileTransporterCountModifierSetting",
+                "path": "Assets/Data/Common/Players/Settings/Stockpiles/StockpileTransporterCountModifierSetting.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.PlayerSettingIntData",
+                "guid": "70b62f08f870c4c4f8f01130ab1fa4dc"
+            },
+            {
+                "$type": 2,
+                "name": "CanAddResourcesToStockpileSetting",
+                "path": "Assets/Data/Common/Players/Settings/Stockpiles/CanAddResourcesToStockpileSetting.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.PlayerSettingBoolData",
+                "guid": "cebe8f7ba4756f54395912d38145145e"
+            },
+            {
+                "$type": 2,
+                "name": "DisableHullSetting",
+                "path": "Assets/Data/Common/Players/Settings/Hull/DisableHullSetting.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.PlayerSettingBoolData",
+                "guid": "9a64966d3e6a97b418d4bcc296e3397a"
+            },
+            {
+                "$type": 2,
+                "name": "DisableTrustSetting",
+                "path": "Assets/Data/Common/Players/Settings/Trust/DisableTrustSetting.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.PlayerSettingBoolData",
+                "guid": "d1ae9c0a06d23d74c8934d60ff03020c"
+            },
+            {
+                "$type": 2,
+                "name": "ShipTravelInstantlySetting",
+                "path": "Assets/Data/Common/Players/Settings/Ships/ShipTravelInstantlySetting.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.PlayerSettingBoolData",
+                "guid": "edeb0c70be9842a4b909a2f00ac58304"
+            },
+            {
+                "$type": 2,
+                "name": "DisableShipAutonomySetting",
+                "path": "Assets/Data/Common/Players/Settings/Ships/DisableShipAutonomySetting.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.PlayerSettingBoolData",
+                "guid": "19ee5fdbc485a5047a81f21bc4aefd91"
+            },
+            {
+                "$type": 2,
+                "name": "EventOptionCompleteInstantlySetting",
+                "path": "Assets/Data/Common/Players/Settings/Events/EventOptionCompleteInstantlySetting.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.PlayerSettingBoolData",
+                "guid": "202ade4a4dcfe7a4b84f563879af9050"
+            },
+            {
+                "$type": 2,
+                "name": "BuildingBuildInstantlySetting",
+                "path": "Assets/Data/Common/Players/Settings/Buildings/BuildingBuildInstantlySetting.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.PlayerSettingBoolData",
+                "guid": "1749edc538a479744b106acd2f8ab2b2"
+            },
+            {
+                "$type": 2,
+                "name": "DisableBuildingAccidentsSetting",
+                "path": "Assets/Data/Common/Players/Settings/Buildings/DisableBuildingAccidentsSetting.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.PlayerSettingBoolData",
+                "guid": "4350a1dc48e87cb44ab27e11f57fefd0"
+            },
+            {
+                "$type": 2,
+                "name": "DisableCitizenDeath",
+                "path": "Assets/Data/Common/Players/Settings/Citizens/DisableCitizenDeath.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.PlayerSettingBoolData",
+                "guid": "903618b440435d542938b8da23f0e027"
+            },
+            {
+                "$type": 2,
+                "name": "DisableCitizenInjury",
+                "path": "Assets/Data/Common/Players/Settings/Citizens/DisableCitizenInjury.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.PlayerSettingBoolData",
+                "guid": "f3bdf547b9503a14d8441958e44ab31a"
+            },
+            {
+                "$type": 2,
+                "name": "DisableCitizenStarving",
+                "path": "Assets/Data/Common/Players/Settings/Citizens/DisableCitizenStarving.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.PlayerSettingBoolData",
+                "guid": "16ab93a5e403f8f4eb8e9e3180c2c78f"
+            },
+            {
+                "$type": 2,
+                "name": "Views_All",
+                "path": "Assets/Data/Tutorial/Chapter0/Views/Views_All.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.TutorialData",
+                "guid": "0c8853e95dfb1244abc722b3acc3ef4a"
+            },
+            {
+                "$type": 2,
+                "name": "CameraControls_Interior",
+                "path": "Assets/Data/Tutorial/Chapter0/CameraControls/CameraControls_Interior.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.TutorialData",
+                "guid": "1a07aef200efb7d42ae4fe2522ed206a"
+            },
+            {
+                "$type": 2,
+                "name": "CameraControls_Exterior",
+                "path": "Assets/Data/Tutorial/Chapter0/CameraControls/CameraControls_Exterior.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.TutorialData",
+                "guid": "8006d0d1248e8884b885fb3980802811"
+            },
+            {
+                "$type": 2,
+                "name": "CameraControls_StellarMap",
+                "path": "Assets/Data/Tutorial/Chapter0/CameraControls/CameraControls_StellarMap.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.TutorialData",
+                "guid": "c1b812fa46eb1bd4091e2f575cfa9726"
+            },
+            {
+                "$type": 2,
+                "name": "Buildings_Overview",
+                "path": "Assets/Data/Tutorial/Chapter0/Buildings/Buildings_Overview.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.TutorialData",
+                "guid": "1ad7b1e2e2af30245a81965bf4fa69e7"
+            },
+            {
+                "$type": 2,
+                "name": "Buildings_ConstructionView",
+                "path": "Assets/Data/Tutorial/Chapter0/Buildings/Buildings_ConstructionView.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.TutorialData",
+                "guid": "4a36d9781238a2c499cfe4973c4bf98a"
+            },
+            {
+                "$type": 2,
+                "name": "Buildings_Assembly",
+                "path": "Assets/Data/Tutorial/Chapter0/Buildings/Buildings_Assembly.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.TutorialData",
+                "guid": "a7f591aa08fc72048a123c6f33b28c1e"
+            },
+            {
+                "$type": 2,
+                "name": "Buildings_Roads",
+                "path": "Assets/Data/Tutorial/Chapter0/Buildings/Buildings_Roads.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.TutorialData",
+                "guid": "ee42c53ba621ca240aae9e2258f7266b"
+            },
+            {
+                "$type": 2,
+                "name": "Sectors_Overview",
+                "path": "Assets/Data/Tutorial/Chapter0/Sectors/Sectors_Overview.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.TutorialData",
+                "guid": "ba4da6573a7f1a348900e7025095738f"
+            },
+            {
+                "$type": 2,
+                "name": "Resources_Resources",
+                "path": "Assets/Data/Tutorial/Chapter0/ResourcesList/Resources_Resources.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.TutorialData",
+                "guid": "a881aa5f8b51fce4fa529107b5f8213d"
+            },
+            {
+                "$type": 2,
+                "name": "Resources_Storage",
+                "path": "Assets/Data/Tutorial/Chapter0/ResourcesList/Resources_Storage.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.TutorialData",
+                "guid": "7aba8a6e65d737441a724d9f6055f9bb"
+            },
+            {
+                "$type": 2,
+                "name": "Resources_Supplies",
+                "path": "Assets/Data/Tutorial/Chapter0/ResourcesList/Resources_Supplies.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.TutorialData",
+                "guid": "a4b3b5aad536cb34f8be12ca80e23d86"
+            },
+            {
+                "$type": 2,
+                "name": "Resources_Transport",
+                "path": "Assets/Data/Tutorial/Chapter0/ResourcesList/Resources_Transport.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.TutorialData",
+                "guid": "d8e223bff9f0b8342ad38c4251386a56"
+            },
+            {
+                "$type": 2,
+                "name": "Resources_Transfers",
+                "path": "Assets/Data/Tutorial/Chapter0/ResourcesList/Resources_Transfers.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.TutorialData",
+                "guid": "47d56d774cb7fa0488554cd2ee1c8959"
+            },
+            {
+                "$type": 2,
+                "name": "Requests_Overview",
+                "path": "Assets/Data/Tutorial/Chapter0/Requests/Requests_Overview.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.TutorialData",
+                "guid": "78c83c2aa093c6f469f9e4cad02733e4"
+            },
+            {
+                "$type": 2,
+                "name": "Population_Population",
+                "path": "Assets/Data/Tutorial/Chapter0/Population/Population_Population.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.TutorialData",
+                "guid": "5097d646d7e033545af06f01395d5d34"
+            },
+            {
+                "$type": 2,
+                "name": "Food_Refectories",
+                "path": "Assets/Data/Tutorial/Chapter0/Food/Food_Refectories.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.TutorialData",
+                "guid": "573a226dbdc35434b8ea8927160c7383"
+            },
+            {
+                "$type": 2,
+                "name": "Food_ProductionBasics",
+                "path": "Assets/Data/Tutorial/Chapter0/Food/Food_ProductionBasics.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.TutorialData",
+                "guid": "32cdd84ab85ffb748a64ffe84ede03db"
+            },
+            {
+                "$type": 2,
+                "name": "Food_ProductionAdvanced",
+                "path": "Assets/Data/Tutorial/Chapter0/Food/Food_ProductionAdvanced.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.TutorialData",
+                "guid": "b1bf7f49452dadf4c98d6b0efe4ce344"
+            },
+            {
+                "$type": 2,
+                "name": "Food_Water",
+                "path": "Assets/Data/Tutorial/Chapter0/Food/Food_Water.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.TutorialData",
+                "guid": "e5d41c4e0a82b6646ac6b7d0470e99e9"
+            },
+            {
+                "$type": 2,
+                "name": "Food_FarmFields",
+                "path": "Assets/Data/Tutorial/Chapter0/Food/Food_FarmFields.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.TutorialData",
+                "guid": "1a45cb79575b10b4dabcc628baa4efb4"
+            },
+            {
+                "$type": 2,
+                "name": "TimeControl_TimeControl",
+                "path": "Assets/Data/Tutorial/Chapter0/TimeControl/TimeControl_TimeControl.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.TutorialData",
+                "guid": "9d2a88d1256f03e40b3a5a3d513c501b"
+            },
+            {
+                "$type": 2,
+                "name": "Spaceships_Exploration",
+                "path": "Assets/Data/Tutorial/Chapter0/Spaceships/Spaceships_Exploration.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.TutorialData",
+                "guid": "461f7f363abc18d41b65214d62ab0715"
+            },
+            {
+                "$type": 2,
+                "name": "Spaceships_Harvesting",
+                "path": "Assets/Data/Tutorial/Chapter0/Spaceships/Spaceships_Harvesting.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.TutorialData",
+                "guid": "02399e1db6792e14fb9acc251694f3dd"
+            },
+            {
+                "$type": 2,
+                "name": "Spaceships_Probes",
+                "path": "Assets/Data/Tutorial/Chapter0/Spaceships/Spaceships_Probes.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.TutorialData",
+                "guid": "cf1d6645ef25ba74c9a24abbfeb436a9"
+            },
+            {
+                "$type": 2,
+                "name": "Research_Research",
+                "path": "Assets/Data/Tutorial/Chapter0/Research/Research_Research.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.TutorialData",
+                "guid": "0f63fd33648b4da49bbb2c947a74cbf2"
+            },
+            {
+                "$type": 2,
+                "name": "ExteriorConstruction_ExteriorConstruction",
+                "path": "Assets/Data/Tutorial/Chapter0/ExteriorConstruction/ExteriorConstruction_ExteriorConstruction.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.TutorialData",
+                "guid": "f78277086e9045646bd11a3e807f17b0"
+            },
+            {
+                "$type": 2,
+                "name": "Power_Overview",
+                "path": "Assets/Data/Tutorial/Chapter0/Power/Power_Overview.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.TutorialData",
+                "guid": "75205577101ebb942a1b6527a196586f"
+            },
+            {
+                "$type": 2,
+                "name": "Power_Overloads",
+                "path": "Assets/Data/Tutorial/Chapter0/Power/Power_Overloads.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.TutorialData",
+                "guid": "b01504ce0fa4a6b469f3682576355bc2"
+            },
+            {
+                "$type": 2,
+                "name": "Power_BlackOuts",
+                "path": "Assets/Data/Tutorial/Chapter0/Power/Power_BlackOuts.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.TutorialData",
+                "guid": "63a95468e1b827647a341a54e1f2b32e"
+            },
+            {
+                "$type": 2,
+                "name": "Power_Batteries",
+                "path": "Assets/Data/Tutorial/Chapter0/Power/Power_Batteries.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.TutorialData",
+                "guid": "717f1bbb09279f344866772e949e3dfe"
+            },
+            {
+                "$type": 2,
+                "name": "SpaceTravel_EKP",
+                "path": "Assets/Data/Tutorial/Chapter0/SpaceTravel/SpaceTravel_EKP.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.TutorialData",
+                "guid": "d85e0bc69e45d9f43a3881214859bccc"
+            },
+            {
+                "$type": 2,
+                "name": "SpaceTravel_Vohle",
+                "path": "Assets/Data/Tutorial/Chapter0/SpaceTravel/SpaceTravel_Vohle.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.TutorialData",
+                "guid": "284537a90d96c0e498f5edd5d4fa869b"
+            },
+            {
+                "$type": 2,
+                "name": "SpaceTravel_Ixion",
+                "path": "Assets/Data/Tutorial/Chapter0/SpaceTravel/SpaceTravel_Ixion.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.TutorialData",
+                "guid": "676a109874c16664eb2f243ae85f162b"
+            },
+            {
+                "$type": 2,
+                "name": "Sectors_Minimap",
+                "path": "Assets/Data/Tutorial/Chapter0/Sectors/Sectors_Minimap.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.TutorialData",
+                "guid": "1430a3b692642564eb28da002716d177"
+            },
+            {
+                "$type": 2,
+                "name": "Sectors_Policies",
+                "path": "Assets/Data/Tutorial/Chapter0/Sectors/Sectors_Policies.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.TutorialData",
+                "guid": "b5e2abbd2df4aea4786e25e6f6299161"
+            },
+            {
+                "$type": 2,
+                "name": "Population_Transfer",
+                "path": "Assets/Data/Tutorial/Chapter0/Population/Population_Transfer.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.TutorialData",
+                "guid": "4ec53d7507938af4eacd1a916e0a5a43"
+            },
+            {
+                "$type": 2,
+                "name": "WorkPlaceSafety_Overwork",
+                "path": "Assets/Data/Tutorial/Chapter0/WorkPlaceSafety/WorkPlaceSafety_Overwork.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.TutorialData",
+                "guid": "0a53c85884336404bb5db05936407286"
+            },
+            {
+                "$type": 2,
+                "name": "WorkPlaceSafety_Injuries",
+                "path": "Assets/Data/Tutorial/Chapter0/WorkPlaceSafety/WorkPlaceSafety_Injuries.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.TutorialData",
+                "guid": "38b1940b2bc1b164da49bf5409a98939"
+            },
+            {
+                "$type": 2,
+                "name": "WorkPlaceSafety_Breakdowns",
+                "path": "Assets/Data/Tutorial/Chapter0/WorkPlaceSafety/WorkPlaceSafety_Breakdowns.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.TutorialData",
+                "guid": "ee386496b5bed02489ecdc6a53c00a47"
+            },
+            {
+                "$type": 2,
+                "name": "WorkPlaceSafety_Accidents",
+                "path": "Assets/Data/Tutorial/Chapter0/WorkPlaceSafety/WorkPlaceSafety_Accidents.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.TutorialData",
+                "guid": "46478007eb8947142a45a9c1dcf168d8"
+            },
+            {
+                "$type": 2,
+                "name": "Hull_Hull",
+                "path": "Assets/Data/Tutorial/Chapter0/Hull/Hull_Hull.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.TutorialData",
+                "guid": "fbf1575f189152d4a8f565d918a2cdd7"
+            },
+            {
+                "$type": 2,
+                "name": "TrustAndStability_Stability",
+                "path": "Assets/Data/Tutorial/Chapter0/TrustAndStability/TrustAndStability_Stability.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.TutorialData",
+                "guid": "90b53c1c8b5d3c34a9730e2bdafee824"
+            },
+            {
+                "$type": 2,
+                "name": "TrustAndStability_Trust",
+                "path": "Assets/Data/Tutorial/Chapter0/TrustAndStability/TrustAndStability_Trust.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.TutorialData",
+                "guid": "39daf6898ed44db4eb371035fb1de826"
+            },
+            {
+                "$type": 2,
+                "name": "TrustAndStability_Strikes",
+                "path": "Assets/Data/Tutorial/Chapter0/TrustAndStability/TrustAndStability_Strikes.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.TutorialData",
+                "guid": "c697fc942f999344e8a639d29584c84d"
+            },
+            {
+                "$type": 2,
+                "name": "GameOver_GameOver",
+                "path": "Assets/Data/Tutorial/Chapter0/GameOver/GameOver_GameOver.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.TutorialData",
+                "guid": "239d618a74b9e194390a453c17fe821d"
+            },
+            {
+                "$type": 2,
+                "name": "Wastes_Overview",
+                "path": "Assets/Data/Tutorial/Chapter0/Wastes/Wastes_Overview.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.TutorialData",
+                "guid": "805dbc15a4c920c408062a28ec8bdc15"
+            },
+            {
+                "$type": 2,
+                "name": "Specializations_Overview",
+                "path": "Assets/Data/Tutorial/Chapter0/Specializations/Specializations_Overview.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.TutorialData",
+                "guid": "05fa8633709bbbf489c2d9f54f6e1850"
+            },
+            {
+                "$type": 2,
+                "name": "Weather_Overview",
+                "path": "Assets/Data/Tutorial/Chapter0/Weather/Weather_Overview.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.TutorialData",
+                "guid": "f4833926c50e52241a32f0bb7b366be8"
+            },
+            {
+                "$type": 2,
+                "name": "CryonicCenter_Overview",
+                "path": "Assets/Data/Tutorial/Chapter0/CryonicCenter/CryonicCenter_Overview.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.TutorialData",
+                "guid": "0086dacce35e389488f8f2ae3294df59"
+            },
+            {
+                "$type": 2,
+                "name": "Settlers_Overview",
+                "path": "Assets/Data/Tutorial/Chapter0/Settlers/Settlers_Overview.asset",
+                "type": "BulwarkStudios.Stanford.Common.Players.TutorialData",
+                "guid": "f064252e485bc3445aefae9d89a818d1"
+            },
+            {
+                "$type": 2,
+                "name": "Food",
+                "path": "Assets/Data/Common/ResourceTypes/Torus/Food.asset",
+                "type": "BulwarkStudios.Stanford.Core.GameResources.ResourceData",
+                "guid": "55f0ae81d4dbbef4f9d2db40db102568"
+            },
+            {
+                "$type": 2,
+                "name": "Alloy",
+                "path": "Assets/Data/Common/ResourceTypes/Torus/Alloy.asset",
+                "type": "BulwarkStudios.Stanford.Core.GameResources.ResourceData",
+                "guid": "919f1178d57ec624289193c68a6f6811"
+            },
+            {
+                "$type": 2,
+                "name": "C0_Moon",
+                "path": "Assets/Data/SolarSystem/CelestialObjects/Chapter0/C0_Moon.asset",
+                "type": "BulwarkStudios.Stanford.SolarSystem.StellarObjects.StellarObjectData",
+                "guid": "4adcdde8007b35848beb760cff697c35"
+            },
+            {
+                "$type": 2,
+                "name": "ScienceShip",
+                "path": "Assets/Data/SolarSystem/SpaceVehicle/ScienceShip.asset",
+                "type": "BulwarkStudios.Stanford.SolarSystem.SpaceVehicles.SpaceVehicleData",
+                "guid": "8b97b8866e7e49a4e9cab8f0fdda0849"
+            },
+            {
+                "$type": 2,
+                "name": "CargoShip",
+                "path": "Assets/Data/SolarSystem/SpaceVehicle/CargoShip.asset",
+                "type": "BulwarkStudios.Stanford.SolarSystem.SpaceVehicles.SpaceVehicleData",
+                "guid": "7ff4f26c508d4a64787196209c87207b"
+            },
+            {
+                "$type": 2,
+                "name": "MiningShip",
+                "path": "Assets/Data/SolarSystem/SpaceVehicle/MiningShip.asset",
+                "type": "BulwarkStudios.Stanford.SolarSystem.SpaceVehicles.SpaceVehicleData",
+                "guid": "f46f08afbc65da14d91f3956618b2ead"
+            },
+            {
+                "$type": 2,
+                "name": "PrologueShuttle",
+                "path": "Assets/Data/SolarSystem/SpaceVehicle/PrologueShuttle.asset",
+                "type": "BulwarkStudios.Stanford.SolarSystem.SpaceVehicles.SpaceVehicleData",
+                "guid": "c774952849d43b340bc9a92f3db5a8b4"
+            },
+            {
+                "$type": 2,
+                "name": "TechnologyRefectory",
+                "path": "Assets/Data/Common/TechTree/Technologies/Buildings/Refectory/TechnologyRefectory.asset",
+                "type": "BulwarkStudios.Stanford.Common.TechTree.TechnologyData",
+                "guid": "5f889fab53549c745bf524ba76e0c4ee"
+            },
+            {
+                "$type": 2,
+                "name": "TechnologyEVAAirlock",
+                "path": "Assets/Data/Common/TechTree/Technologies/Buildings/EVAAirlock/TechnologyEVAAirlock.asset",
+                "type": "BulwarkStudios.Stanford.Common.TechTree.TechnologyData",
+                "guid": "2964a9e7cb018fe4a83a44ab0f27feec"
+            },
+            {
+                "$type": 2,
+                "name": "TechnologyVohleEngine",
+                "path": "Assets/Data/Common/TechTree/Technologies/Station/Vohle/TechnologyVohleEngine.asset",
+                "type": "BulwarkStudios.Stanford.Common.TechTree.TechnologyData",
+                "guid": "9031b93c025d4bb42a2d3c0af314b599"
+            },
+            {
+                "$type": 2,
+                "name": "TechnologyInsectFarm",
+                "path": "Assets/Data/Common/TechTree/Technologies/Buildings/InsectFarm/TechnologyInsectFarm.asset",
+                "type": "BulwarkStudios.Stanford.Common.TechTree.TechnologyData",
+                "guid": "cf51919b7afbfc24caeafcf489a296be"
+            },
+            {
+                "$type": 2,
+                "name": "TechnologyProbeLauncher",
+                "path": "Assets/Data/Common/TechTree/Technologies/Buildings/ProbeLauncher/TechnologyProbeLauncher.asset",
+                "type": "BulwarkStudios.Stanford.Common.TechTree.TechnologyData",
+                "guid": "2df50e27b76c02c49b8314fe0529288c"
+            },
+            {
+                "$type": 2,
+                "name": "BaseQuarter",
+                "path": "Assets/Data/Torus/Buildings/Population/BaseQuarter.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Buildings.BuildingData",
+                "guid": "3790242a7cd4f4845be7308aea2355bf"
+            },
+            {
+                "$type": 2,
+                "name": "TechLab",
+                "path": "Assets/Data/Torus/Buildings/Factories/TechLab.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Buildings.BuildingData",
+                "guid": "2735837e8ac1aeb45af8bb41e138ac80"
+            },
+            {
+                "$type": 2,
+                "name": "Infirmary",
+                "path": "Assets/Data/Torus/Buildings/Population/Infirmary.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Buildings.BuildingData",
+                "guid": "84332a0c8268ded4dbb873b6988c33f8"
+            },
+            {
+                "$type": 2,
+                "name": "DockingBay",
+                "path": "Assets/Data/Torus/Buildings/Exterior/DockingBay.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Buildings.BuildingData",
+                "guid": "4fe15dea9130f434094adc58cda8ee9c"
+            },
+            {
+                "$type": 2,
+                "name": "Workshop",
+                "path": "Assets/Data/Torus/Buildings/Maintenance/Workshop.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Buildings.BuildingData",
+                "guid": "ea04c57325425cf45b6ea6398f78a1cd"
+            },
+            {
+                "$type": 2,
+                "name": "StockpileSmall",
+                "path": "Assets/Data/Torus/Buildings/Maintenance/StockpileSmall.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Buildings.BuildingData",
+                "guid": "bbc91bd4406ea714591d08c2f74a4561"
+            },
+            {
+                "$type": 2,
+                "name": "Refectory",
+                "path": "Assets/Data/Torus/Buildings/Food/Refectory.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Buildings.BuildingData",
+                "guid": "d49c18f7ab709ff4592f52134617f870"
+            },
+            {
+                "$type": 2,
+                "name": "EVAAirlock",
+                "path": "Assets/Data/Torus/Buildings/Exterior/EVAAirlock.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Buildings.BuildingData",
+                "guid": "6ba8bf9f2a199a74fb29b9f8456f3cb0"
+            },
+            {
+                "$type": 2,
+                "name": "InsectFarm",
+                "path": "Assets/Data/Torus/Buildings/Food/InsectFarm.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Buildings.BuildingData",
+                "guid": "3620f795c0d2733479b54c65393da665"
+            },
+            {
+                "$type": 2,
+                "name": "ProbeLauncher",
+                "path": "Assets/Data/Torus/Buildings/Exterior/ProbeLauncher.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Buildings.BuildingData",
+                "guid": "a116f0127c781a84a8b05829527c1541"
+            },
+            {
+                "$type": 2,
+                "name": "Probe",
+                "path": "Assets/Data/SolarSystem/SpaceVehicle/Probe.asset",
+                "type": "BulwarkStudios.Stanford.SolarSystem.SpaceVehicles.SpaceVehicleData",
+                "guid": "0c3d412ec97dc1e4da91afde2e021f21"
+            },
+            {
+                "$type": 2,
+                "name": "EVAModuleSolarPanels1",
+                "path": "Assets/Data/Ship/EVAModules/EVAModuleSolarPanels1.asset",
+                "type": "BulwarkStudios.Stanford.Ship.ExtraTiqqunModules.EVAModuleData",
+                "guid": "a3f519b83c8101f41aa6a68ee6ac67cb"
+            },
+            {
+                "$type": 2,
+                "name": "EVAModuleVohleEngine",
+                "path": "Assets/Data/Ship/EVAModules/EVAModuleVohleEngine.asset",
+                "type": "BulwarkStudios.Stanford.Ship.ExtraTiqqunModules.EVAModuleData",
+                "guid": "e0ec49f3990b0de4980eb7b2b214a509"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Food_01",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Food/IE_Food_01.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "9cfa319d897960143b5714786ade0917"
+            },
+            {
+                "$type": 2,
+                "name": "IE_House_01",
+                "path": "Assets/Data/Common/DLS/InternalEvents/House/IE_House_01.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "84d6f0d15ab4a5441a8d3e6639ee2ec5"
+            },
+            {
+                "$type": 2,
+                "name": "PR_S_Moon_2_Explore",
+                "path": "Assets/Data/Common/DLS/ExternalEvents/Prologue/PR_S_Moon_2_Explore.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "8343f060c27f16d44ad34e292a08f497"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Work_01",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Work/IE_Work_01.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "24dac743d74524745b6f070c761879fc"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Food_02",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Food/IE_Food_02.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "ed749019d3c87604f9ab9a9aa073e624"
+            },
+            {
+                "$type": 2,
+                "name": "PR_S_Saturn_1_Scan",
+                "path": "Assets/Data/Common/DLS/ExternalEvents/Prologue/PR_S_Saturn_1_Scan.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "f2fe3874c9d3ecf439f7aeff52227445"
+            },
+            {
+                "$type": 2,
+                "name": "PR_S_Mars_1_Scan",
+                "path": "Assets/Data/Common/DLS/ExternalEvents/Prologue/PR_S_Mars_1_Scan.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "188fdf55e4abe754a86c0d83eefcfa0b"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Story_07",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Story/C1/IE_Story_07.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "d2d55af638f5ae443bbbbda4619bfb8c"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Story_01",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Story/C1/IE_Story_01.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "a26e1760da7a62b44ae7ac072e44d044"
+            },
+            {
+                "$type": 2,
+                "name": "PR_S_OuterHope_1_Explore",
+                "path": "Assets/Data/Common/DLS/ExternalEvents/Prologue/PR_S_OuterHope_1_Explore.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "4cebe92ded3a010459888b12c47f783d"
+            },
+            {
+                "$type": 2,
+                "name": "C1_S_Debfield_1",
+                "path": "Assets/Data/Common/DLS/ExternalEvents/Chapter1/C1_S_Debfield_1.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "c1a5ae46294f2534fa736d2983c8874b"
+            },
+            {
+                "$type": 2,
+                "name": "C1_S_Venus_1",
+                "path": "Assets/Data/Common/DLS/ExternalEvents/Chapter1/C1_S_Venus_1.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "01f62f01de7846d4abb5f271af94df47"
+            },
+            {
+                "$type": 2,
+                "name": "C1_S_MiningFactory_1",
+                "path": "Assets/Data/Common/DLS/ExternalEvents/Chapter1/C1_S_MiningFactory_1.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "9e375889d6d26fa41b4ae4163f3b1c87"
+            },
+            {
+                "$type": 2,
+                "name": "C1_S_Urshanabi",
+                "path": "Assets/Data/Common/DLS/ExternalEvents/Chapter1/C1_S_Urshanabi.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "0d32dab1fb8354a40ad7d5b7c352b9de"
+            },
+            {
+                "$type": 2,
+                "name": "C1_S_Uranus",
+                "path": "Assets/Data/Common/DLS/ExternalEvents/Chapter1/C1_S_Uranus.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "39a102b063e89d04e9f4640424ff632d"
+            },
+            {
+                "$type": 2,
+                "name": "C1_S_Mars_1",
+                "path": "Assets/Data/Common/DLS/ExternalEvents/Chapter1/C1_S_Mars_1.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "200e15e5fd624934f868404bd616af8b"
+            },
+            {
+                "$type": 2,
+                "name": "C1_S_Mars_2",
+                "path": "Assets/Data/Common/DLS/ExternalEvents/Chapter1/C1_S_Mars_2.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "a8e9529fcf933694f9fcff7f8667868d"
+            },
+            {
+                "$type": 2,
+                "name": "C1_S_Neptune_1",
+                "path": "Assets/Data/Common/DLS/ExternalEvents/Chapter1/C1_S_Neptune_1.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "37cc234f8ed134c42aa9f5863dc1e292"
+            },
+            {
+                "$type": 2,
+                "name": "C1_S_Saturn_1",
+                "path": "Assets/Data/Common/DLS/ExternalEvents/Chapter1/C1_S_Saturn_1.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "3ded28d6078377d4baf4036f10b02f90"
+            },
+            {
+                "$type": 2,
+                "name": "C1_S_Earth",
+                "path": "Assets/Data/Common/DLS/ExternalEvents/Chapter1/C1_S_Earth.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "9684c3239fcdfe044bb336be35fbd239"
+            },
+            {
+                "$type": 2,
+                "name": "TechnologyMemorial",
+                "path": "Assets/Data/Common/TechTree/Technologies/Buildings/Memorial/TechnologyMemorial.asset",
+                "type": "BulwarkStudios.Stanford.Common.TechTree.TechnologyData",
+                "guid": "ac6c8588c9669a94481030620eb64f3e"
+            },
+            {
+                "$type": 2,
+                "name": "TechnologyGateway",
+                "path": "Assets/Data/Common/TechTree/Technologies/Buildings/Gateway/TechnologyGateway.asset",
+                "type": "BulwarkStudios.Stanford.Common.TechTree.TechnologyData",
+                "guid": "1dd938710ddced74e9a81e000156449f"
+            },
+            {
+                "$type": 2,
+                "name": "TechnologySolarPanels",
+                "path": "Assets/Data/Common/TechTree/Technologies/Station/SolarPanels/TechnologySolarPanels.asset",
+                "type": "BulwarkStudios.Stanford.Common.TechTree.TechnologyData",
+                "guid": "ddec8c8f7214f3346926895ba26e83bd"
+            },
+            {
+                "$type": 2,
+                "name": "TechnologyQuarter",
+                "path": "Assets/Data/Common/TechTree/Technologies/Buildings/Quarter/TechnologyQuarter.asset",
+                "type": "BulwarkStudios.Stanford.Common.TechTree.TechnologyData",
+                "guid": "e8017e20f279dd144a92caf48ab517eb"
+            },
+            {
+                "$type": 2,
+                "name": "TechnologyEKP",
+                "path": "Assets/Data/Common/TechTree/Technologies/Station/EKP/TechnologyEKP.asset",
+                "type": "BulwarkStudios.Stanford.Common.TechTree.TechnologyData",
+                "guid": "72605cc51a476b946bae9d0e8045f029"
+            },
+            {
+                "$type": 2,
+                "name": "TechnologyHull",
+                "path": "Assets/Data/Common/TechTree/Technologies/Station/Hull/TechnologyHull.asset",
+                "type": "BulwarkStudios.Stanford.Common.TechTree.TechnologyData",
+                "guid": "a707816fa56217043a011afd163c6d99"
+            },
+            {
+                "$type": 2,
+                "name": "TechnologyTechLab",
+                "path": "Assets/Data/Common/TechTree/Technologies/Buildings/TechLab/TechnologyTechLab.asset",
+                "type": "BulwarkStudios.Stanford.Common.TechTree.TechnologyData",
+                "guid": "c2eabeebea1ba954a980b27793e310d7"
+            },
+            {
+                "$type": 2,
+                "name": "TechnologyInfirmary",
+                "path": "Assets/Data/Common/TechTree/Technologies/Buildings/Infirmary/TechnologyInfirmary.asset",
+                "type": "BulwarkStudios.Stanford.Common.TechTree.TechnologyData",
+                "guid": "ec729a57b2f56cc4baaa839053d7dacf"
+            },
+            {
+                "$type": 2,
+                "name": "TechnologyDockingBay",
+                "path": "Assets/Data/Common/TechTree/Technologies/Buildings/DockingBay/TechnologyDockingBay.asset",
+                "type": "BulwarkStudios.Stanford.Common.TechTree.TechnologyData",
+                "guid": "c9131d98f1c23e0448dab58244bcd487"
+            },
+            {
+                "$type": 2,
+                "name": "TechnologyWorkshop",
+                "path": "Assets/Data/Common/TechTree/Technologies/Buildings/Workshop/TechnologyWorkshop.asset",
+                "type": "BulwarkStudios.Stanford.Common.TechTree.TechnologyData",
+                "guid": "f38fdb697bad0634680ea7b5cac9f638"
+            },
+            {
+                "$type": 2,
+                "name": "TechnologyStockpile",
+                "path": "Assets/Data/Common/TechTree/Technologies/Buildings/Stockpile/TechnologyStockpile.asset",
+                "type": "BulwarkStudios.Stanford.Common.TechTree.TechnologyData",
+                "guid": "fda777f0b9159ef4d95bbfb69d949793"
+            },
+            {
+                "$type": 2,
+                "name": "TechnologyMiningShip",
+                "path": "Assets/Data/Common/TechTree/Technologies/Station/Fleet/MiningShip/TechnologyMiningShip.asset",
+                "type": "BulwarkStudios.Stanford.Common.TechTree.TechnologyData",
+                "guid": "c963fb9c56d54d3468c6e638d4e6368b"
+            },
+            {
+                "$type": 2,
+                "name": "TechnologyScienceShip",
+                "path": "Assets/Data/Common/TechTree/Technologies/Station/Fleet/ScienceShip/TechnologyScienceShip.asset",
+                "type": "BulwarkStudios.Stanford.Common.TechTree.TechnologyData",
+                "guid": "ac3b82c1b0ac68142a6a82024136db1a"
+            },
+            {
+                "$type": 2,
+                "name": "TechnologyCargoShip",
+                "path": "Assets/Data/Common/TechTree/Technologies/Station/Fleet/CargoShip/TechnologyCargoShip.asset",
+                "type": "BulwarkStudios.Stanford.Common.TechTree.TechnologyData",
+                "guid": "4ad46eaaee478c94eb009a8fa457eaf7"
+            },
+            {
+                "$type": 2,
+                "name": "C1_Main_Objective_Feed_The_Crew",
+                "path": "Assets/Data/Common/ObjectiveSystem/Chapter1/New/Main/C1_Main_Objective_Feed_The_Crew.asset",
+                "type": "BulwarkStudios.Stanford.ObjectiveSystem.ObjectiveContainer",
+                "guid": "f32c10f752ee78e4ba58403c00fca106"
+            },
+            {
+                "$type": 2,
+                "name": "C1_Main_Objective_Repair_Tiqqun",
+                "path": "Assets/Data/Common/ObjectiveSystem/Chapter1/New/Main/C1_Main_Objective_Repair_Tiqqun.asset",
+                "type": "BulwarkStudios.Stanford.ObjectiveSystem.ObjectiveContainer",
+                "guid": "b7ce14c19035aef4f88fd5b4d96c4c6a"
+            },
+            {
+                "$type": 2,
+                "name": "Objective_IE_Story_01_ExploreEarth",
+                "path": "Assets/Data/Common/ObjectiveSystem/InternalEventsRelated/Story/Objective_IE_Story_01_ExploreEarth.asset",
+                "type": "BulwarkStudios.Stanford.ObjectiveSystem.ObjectiveContainer",
+                "guid": "11600da2e5ead014fbaae023ce03f931"
+            },
+            {
+                "$type": 2,
+                "name": "Objective_C0_1_Establish_Basecamp",
+                "path": "Assets/Data/Common/ObjectiveSystem/Chapter0/Main/Objective_C0_1_Establish_Basecamp.asset",
+                "type": "BulwarkStudios.Stanford.ObjectiveSystem.ObjectiveContainer",
+                "guid": "a5cb5450fe15c38429cd3632732d60dc"
+            },
+            {
+                "$type": 2,
+                "name": "Objective_IE_House_01_BuildHouses",
+                "path": "Assets/Data/Common/ObjectiveSystem/InternalEventsRelated/House/Objective_IE_House_01_BuildHouses.asset",
+                "type": "BulwarkStudios.Stanford.ObjectiveSystem.ObjectiveContainer",
+                "guid": "49386f8bea177fe468891f7131a2867d"
+            },
+            {
+                "$type": 2,
+                "name": "Objective_C0_2_Crew_Claims_Refectory",
+                "path": "Assets/Data/Common/ObjectiveSystem/Chapter0/Main/Objective_C0_2_Crew_Claims_Refectory.asset",
+                "type": "BulwarkStudios.Stanford.ObjectiveSystem.ObjectiveContainer",
+                "guid": "6d6a70f496b53c345854cb86c878ac8a"
+            },
+            {
+                "$type": 2,
+                "name": "Objective_C0_3_Space_Exploration",
+                "path": "Assets/Data/Common/ObjectiveSystem/Chapter0/Main/Objective_C0_3_Space_Exploration.asset",
+                "type": "BulwarkStudios.Stanford.ObjectiveSystem.ObjectiveContainer",
+                "guid": "ad0b28b073494bd479b54fd6e9f9b4e6"
+            },
+            {
+                "$type": 2,
+                "name": "Objective_C0_EmpowerTiqqun",
+                "path": "Assets/Data/Common/ObjectiveSystem/Chapter0/Secondary/Objective_C0_EmpowerTiqqun.asset",
+                "type": "BulwarkStudios.Stanford.ObjectiveSystem.ObjectiveContainer",
+                "guid": "c7d88ea75bb3161469a19a5803f78a9e"
+            },
+            {
+                "$type": 2,
+                "name": "Objective_IE_Work_01_AskForWorkforce",
+                "path": "Assets/Data/Common/ObjectiveSystem/InternalEventsRelated/Work/Objective_IE_Work_01_AskForWorkforce.asset",
+                "type": "BulwarkStudios.Stanford.ObjectiveSystem.ObjectiveContainer",
+                "guid": "5602254d9f5e6cf4d96023577b4d265b"
+            },
+            {
+                "$type": 2,
+                "name": "Objective_C0_4_Build_Vohle",
+                "path": "Assets/Data/Common/ObjectiveSystem/Chapter0/Main/Objective_C0_4_Build_Vohle.asset",
+                "type": "BulwarkStudios.Stanford.ObjectiveSystem.ObjectiveContainer",
+                "guid": "94fb7de21c85fa94aba0d692e5ec0a60"
+            },
+            {
+                "$type": 2,
+                "name": "Objective_IE_Food_02_Build_2_Insect_Farms",
+                "path": "Assets/Data/Common/ObjectiveSystem/InternalEventsRelated/Food/Objective_IE_Food_02_Build_2_Insect_Farms.asset",
+                "type": "BulwarkStudios.Stanford.ObjectiveSystem.ObjectiveContainer",
+                "guid": "fd84ae31a2972334e9d1c64df1525987"
+            },
+            {
+                "$type": 2,
+                "name": "Objective_C0_5_LeaveSolarSystem",
+                "path": "Assets/Data/Common/ObjectiveSystem/Chapter0/Main/Objective_C0_5_LeaveSolarSystem.asset",
+                "type": "BulwarkStudios.Stanford.ObjectiveSystem.ObjectiveContainer",
+                "guid": "7e15e856378e7fd4e91606880f1151eb"
+            },
+            {
+                "$type": 2,
+                "name": "EDDEN-C102",
+                "path": "Assets/Data/Common/Dialogs/Dialogs/Chapter1/EDDEN-C102.asset",
+                "type": "BulwarkStudios.Stanford.Common.Dialog.DialogData",
+                "guid": "f9f58c67e3244bf43af63b4c4da88719"
+            },
+            {
+                "$type": 2,
+                "name": "Sector1",
+                "path": "Assets/Data/Torus/Sectors/Sector1.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Sectors.TorusSectorData",
+                "guid": "6f2f165520675224cbbbf0a53c7b61d0"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Situation_07",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Situation/IE_Situation_07.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "5e4ec44b82d6cfb458cf76df59585f54"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Mental_03",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Mental/IE_Mental_03.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "7a4d6e7061aa7d14c8eb32ef233bbf7c"
+            },
+            {
+                "$type": 2,
+                "name": "Chapter1EventsData",
+                "path": "Assets/Data/Chapter/ChapterEvents/Chapter1EventsData.asset",
+                "type": "BulwarkStudios.Stanford.ObjectiveSystem.ChapterEventsData",
+                "guid": "e07d3b38b00f848439bcf332ad598cfd"
+            },
+            {
+                "$type": 2,
+                "name": "StellarStormEffectId",
+                "path": "Assets/Data/SolarSystem/Weathers/Effects/Ids/StellarStormEffectId.asset",
+                "type": "BulwarkStudios.Stanford.Common.Weather.TorusWeatherEffectId",
+                "guid": "e8d3468354c20454fa165fc76aea339e"
+            },
+            {
+                "$type": 2,
+                "name": "IceMistEffectId",
+                "path": "Assets/Data/SolarSystem/Weathers/Effects/Ids/IceMistEffectId.asset",
+                "type": "BulwarkStudios.Stanford.Common.Weather.TorusWeatherEffectId",
+                "guid": "93561acdaf03bf5409e75517f3ac3d61"
+            },
+            {
+                "$type": 2,
+                "name": "TidalStellarTempestEffectId",
+                "path": "Assets/Data/SolarSystem/Weathers/Effects/Ids/TidalStellarTempestEffectId.asset",
+                "type": "BulwarkStudios.Stanford.Common.Weather.TorusWeatherEffectId",
+                "guid": "a0fd99accc9b2d2498a0bcbc3c87cefe"
+            },
+            {
+                "$type": 2,
+                "name": "MagnetizedDustCloudsEffectId",
+                "path": "Assets/Data/SolarSystem/Weathers/Effects/Ids/MagnetizedDustCloudsEffectId.asset",
+                "type": "BulwarkStudios.Stanford.Common.Weather.TorusWeatherEffectId",
+                "guid": "f9c135d91ede4c74ca7709c39ce623d3"
+            },
+            {
+                "$type": 2,
+                "name": "DroneSwarmEffectId",
+                "path": "Assets/Data/SolarSystem/Weathers/Effects/Ids/DroneSwarmEffectId.asset",
+                "type": "BulwarkStudios.Stanford.Common.Weather.TorusWeatherEffectId",
+                "guid": "46e650228f5d30f468e9bec4b1dfd107"
+            },
+            {
+                "$type": 2,
+                "name": "CorpseFieldEffectId",
+                "path": "Assets/Data/SolarSystem/Weathers/Effects/Ids/CorpseFieldEffectId.asset",
+                "type": "BulwarkStudios.Stanford.Common.Weather.TorusWeatherEffectId",
+                "guid": "ca5bda3ea64b2cc4692ac1326251bfb1"
+            },
+            {
+                "$type": 2,
+                "name": "Construction",
+                "path": "Assets/Data/Torus/Buildings/Categories/Construction.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Buildings.BuildingCategory",
+                "guid": "8448d05b95a754d46b2f46610036873d"
+            },
+            {
+                "$type": 2,
+                "name": "Health",
+                "path": "Assets/Data/Torus/Buildings/Categories/Health.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Buildings.BuildingCategory",
+                "guid": "1da5d7e9889b15f4a835de2a9ca08c43"
+            },
+            {
+                "$type": 2,
+                "name": "Housing",
+                "path": "Assets/Data/Torus/Buildings/Categories/Housing.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Buildings.BuildingCategory",
+                "guid": "0321033d46eb0f24cb96d6700a8080a2"
+            },
+            {
+                "$type": 2,
+                "name": "Structure",
+                "path": "Assets/Data/Torus/Buildings/Categories/Structure.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Buildings.BuildingCategory",
+                "guid": "574bb865354e46e4599f93dd8725f28c"
+            },
+            {
+                "$type": 2,
+                "name": "Food",
+                "path": "Assets/Data/Torus/Buildings/Categories/Food.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Buildings.BuildingCategory",
+                "guid": "08d8dce1675fd304c81213c10fdee793"
+            },
+            {
+                "$type": 2,
+                "name": "Factories",
+                "path": "Assets/Data/Torus/Buildings/Categories/Factories.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Buildings.BuildingCategory",
+                "guid": "c737d416ba6a2824ba7f477ec1f85242"
+            },
+            {
+                "$type": 2,
+                "name": "Services",
+                "path": "Assets/Data/Torus/Buildings/Categories/Services.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Buildings.BuildingCategory",
+                "guid": "9cb25c352bde4f743837df3f864629a8"
+            },
+            {
+                "$type": 2,
+                "name": "Electricity",
+                "path": "Assets/Data/Torus/Buildings/Categories/Electricity.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Buildings.BuildingCategory",
+                "guid": "77e9f68d94cabef4b9df3f66f1062515"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Cryo_01",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Cryo/IE_Cryo_01.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "473e7a308d592904dab9929963e07366"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Cryo_02",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Cryo/IE_Cryo_02.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "1d85a82e5cd533648835234630214d0a"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Cryo_03",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Cryo/IE_Cryo_03.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "95287d2238ec0dd4f83b6fece55facfd"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Food_03",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Food/IE_Food_03.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "1b7b8ac51d6e9494d92425a1b1a6c7bb"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Food_04",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Food/IE_Food_04.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "f7e359d40a03aa14a9ad7cb9c8fc5d89"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Food_05",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Food/IE_Food_05.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "bee23c6631cc6c64eb77188b03b906bb"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Food_06",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Food/IE_Food_06.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "b0558d1f71f883141a4ec5a91210bfc6"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Food_07",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Food/IE_Food_07.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "9e59a1583bbb50a4d92156709fdc3de5"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Food_08",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Food/IE_Food_08.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "e5f37a1fdd1d00942b06145c94741a04"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Food_09",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Food/IE_Food_09.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "00ee1473e2a3df34b94190ef1b31d1c4"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Happy_01",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Happy/IE_Happy_01.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "3b90855421e2af548afc5621af2ee604"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Happy_02",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Happy/IE_Happy_02.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "71744da5ac4ac744d9442a5edf920a0f"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Happy_03",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Happy/IE_Happy_03.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "b57d04eee18d1e74eb809ff2947c39b5"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Happy_04",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Happy/IE_Happy_04.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "04e709cd080d26048b8e1bde6ce93ab4"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Happy_05",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Happy/IE_Happy_05.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "b7bac797d857f5c4ca65612ac0528b75"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Happy_06",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Happy/IE_Happy_06.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "e61a2b7b433d4a34e9baca6f79cc1338"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Happy_07",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Happy/IE_Happy_07.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "97e1ebfd10fc2014ebd9dca3d2b65cf3"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Health_01",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Health/IE_Health_01.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "99037c70b3a5fa848bcf4b0e077e1800"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Health_02",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Health/IE_Health_02.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "beeef41c35f082649b2d533f85a9cc65"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Health_04",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Health/IE_Health_04.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "0461cef4e8122aa4bb66a7ee41c6025e"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Health_05",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Health/IE_Health_05.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "002f1a9157537a34587e6fd5112497f6"
+            },
+            {
+                "$type": 2,
+                "name": "IE_House_02",
+                "path": "Assets/Data/Common/DLS/InternalEvents/House/IE_House_02.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "efd50941a2de5004a81144466fbfe8d1"
+            },
+            {
+                "$type": 2,
+                "name": "IE_House_03",
+                "path": "Assets/Data/Common/DLS/InternalEvents/House/IE_House_03.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "ebd4ba6b5cc08b040895d43a35806e13"
+            },
+            {
+                "$type": 2,
+                "name": "IE_House_05",
+                "path": "Assets/Data/Common/DLS/InternalEvents/House/IE_House_05.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "b0eb76c4d381d624aab52b7a50c67556"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Hull_01",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Hull/IE_Hull_01.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "c2569111a863d914c825b817957bed80"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Hull_02",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Hull/IE_Hull_02.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "1d8473f7c31681843be64748b5580945"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Hull_03",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Hull/IE_Hull_03.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "089db901e2acbdc469112ac2b8653727"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Mental_12",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Mental/IE_Mental_12.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "5abf65edc8eef5e4cb07577c35a1f674"
+            },
+            {
+                "$type": 2,
+                "name": "C4_The_Piranesi",
+                "path": "Assets/Data/SolarSystem/CelestialObjects/Chapter4/C4_The_Piranesi.asset",
+                "type": "BulwarkStudios.Stanford.SolarSystem.StellarObjects.StellarObjectData",
+                "guid": "2ff2fc733d6f7ca4dad50ad505816958"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Mental_15",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Mental/IE_Mental_15.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "e7f38060f0002074d905a078aed066ce"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Mental_16",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Mental/IE_Mental_16.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "e04212a0c8f87f34f801f27bf6073c84"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Mental_17",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Mental/IE_Mental_17.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "536edbd042b8d1e4d8cd1c7e139314e1"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Mental_18",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Mental/IE_Mental_18.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "8e3dc17fe151dcd4396c80d00e6d9c15"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Mental_19",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Mental/IE_Mental_19.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "7e9c94d574eebf1498f86bdf6bcab581"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Mental_20",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Mental/IE_Mental_20.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "a57ed4f316c774c45b0fa7e38768c5bd"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Mental_21",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Mental/IE_Mental_21.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "897512343922c724aa5a85039e4446d8"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Mental_22",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Mental/IE_Mental_22.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "05ab0c9bb2f9b39468c6d6197a2eb2bf"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Mental_23",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Mental/IE_Mental_23.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "b88e3c3b107ba9743873c7d9a880e8a5"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Situation_01",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Situation/IE_Situation_01.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "949a7f2019af6c148965e8a9597d6d22"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Situation_02",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Situation/IE_Situation_02.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "148204fd37bfa064ea4aa7544e0e06c5"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Situation_03",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Situation/IE_Situation_03.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "4a04ce65ed68b25418a87b1147153810"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Situation_04",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Situation/IE_Situation_04.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "d010b0b190fd29c49a9d2fdc5e6162c5"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Situation_05",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Situation/IE_Situation_05.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "7bd491af98468c64a841694a96a02159"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Situation_06",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Situation/IE_Situation_06.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "faeefce7e4a2fa04da74c6960f12bcf2"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Story_12",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Story/C3/IE_Story_12.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "b76b40fced689f64299c186ee0a485a0"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Story_14",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Story/C3/IE_Story_14.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "f6c6e75b50bb2314492cdc365ca6055f"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Story_20",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Story/C3/IE_Story_20.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "a7108642a4e4b194183dbd2136c3e181"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Story_21",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Story/C4/IE_Story_21.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "8682b1b9ffb2e09429a1660acdef46c0"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Story_24",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Story/C3/IE_Story_24.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "7564b5c8967f09e4ba6e78e274840b3f"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Story_25",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Story/C3/IE_Story_25.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "f05e2537250f9dd4093c3932599487c9"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Story_37",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Story/C3/IE_Story_37.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "df89953ca50e24744bd8cdae174dc3f0"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Trust_01",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Trust/IE_Trust_01.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "759e315e14b5edd4a85b2ef67449430a"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Trust_02",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Trust/IE_Trust_02.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "9cac4ef920cba814fb517c9ba5dad03e"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Trust_03",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Trust/IE_Trust_03.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "24d4d5236fb3a0848b504d98273f535b"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Work_02",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Work/IE_Work_02.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "293ce3deea6c6af49a8a09b91c425ed9"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Work_03",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Work/IE_Work_03.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "1f6f4edd45e24804aa956e0a201f3840"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Work_04",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Work/IE_Work_04.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "da1bfb4683395284e8b8149ac4056c50"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Work_05",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Work/IE_Work_05.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "22416e22c41887348a141fbb76e56f17"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Work_06",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Work/IE_Work_06.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "6c7f77da39b21e049a8f44c7e413c480"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Work_07",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Work/IE_Work_07.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "5e9c0093dfe5f7941a2e24f5493a47d4"
+            },
+            {
+                "$type": 2,
+                "name": "IE_Work_08",
+                "path": "Assets/Data/Common/DLS/InternalEvents/Work/IE_Work_08.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "a91da1e09fc9b8e41b75bec764a52dcb"
+            }
+        ]
+    }
+}
