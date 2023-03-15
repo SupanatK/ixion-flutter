@@ -1,0 +1,186 @@
+{
+    "$id": 0,
+    "$type": "0|BulwarkStudios.Stanford.Saves.SaveDataReference, BulwarkStudios.Stanford",
+    "refObjects": {
+        "$id": 1,
+        "$type": "1|System.Collections.Generic.List`1[[BulwarkStudios.Stanford.Saves.SaveDataReference+DataRefObject, BulwarkStudios.Stanford]], mscorlib",
+        "$rlength": 25,
+        "$rcontent": [
+            {
+                "$type": "2|BulwarkStudios.Stanford.Saves.SaveDataReference+DataRefObject, BulwarkStudios.Stanford",
+                "name": "EVAModuleVohleEngine",
+                "path": "Assets/Data/Ship/EVAModules/EVAModuleVohleEngine.asset",
+                "type": "BulwarkStudios.Stanford.Ship.ExtraTiqqunModules.EVAModuleData",
+                "guid": "e0ec49f3990b0de4980eb7b2b214a509"
+            },
+            {
+                "$type": 2,
+                "name": "EVAModuleSolarPanels1",
+                "path": "Assets/Data/Ship/EVAModules/EVAModuleSolarPanels1.asset",
+                "type": "BulwarkStudios.Stanford.Ship.ExtraTiqqunModules.EVAModuleData",
+                "guid": "a3f519b83c8101f41aa6a68ee6ac67cb"
+            },
+            {
+                "$type": 2,
+                "name": "Section1",
+                "path": "Assets/Data/Ship/EVAModules/SolarPanel1/Section1.asset",
+                "type": "BulwarkStudios.Stanford.Ship.ExtraTiqqunModules.SolarPanelData",
+                "guid": "0307c3165e048f044badf7d7596e0194"
+            },
+            {
+                "$type": 2,
+                "name": "Section2",
+                "path": "Assets/Data/Ship/EVAModules/SolarPanel1/Section2.asset",
+                "type": "BulwarkStudios.Stanford.Ship.ExtraTiqqunModules.SolarPanelData",
+                "guid": "e02609af0d93397419483e3570763a05"
+            },
+            {
+                "$type": 2,
+                "name": "Section3",
+                "path": "Assets/Data/Ship/EVAModules/SolarPanel1/Section3.asset",
+                "type": "BulwarkStudios.Stanford.Ship.ExtraTiqqunModules.SolarPanelData",
+                "guid": "206f99aeb02faa74d99489679b4c0316"
+            },
+            {
+                "$type": 2,
+                "name": "Section4",
+                "path": "Assets/Data/Ship/EVAModules/SolarPanel1/Section4.asset",
+                "type": "BulwarkStudios.Stanford.Ship.ExtraTiqqunModules.SolarPanelData",
+                "guid": "525f06866787f364fac3b458df3d6cd4"
+            },
+            {
+                "$type": 2,
+                "name": "Section5",
+                "path": "Assets/Data/Ship/EVAModules/SolarPanel1/Section5.asset",
+                "type": "BulwarkStudios.Stanford.Ship.ExtraTiqqunModules.SolarPanelData",
+                "guid": "ba2dae5b9d09e734aabb85bf20347d5e"
+            },
+            {
+                "$type": 2,
+                "name": "Section6",
+                "path": "Assets/Data/Ship/EVAModules/SolarPanel1/Section6.asset",
+                "type": "BulwarkStudios.Stanford.Ship.ExtraTiqqunModules.SolarPanelData",
+                "guid": "cd04b943a1def85439507f0b8d7bebac"
+            },
+            {
+                "$type": 2,
+                "name": "Section7",
+                "path": "Assets/Data/Ship/EVAModules/SolarPanel1/Section7.asset",
+                "type": "BulwarkStudios.Stanford.Ship.ExtraTiqqunModules.SolarPanelData",
+                "guid": "9b86f42eec3d81a4782c1079b5df5916"
+            },
+            {
+                "$type": 2,
+                "name": "Section8",
+                "path": "Assets/Data/Ship/EVAModules/SolarPanel1/Section8.asset",
+                "type": "BulwarkStudios.Stanford.Ship.ExtraTiqqunModules.SolarPanelData",
+                "guid": "5857051cb1650e045b1bf59d69e8a516"
+            },
+            {
+                "$type": 2,
+                "name": "Section9",
+                "path": "Assets/Data/Ship/EVAModules/SolarPanel1/Section9.asset",
+                "type": "BulwarkStudios.Stanford.Ship.ExtraTiqqunModules.SolarPanelData",
+                "guid": "a6a5f966f4cf55547af9a98481532971"
+            },
+            {
+                "$type": 2,
+                "name": "EVAModuleSolarPanels2",
+                "path": "Assets/Data/Ship/EVAModules/EVAModuleSolarPanels2.asset",
+                "type": "BulwarkStudios.Stanford.Ship.ExtraTiqqunModules.EVAModuleData",
+                "guid": "bca3c9e6600c94c4185c3dc0b3604b6e"
+            },
+            {
+                "$type": 2,
+                "name": "Section1",
+                "path": "Assets/Data/Ship/EVAModules/SolarPanel2/Section1.asset",
+                "type": "BulwarkStudios.Stanford.Ship.ExtraTiqqunModules.SolarPanelData",
+                "guid": "9b0ffe6437b61a042aaad11e7c2f97f9"
+            },
+            {
+                "$type": 2,
+                "name": "Section2",
+                "path": "Assets/Data/Ship/EVAModules/SolarPanel2/Section2.asset",
+                "type": "BulwarkStudios.Stanford.Ship.ExtraTiqqunModules.SolarPanelData",
+                "guid": "b23f33f0157fc2c4aa974450ab4585fe"
+            },
+            {
+                "$type": 2,
+                "name": "Section3",
+                "path": "Assets/Data/Ship/EVAModules/SolarPanel2/Section3.asset",
+                "type": "BulwarkStudios.Stanford.Ship.ExtraTiqqunModules.SolarPanelData",
+                "guid": "772c0a71c1841f0458de5555b25985fe"
+            },
+            {
+                "$type": 2,
+                "name": "Section4",
+                "path": "Assets/Data/Ship/EVAModules/SolarPanel2/Section4.asset",
+                "type": "BulwarkStudios.Stanford.Ship.ExtraTiqqunModules.SolarPanelData",
+                "guid": "bab40bc3f261358488985b75eab7ed5c"
+            },
+            {
+                "$type": 2,
+                "name": "Section5",
+                "path": "Assets/Data/Ship/EVAModules/SolarPanel2/Section5.asset",
+                "type": "BulwarkStudios.Stanford.Ship.ExtraTiqqunModules.SolarPanelData",
+                "guid": "4a8aef7302dcad54391018a0a4c0489c"
+            },
+            {
+                "$type": 2,
+                "name": "Section6",
+                "path": "Assets/Data/Ship/EVAModules/SolarPanel2/Section6.asset",
+                "type": "BulwarkStudios.Stanford.Ship.ExtraTiqqunModules.SolarPanelData",
+                "guid": "b15dcf0e7c96e8b4183b968219a93564"
+            },
+            {
+                "$type": 2,
+                "name": "Section7",
+                "path": "Assets/Data/Ship/EVAModules/SolarPanel2/Section7.asset",
+                "type": "BulwarkStudios.Stanford.Ship.ExtraTiqqunModules.SolarPanelData",
+                "guid": "12a041c176c84524eadd362c35bd4788"
+            },
+            {
+                "$type": 2,
+                "name": "Section8",
+                "path": "Assets/Data/Ship/EVAModules/SolarPanel2/Section8.asset",
+                "type": "BulwarkStudios.Stanford.Ship.ExtraTiqqunModules.SolarPanelData",
+                "guid": "6758eb59e6bc22848a4f56ac83e06a0b"
+            },
+            {
+                "$type": 2,
+                "name": "Section9",
+                "path": "Assets/Data/Ship/EVAModules/SolarPanel2/Section9.asset",
+                "type": "BulwarkStudios.Stanford.Ship.ExtraTiqqunModules.SolarPanelData",
+                "guid": "04de535e87fb3f843a9c2974f3a02922"
+            },
+            {
+                "$type": 2,
+                "name": "EVAModuleFaradayCage",
+                "path": "Assets/Data/Ship/EVAModules/EVAModuleFaradayCage.asset",
+                "type": "BulwarkStudios.Stanford.Ship.ExtraTiqqunModules.EVAModuleData",
+                "guid": "b47340efbc884b1469d37234aa3146a3"
+            },
+            {
+                "$type": 2,
+                "name": "EVAModuleRetractableTelescopicPole",
+                "path": "Assets/Data/Ship/EVAModules/EVAModuleRetractableTelescopicPole.asset",
+                "type": "BulwarkStudios.Stanford.Ship.ExtraTiqqunModules.EVAModuleData",
+                "guid": "ae4946a062f644243aa07bedd3715116"
+            },
+            {
+                "$type": 2,
+                "name": "EVAModuleDroneThreatAnalysis",
+                "path": "Assets/Data/Ship/EVAModules/EVAModuleDroneThreatAnalysis.asset",
+                "type": "BulwarkStudios.Stanford.Ship.ExtraTiqqunModules.EVAModuleData",
+                "guid": "8d9d19c1838b2124bbd3b1428741c265"
+            },
+            {
+                "$type": 2,
+                "name": "EVAModuleEddenDeactivation",
+                "path": "Assets/Data/Ship/EVAModules/EVAModuleEddenDeactivation.asset",
+                "type": "BulwarkStudios.Stanford.Ship.ExtraTiqqunModules.EVAModuleData",
+                "guid": "20ff0ca585f9f674ca844898efaa6f81"
+            }
+        ]
+    }
+}

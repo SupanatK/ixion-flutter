@@ -1,0 +1,74 @@
+{
+    "$id": 0,
+    "$type": "0|BulwarkStudios.Stanford.Saves.SaveDataReference, BulwarkStudios.Stanford",
+    "refObjects": {
+        "$id": 1,
+        "$type": "1|System.Collections.Generic.List`1[[BulwarkStudios.Stanford.Saves.SaveDataReference+DataRefObject, BulwarkStudios.Stanford]], mscorlib",
+        "$rlength": 9,
+        "$rcontent": [
+            {
+                "$type": "2|BulwarkStudios.Stanford.Saves.SaveDataReference+DataRefObject, BulwarkStudios.Stanford",
+                "name": "C1_S_Debfield_1",
+                "path": "Assets/Data/Common/DLS/ExternalEvents/Chapter1/C1_S_Debfield_1.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "c1a5ae46294f2534fa736d2983c8874b"
+            },
+            {
+                "$type": 2,
+                "name": "C1_S_Venus_1",
+                "path": "Assets/Data/Common/DLS/ExternalEvents/Chapter1/C1_S_Venus_1.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "01f62f01de7846d4abb5f271af94df47"
+            },
+            {
+                "$type": 2,
+                "name": "C1_S_MiningFactory_1",
+                "path": "Assets/Data/Common/DLS/ExternalEvents/Chapter1/C1_S_MiningFactory_1.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "9e375889d6d26fa41b4ae4163f3b1c87"
+            },
+            {
+                "$type": 2,
+                "name": "C1_S_Urshanabi",
+                "path": "Assets/Data/Common/DLS/ExternalEvents/Chapter1/C1_S_Urshanabi.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "0d32dab1fb8354a40ad7d5b7c352b9de"
+            },
+            {
+                "$type": 2,
+                "name": "C1_S_Uranus",
+                "path": "Assets/Data/Common/DLS/ExternalEvents/Chapter1/C1_S_Uranus.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "39a102b063e89d04e9f4640424ff632d"
+            },
+            {
+                "$type": 2,
+                "name": "C1_S_Mars_2",
+                "path": "Assets/Data/Common/DLS/ExternalEvents/Chapter1/C1_S_Mars_2.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "a8e9529fcf933694f9fcff7f8667868d"
+            },
+            {
+                "$type": 2,
+                "name": "C1_S_Neptune_1",
+                "path": "Assets/Data/Common/DLS/ExternalEvents/Chapter1/C1_S_Neptune_1.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "37cc234f8ed134c42aa9f5863dc1e292"
+            },
+            {
+                "$type": 2,
+                "name": "C1_S_Saturn_1",
+                "path": "Assets/Data/Common/DLS/ExternalEvents/Chapter1/C1_S_Saturn_1.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "3ded28d6078377d4baf4036f10b02f90"
+            },
+            {
+                "$type": 2,
+                "name": "C1_S_Earth",
+                "path": "Assets/Data/Common/DLS/ExternalEvents/Chapter1/C1_S_Earth.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "9684c3239fcdfe044bb336be35fbd239"
+            }
+        ]
+    }
+}

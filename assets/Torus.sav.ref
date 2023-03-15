@@ -1,0 +1,25 @@
+{
+    "$id": 0,
+    "$type": "0|BulwarkStudios.Stanford.Saves.SaveDataReference, BulwarkStudios.Stanford",
+    "refObjects": {
+        "$id": 1,
+        "$type": "1|System.Collections.Generic.List`1[[BulwarkStudios.Stanford.Saves.SaveDataReference+DataRefObject, BulwarkStudios.Stanford]], mscorlib",
+        "$rlength": 2,
+        "$rcontent": [
+            {
+                "$type": "2|BulwarkStudios.Stanford.Saves.SaveDataReference+DataRefObject, BulwarkStudios.Stanford",
+                "name": "Torus",
+                "path": "Assets/Data/Torus/Torus.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Structure.TorusData",
+                "guid": "3636856c5acc34b4fba442e30d9bd014"
+            },
+            {
+                "$type": 2,
+                "name": "C1_Moon",
+                "path": "Assets/Data/SolarSystem/CelestialObjects/Chapter1/C1_Moon.asset",
+                "type": "BulwarkStudios.Stanford.SolarSystem.StellarObjects.StellarObjectData",
+                "guid": "3af25353f9ada4b4caa63583d63d4063"
+            }
+        ]
+    }
+}

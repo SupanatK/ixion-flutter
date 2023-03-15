@@ -1,0 +1,67 @@
+{
+    "$id": 0,
+    "$type": "0|BulwarkStudios.Stanford.Saves.SaveDataReference, BulwarkStudios.Stanford",
+    "refObjects": {
+        "$id": 1,
+        "$type": "1|System.Collections.Generic.List`1[[BulwarkStudios.Stanford.Saves.SaveDataReference+DataRefObject, BulwarkStudios.Stanford]], mscorlib",
+        "$rlength": 8,
+        "$rcontent": [
+            {
+                "$type": "2|BulwarkStudios.Stanford.Saves.SaveDataReference+DataRefObject, BulwarkStudios.Stanford",
+                "name": "ScienceShip",
+                "path": "Assets/Data/SolarSystem/SpaceVehicle/ScienceShip.asset",
+                "type": "BulwarkStudios.Stanford.SolarSystem.SpaceVehicles.SpaceVehicleData",
+                "guid": "8b97b8866e7e49a4e9cab8f0fdda0849"
+            },
+            {
+                "$type": 2,
+                "name": "C1_S_Earth",
+                "path": "Assets/Data/Common/DLS/ExternalEvents/Chapter1/C1_S_Earth.asset",
+                "type": "BulwarkStudios.Stanford.Common.DLS.DlsEventData",
+                "guid": "9684c3239fcdfe044bb336be35fbd239"
+            },
+            {
+                "$type": 2,
+                "name": "CargoShip",
+                "path": "Assets/Data/SolarSystem/SpaceVehicle/CargoShip.asset",
+                "type": "BulwarkStudios.Stanford.SolarSystem.SpaceVehicles.SpaceVehicleData",
+                "guid": "7ff4f26c508d4a64787196209c87207b"
+            },
+            {
+                "$type": 2,
+                "name": "Food",
+                "path": "Assets/Data/Common/ResourceTypes/Torus/Food.asset",
+                "type": "BulwarkStudios.Stanford.Core.GameResources.ResourceData",
+                "guid": "55f0ae81d4dbbef4f9d2db40db102568"
+            },
+            {
+                "$type": 2,
+                "name": "Alloy",
+                "path": "Assets/Data/Common/ResourceTypes/Torus/Alloy.asset",
+                "type": "BulwarkStudios.Stanford.Core.GameResources.ResourceData",
+                "guid": "919f1178d57ec624289193c68a6f6811"
+            },
+            {
+                "$type": 2,
+                "name": "Population",
+                "path": "Assets/Data/Common/ResourceTypes/Population.asset",
+                "type": "BulwarkStudios.Stanford.Core.GameResources.ResourceData",
+                "guid": "d6a99f5604e0edc4dbe3d641861e866e"
+            },
+            {
+                "$type": 2,
+                "name": "MiningShip",
+                "path": "Assets/Data/SolarSystem/SpaceVehicle/MiningShip.asset",
+                "type": "BulwarkStudios.Stanford.SolarSystem.SpaceVehicles.SpaceVehicleData",
+                "guid": "f46f08afbc65da14d91f3956618b2ead"
+            },
+            {
+                "$type": 2,
+                "name": "Iron",
+                "path": "Assets/Data/Common/ResourceTypes/Stellar map/Iron.asset",
+                "type": "BulwarkStudios.Stanford.Core.GameResources.ResourceData",
+                "guid": "29d32da2a71729d4cbd1bb4c650c2634"
+            }
+        ]
+    }
+}

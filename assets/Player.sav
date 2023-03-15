@@ -1,0 +1,3625 @@
+{
+    "$id": 0,
+    "$type": "0|BulwarkStudios.Stanford.Saves.SaveDataPlayer, BulwarkStudios.Stanford",
+    "state": {
+        "$id": 1,
+        "$type": "1|BulwarkStudios.Stanford.Common.Players.PlayerState, BulwarkStudios.Stanford",
+        "guid": 9cd8e9ed-0354-403b-9861-54f240c0795b,
+        "data": $eref:0,
+        "settings": {
+            "$id": 2,
+            "$type": "2|BulwarkStudios.Stanford.Common.Players.PlayerSettings, BulwarkStudios.Stanford",
+            "mode": {
+                "$id": 3,
+                "$type": "3|BulwarkStudios.Stanford.Common.Players.PlayerModeSetting, BulwarkStudios.Stanford",
+                "value": 0,
+                "data": $eref:1
+            },
+            "stockpileCapacityMultiplier": {
+                "$id": 4,
+                "$type": "4|BulwarkStudios.Stanford.Common.Players.PlayerFloatSetting, BulwarkStudios.Stanford",
+                "value": 1,
+                "data": $eref:2
+            },
+            "stockpileTransporterCountModifier": {
+                "$id": 5,
+                "$type": "5|BulwarkStudios.Stanford.Common.Players.PlayerIntSetting, BulwarkStudios.Stanford",
+                "value": 0,
+                "data": $eref:3
+            },
+            "canAddResourcesInStockpile": {
+                "$id": 6,
+                "$type": "6|BulwarkStudios.Stanford.Common.Players.PlayerBoolSetting, BulwarkStudios.Stanford",
+                "value": false,
+                "data": $eref:4
+            },
+            "disableHull": {
+                "$id": 7,
+                "$type": 6,
+                "value": false,
+                "data": $eref:5
+            },
+            "disableTrust": {
+                "$id": 8,
+                "$type": 6,
+                "value": false,
+                "data": $eref:6
+            },
+            "shipsTravelInstantly": {
+                "$id": 9,
+                "$type": 6,
+                "value": false,
+                "data": $eref:7
+            },
+            "disableShipAutonomy": {
+                "$id": 10,
+                "$type": 6,
+                "value": false,
+                "data": $eref:8
+            },
+            "buildShipsInstantly": {
+                "$id": 11,
+                "$type": 6,
+                "value": false,
+                "data": $eref:7
+            },
+            "eventOptionsCompleteInstantly": {
+                "$id": 12,
+                "$type": 6,
+                "value": false,
+                "data": $eref:9
+            },
+            "buildBuildingsInstantly": {
+                "$id": 13,
+                "$type": 6,
+                "value": false,
+                "data": $eref:10
+            },
+            "disableBuildingAccidents": {
+                "$id": 14,
+                "$type": 6,
+                "value": false,
+                "data": $eref:11
+            },
+            "disableCitizenDeath": {
+                "$id": 15,
+                "$type": 6,
+                "value": false,
+                "data": $eref:12
+            },
+            "disableCitizenInjury": {
+                "$id": 16,
+                "$type": 6,
+                "value": false,
+                "data": $eref:13
+            },
+            "disableCitizenStarving": {
+                "$id": 17,
+                "$type": 6,
+                "value": false,
+                "data": $eref:14
+            }
+        },
+        "command": {
+            "$id": 18,
+            "$type": "7|BulwarkStudios.Stanford.Common.Players.PlayerStateCommand, BulwarkStudios.Stanford",
+            "commandDlsEventPreviousTime": {
+                "$type": "8|System.TimeSpan, mscorlib",
+                86363818480000
+            }
+        },
+        "time": {
+            "$id": 19,
+            "$type": "9|BulwarkStudios.Stanford.Common.Players.PlayerStateTime, BulwarkStudios.Stanford",
+            "gameTime": {
+                "$type": 8,
+                86363818480000
+            },
+            "day": 99,
+            "mealFirstEventTriggered": false,
+            "mealSecondEventTriggered": false,
+            "stopElapsingTime": false,
+            "progressUntilNextMeal": 4.958123,
+            "controlTimeEnabled": true,
+            "disablePauseEffects": false
+        },
+        "cheat": {
+            "$id": 20,
+            "$type": "10|BulwarkStudios.Stanford.Common.Players.PlayerStateCheat, BulwarkStudios.Stanford",
+            "allStellarObjectAreAccessible": false,
+            "doNotRotateTorus": false,
+            "recordIn60fps": false,
+            "canBuildDebris": false,
+            "allTechnologiesAreUnlockable": false,
+            "unlockAllTechnologies": false
+        },
+        "custom": {
+            "$id": 21,
+            "$type": "11|BulwarkStudios.Stanford.Common.Players.PlayerStateCustom, BulwarkStudios.Stanford",
+            "hasSendUrshanabiForFood": false,
+            "scienceShipMemberFromC1MiningFactory": null,
+            "scienceShipMemberFromC1Neptune": null,
+            "scienceShipMemberFromC1Saturn": null,
+            "scienceShipMemberFromC1Uranus": null,
+            "helpedOuterHopeInC0": false,
+            "colonsSentOnDeville59": 0,
+            "scienceShipNameFromC3Doctors": null,
+            "scienceShipNameFromC2Rokatansky": null,
+            "scienceShipExpFromC2Rokatansky": 0,
+            "scienceShipLevelFromC2Rokatansky": 0,
+            "scienceShipNameFromC3P51": null,
+            "crewMembersFromC2Rokatansky": null,
+            "crewMemberFromC412H": null,
+            "crewMemberFromC3P43": null,
+            "pregnantCrewMemberFromC412L": null,
+            "crewMemberFromC5Palatin": null,
+            "crewMemberFromC412C_1": null,
+            "crewMemberFromC412C_2": null,
+            "crewMemberFromC412C_3": null,
+            "crewMemberFromC5Vulcain": null,
+            "femaleCrewMemberFromTheScientificUnion": null,
+            "executeOnChapterChanged": {
+                "$id": 22,
+                "$type": "12|System.Collections.Generic.Dictionary`2[[System.Int32, mscorlib],[System.Collections.Generic.HashSet`1[[BulwarkStudios.Stanford.Core.Execute.ExecuteContainer, BulwarkStudios.Stanford]], System.Core]], mscorlib",
+                "comparer": {
+                    "$id": 23,
+                    "$type": "13|System.Collections.Generic.GenericEqualityComparer`1[[System.Int32, mscorlib]], mscorlib"
+                },
+                "$rlength": 6,
+                "$rcontent": [
+                    {
+                        "$k": 0,
+                        "$v": {
+                            "$id": 24,
+                            "$type": "14|System.Collections.Generic.HashSet`1[[BulwarkStudios.Stanford.Core.Execute.ExecuteContainer, BulwarkStudios.Stanford]], System.Core",
+                            "$rlength": 0,
+                            "$rcontent": [
+                            ]
+                        }
+                    },
+                    {
+                        "$k": 1,
+                        "$v": {
+                            "$id": 25,
+                            "$type": 14,
+                            "$rlength": 0,
+                            "$rcontent": [
+                            ]
+                        }
+                    },
+                    {
+                        "$k": 2,
+                        "$v": {
+                            "$id": 26,
+                            "$type": 14,
+                            "$rlength": 0,
+                            "$rcontent": [
+                            ]
+                        }
+                    },
+                    {
+                        "$k": 3,
+                        "$v": {
+                            "$id": 27,
+                            "$type": 14,
+                            "$rlength": 0,
+                            "$rcontent": [
+                            ]
+                        }
+                    },
+                    {
+                        "$k": 4,
+                        "$v": {
+                            "$id": 28,
+                            "$type": 14,
+                            "$rlength": 0,
+                            "$rcontent": [
+                            ]
+                        }
+                    },
+                    {
+                        "$k": 5,
+                        "$v": {
+                            "$id": 29,
+                            "$type": 14,
+                            "$rlength": 0,
+                            "$rcontent": [
+                            ]
+                        }
+                    }
+                ]
+            },
+            "firstDeadFromStarvation": null,
+            "firstScienceShipDestroyed": null,
+            "crewMemberFromC3P51": null
+        },
+        "chapters": {
+            "$id": 30,
+            "$type": "15|BulwarkStudios.Stanford.Common.Players.PlayerStateChapter, BulwarkStudios.Stanford",
+            "current": 1,
+            "chapter0": {
+                "$id": 31,
+                "$type": "16|BulwarkStudios.Stanford.Common.Players.PlayerStateChapter+ChapterState, BulwarkStudios.Stanford",
+                "introductionViewed": true
+            },
+            "chapter1": {
+                "$id": 32,
+                "$type": 16,
+                "introductionViewed": true
+            },
+            "chapter2": {
+                "$id": 33,
+                "$type": 16,
+                "introductionViewed": false
+            },
+            "chapter3": {
+                "$id": 34,
+                "$type": 16,
+                "introductionViewed": false
+            },
+            "chapter4": {
+                "$id": 35,
+                "$type": 16,
+                "introductionViewed": false
+            },
+            "chapter5": {
+                "$id": 36,
+                "$type": 16,
+                "introductionViewed": false
+            }
+        },
+        "dialogs": {
+            "$id": 37,
+            "$type": "17|BulwarkStudios.Stanford.Common.Players.PlayerStateDialogs, BulwarkStudios.Stanford",
+            "dialogs": {
+                "$id": 38,
+                "$type": "18|System.Collections.Generic.Dictionary`2[[BulwarkStudios.Stanford.Common.Dialog.DialogData, BulwarkStudios.Stanford],[BulwarkStudios.Stanford.Common.Dialog.DialogState, BulwarkStudios.Stanford]], mscorlib",
+                "comparer": {
+                    "$id": 39,
+                    "$type": "19|System.Collections.Generic.ObjectEqualityComparer`1[[BulwarkStudios.Stanford.Common.Dialog.DialogData, BulwarkStudios.Stanford]], mscorlib"
+                },
+                "$rlength": 0,
+                "$rcontent": [
+                ]
+            },
+            "oneShotDialogs": {
+                "$id": 40,
+                "$type": "20|System.Collections.Generic.HashSet`1[[BulwarkStudios.Stanford.Common.Dialog.DialogData, BulwarkStudios.Stanford]], System.Core",
+                "$rlength": 0,
+                "$rcontent": [
+                ]
+            },
+            "currentDialogState": null,
+            "dialogQueue": {
+                "$id": 41,
+                "$type": "21|System.Collections.Generic.Queue`1[[BulwarkStudios.Stanford.Common.Dialog.DialogState, BulwarkStudios.Stanford]], mscorlib",
+                "$rlength": 0,
+                "$rcontent": [
+                ]
+            },
+            "notificationDialogState": null,
+            "modeBeforeNormalize": 0,
+            "currentTextIndex": 0,
+            "visibleLineCount": 1,
+            "didScrollManually": true,
+            "scrollValue": 1
+        },
+        "tutorials": {
+            "$id": 42,
+            "$type": "22|BulwarkStudios.Stanford.Common.Players.PlayerStateTutorial, BulwarkStudios.Stanford",
+            "tutorials": {
+                "$id": 43,
+                "$type": "23|System.Collections.Generic.Dictionary`2[[BulwarkStudios.Stanford.Common.Players.TutorialData, BulwarkStudios.Stanford],[BulwarkStudios.Stanford.Common.Players.TutorialState, BulwarkStudios.Stanford]], mscorlib",
+                "comparer": {
+                    "$id": 44,
+                    "$type": "24|System.Collections.Generic.ObjectEqualityComparer`1[[BulwarkStudios.Stanford.Common.Players.TutorialData, BulwarkStudios.Stanford]], mscorlib"
+                },
+                "$rlength": 51,
+                "$rcontent": [
+                    {
+                        "$k": $eref:15,
+                        "$v": {
+                            "$id": 45,
+                            "$type": "25|BulwarkStudios.Stanford.Common.Players.TutorialState, BulwarkStudios.Stanford",
+                            "guid": f4f51eb7-b21d-4364-8698-6dfb024ce49e,
+                            "data": $eref:15,
+                            "state": 2
+                        }
+                    },
+                    {
+                        "$k": $eref:16,
+                        "$v": {
+                            "$id": 46,
+                            "$type": 25,
+                            "guid": b3a52e57-40a4-47ac-8600-2663070dcaf1,
+                            "data": $eref:16,
+                            "state": 3
+                        }
+                    },
+                    {
+                        "$k": $eref:17,
+                        "$v": {
+                            "$id": 47,
+                            "$type": 25,
+                            "guid": 57decd7e-0906-4893-a924-43889b6abab8,
+                            "data": $eref:17,
+                            "state": 3
+                        }
+                    },
+                    {
+                        "$k": $eref:18,
+                        "$v": {
+                            "$id": 48,
+                            "$type": 25,
+                            "guid": 803ec47b-3223-4e39-af6e-33774ebacb7b,
+                            "data": $eref:18,
+                            "state": 3
+                        }
+                    },
+                    {
+                        "$k": $eref:19,
+                        "$v": {
+                            "$id": 49,
+                            "$type": 25,
+                            "guid": 9227f196-6db0-4a53-ba1c-d1e7fcbbef29,
+                            "data": $eref:19,
+                            "state": 2
+                        }
+                    },
+                    {
+                        "$k": $eref:20,
+                        "$v": {
+                            "$id": 50,
+                            "$type": 25,
+                            "guid": 507bd00d-2141-4779-b10a-ca321960b243,
+                            "data": $eref:20,
+                            "state": 2
+                        }
+                    },
+                    {
+                        "$k": $eref:21,
+                        "$v": {
+                            "$id": 51,
+                            "$type": 25,
+                            "guid": 22c8f086-4134-43b9-92ea-3a9b9328641d,
+                            "data": $eref:21,
+                            "state": 2
+                        }
+                    },
+                    {
+                        "$k": $eref:22,
+                        "$v": {
+                            "$id": 52,
+                            "$type": 25,
+                            "guid": 078d3e5c-293f-4b8d-8bec-b79220cce6a8,
+                            "data": $eref:22,
+                            "state": 2
+                        }
+                    },
+                    {
+                        "$k": $eref:23,
+                        "$v": {
+                            "$id": 53,
+                            "$type": 25,
+                            "guid": 54a043bb-9632-4254-9645-0b4dee0714b6,
+                            "data": $eref:23,
+                            "state": 3
+                        }
+                    },
+                    {
+                        "$k": $eref:24,
+                        "$v": {
+                            "$id": 54,
+                            "$type": 25,
+                            "guid": 7db1091c-3027-41f6-a588-4dff1c73b321,
+                            "data": $eref:24,
+                            "state": 3
+                        }
+                    },
+                    {
+                        "$k": $eref:25,
+                        "$v": {
+                            "$id": 55,
+                            "$type": 25,
+                            "guid": 093ff900-d2cc-4a61-b6c3-55ebacf03032,
+                            "data": $eref:25,
+                            "state": 3
+                        }
+                    },
+                    {
+                        "$k": $eref:26,
+                        "$v": {
+                            "$id": 56,
+                            "$type": 25,
+                            "guid": 4e3362b2-54e0-4dc4-8c43-9f40a5859b88,
+                            "data": $eref:26,
+                            "state": 3
+                        }
+                    },
+                    {
+                        "$k": $eref:27,
+                        "$v": {
+                            "$id": 57,
+                            "$type": 25,
+                            "guid": 695ac127-2365-4369-b7d4-46e3a38b3e41,
+                            "data": $eref:27,
+                            "state": 3
+                        }
+                    },
+                    {
+                        "$k": $eref:28,
+                        "$v": {
+                            "$id": 58,
+                            "$type": 25,
+                            "guid": ba03cec5-eab9-413f-8291-4c1ba15a3bd1,
+                            "data": $eref:28,
+                            "state": 0
+                        }
+                    },
+                    {
+                        "$k": $eref:29,
+                        "$v": {
+                            "$id": 59,
+                            "$type": 25,
+                            "guid": 0fd8ed2e-df28-4073-a3b7-4194fa1482c8,
+                            "data": $eref:29,
+                            "state": 2
+                        }
+                    },
+                    {
+                        "$k": $eref:30,
+                        "$v": {
+                            "$id": 60,
+                            "$type": 25,
+                            "guid": bc3507cc-23d6-438a-a2b8-5e40508f3bd4,
+                            "data": $eref:30,
+                            "state": 2
+                        }
+                    },
+                    {
+                        "$k": $eref:31,
+                        "$v": {
+                            "$id": 61,
+                            "$type": 25,
+                            "guid": a1089037-b516-4e31-b813-b627ee1794ca,
+                            "data": $eref:31,
+                            "state": 2
+                        }
+                    },
+                    {
+                        "$k": $eref:32,
+                        "$v": {
+                            "$id": 62,
+                            "$type": 25,
+                            "guid": 874a72e3-a323-4d55-a964-e255b7d194a2,
+                            "data": $eref:32,
+                            "state": 1
+                        }
+                    },
+                    {
+                        "$k": $eref:33,
+                        "$v": {
+                            "$id": 63,
+                            "$type": 25,
+                            "guid": 81fe55ce-c14b-4295-b242-2cbc92682763,
+                            "data": $eref:33,
+                            "state": 0
+                        }
+                    },
+                    {
+                        "$k": $eref:34,
+                        "$v": {
+                            "$id": 64,
+                            "$type": 25,
+                            "guid": 86fad742-af34-4824-8219-ed4cb50b8f3a,
+                            "data": $eref:34,
+                            "state": 0
+                        }
+                    },
+                    {
+                        "$k": $eref:35,
+                        "$v": {
+                            "$id": 65,
+                            "$type": 25,
+                            "guid": 29e70301-e352-493a-8918-2c0dfe84a1fd,
+                            "data": $eref:35,
+                            "state": 0
+                        }
+                    },
+                    {
+                        "$k": $eref:36,
+                        "$v": {
+                            "$id": 66,
+                            "$type": 25,
+                            "guid": a8e2c4cb-7ba3-48a0-9f73-2adc5b894d13,
+                            "data": $eref:36,
+                            "state": 2
+                        }
+                    },
+                    {
+                        "$k": $eref:37,
+                        "$v": {
+                            "$id": 67,
+                            "$type": 25,
+                            "guid": 28033382-ef4f-4bd5-a920-6069ee18a4ba,
+                            "data": $eref:37,
+                            "state": 2
+                        }
+                    },
+                    {
+                        "$k": $eref:38,
+                        "$v": {
+                            "$id": 68,
+                            "$type": 25,
+                            "guid": 50f90481-ff8d-4ba3-9172-363bdfbf658b,
+                            "data": $eref:38,
+                            "state": 2
+                        }
+                    },
+                    {
+                        "$k": $eref:39,
+                        "$v": {
+                            "$id": 69,
+                            "$type": 25,
+                            "guid": 44531d6c-0b93-47dc-941f-aa66bf888ed0,
+                            "data": $eref:39,
+                            "state": 1
+                        }
+                    },
+                    {
+                        "$k": $eref:40,
+                        "$v": {
+                            "$id": 70,
+                            "$type": 25,
+                            "guid": 01c1a9ba-7b27-45c6-ba02-d07859dc3013,
+                            "data": $eref:40,
+                            "state": 2
+                        }
+                    },
+                    {
+                        "$k": $eref:41,
+                        "$v": {
+                            "$id": 71,
+                            "$type": 25,
+                            "guid": 230c1cd0-dc40-488c-80b3-e53af5e4ada6,
+                            "data": $eref:41,
+                            "state": 2
+                        }
+                    },
+                    {
+                        "$k": $eref:42,
+                        "$v": {
+                            "$id": 72,
+                            "$type": 25,
+                            "guid": c00e8451-25a9-4963-a58a-2f87f454258b,
+                            "data": $eref:42,
+                            "state": 2
+                        }
+                    },
+                    {
+                        "$k": $eref:43,
+                        "$v": {
+                            "$id": 73,
+                            "$type": 25,
+                            "guid": 91eea76e-3ff9-4305-98dc-4a75935fe9bb,
+                            "data": $eref:43,
+                            "state": 2
+                        }
+                    },
+                    {
+                        "$k": $eref:44,
+                        "$v": {
+                            "$id": 74,
+                            "$type": 25,
+                            "guid": 921ecab2-920b-4682-9181-f25182b678ee,
+                            "data": $eref:44,
+                            "state": 2
+                        }
+                    },
+                    {
+                        "$k": $eref:45,
+                        "$v": {
+                            "$id": 75,
+                            "$type": 25,
+                            "guid": e2f4aec2-267a-448f-8089-87a3a9722d19,
+                            "data": $eref:45,
+                            "state": 1
+                        }
+                    },
+                    {
+                        "$k": $eref:46,
+                        "$v": {
+                            "$id": 76,
+                            "$type": 25,
+                            "guid": 9427009d-ebdc-45bb-8f2d-f8f97d0b7675,
+                            "data": $eref:46,
+                            "state": 1
+                        }
+                    },
+                    {
+                        "$k": $eref:47,
+                        "$v": {
+                            "$id": 77,
+                            "$type": 25,
+                            "guid": 293e581b-1e02-426d-853c-2fa0ec7c0e2e,
+                            "data": $eref:47,
+                            "state": 1
+                        }
+                    },
+                    {
+                        "$k": $eref:48,
+                        "$v": {
+                            "$id": 78,
+                            "$type": 25,
+                            "guid": 972b2665-080d-4ffe-be82-bf72df19e62e,
+                            "data": $eref:48,
+                            "state": 0
+                        }
+                    },
+                    {
+                        "$k": $eref:49,
+                        "$v": {
+                            "$id": 79,
+                            "$type": 25,
+                            "guid": 0c16ab63-4803-44cf-b625-9c658b233388,
+                            "data": $eref:49,
+                            "state": 2
+                        }
+                    },
+                    {
+                        "$k": $eref:50,
+                        "$v": {
+                            "$id": 80,
+                            "$type": 25,
+                            "guid": 24947920-4ea6-4689-bd98-514f82947b75,
+                            "data": $eref:50,
+                            "state": 0
+                        }
+                    },
+                    {
+                        "$k": $eref:51,
+                        "$v": {
+                            "$id": 81,
+                            "$type": 25,
+                            "guid": 9b4a7045-fcb8-4fc5-a9ba-a684c7f39b1c,
+                            "data": $eref:51,
+                            "state": 0
+                        }
+                    },
+                    {
+                        "$k": $eref:52,
+                        "$v": {
+                            "$id": 82,
+                            "$type": 25,
+                            "guid": 727a922b-f319-4462-a63e-4be6f7c27e79,
+                            "data": $eref:52,
+                            "state": 1
+                        }
+                    },
+                    {
+                        "$k": $eref:53,
+                        "$v": {
+                            "$id": 83,
+                            "$type": 25,
+                            "guid": 3a33dd3d-6837-46a0-87a8-71a7065a467d,
+                            "data": $eref:53,
+                            "state": 0
+                        }
+                    },
+                    {
+                        "$k": $eref:54,
+                        "$v": {
+                            "$id": 84,
+                            "$type": 25,
+                            "guid": a24873da-6a9c-4ee9-af58-f7c4b1b4a09d,
+                            "data": $eref:54,
+                            "state": 0
+                        }
+                    },
+                    {
+                        "$k": $eref:55,
+                        "$v": {
+                            "$id": 85,
+                            "$type": 25,
+                            "guid": 9fbe4257-a53e-403c-99f6-a2fd4f7ae013,
+                            "data": $eref:55,
+                            "state": 0
+                        }
+                    },
+                    {
+                        "$k": $eref:56,
+                        "$v": {
+                            "$id": 86,
+                            "$type": 25,
+                            "guid": 0214711b-bd7d-4ce9-90b2-c2f0cf14ffc8,
+                            "data": $eref:56,
+                            "state": 1
+                        }
+                    },
+                    {
+                        "$k": $eref:57,
+                        "$v": {
+                            "$id": 87,
+                            "$type": 25,
+                            "guid": 6cbcd558-93f9-4a93-87d5-557af31e0629,
+                            "data": $eref:57,
+                            "state": 1
+                        }
+                    },
+                    {
+                        "$k": $eref:58,
+                        "$v": {
+                            "$id": 88,
+                            "$type": 25,
+                            "guid": cbb0a9ed-7ea2-403b-a170-969806798f4b,
+                            "data": $eref:58,
+                            "state": 1
+                        }
+                    },
+                    {
+                        "$k": $eref:59,
+                        "$v": {
+                            "$id": 89,
+                            "$type": 25,
+                            "guid": e81afecd-c189-43d5-b499-fcdc37a03df6,
+                            "data": $eref:59,
+                            "state": 0
+                        }
+                    },
+                    {
+                        "$k": $eref:60,
+                        "$v": {
+                            "$id": 90,
+                            "$type": 25,
+                            "guid": 48f84ae1-9202-4b80-85cf-84d1b89cee41,
+                            "data": $eref:60,
+                            "state": 1
+                        }
+                    },
+                    {
+                        "$k": $eref:61,
+                        "$v": {
+                            "$id": 91,
+                            "$type": 25,
+                            "guid": 38856eaf-0ca5-4f9a-8ac9-1ba53dd53f2c,
+                            "data": $eref:61,
+                            "state": 0
+                        }
+                    },
+                    {
+                        "$k": $eref:62,
+                        "$v": {
+                            "$id": 92,
+                            "$type": 25,
+                            "guid": 13440336-4fc7-430c-ac0b-36c727de9f24,
+                            "data": $eref:62,
+                            "state": 1
+                        }
+                    },
+                    {
+                        "$k": $eref:63,
+                        "$v": {
+                            "$id": 93,
+                            "$type": 25,
+                            "guid": 1951c3df-ecf4-4885-896d-8deb1d277203,
+                            "data": $eref:63,
+                            "state": 0
+                        }
+                    },
+                    {
+                        "$k": $eref:64,
+                        "$v": {
+                            "$id": 94,
+                            "$type": 25,
+                            "guid": 1b74ace2-1a3b-4024-b2af-474f8cbdac42,
+                            "data": $eref:64,
+                            "state": 0
+                        }
+                    },
+                    {
+                        "$k": $eref:65,
+                        "$v": {
+                            "$id": 95,
+                            "$type": 25,
+                            "guid": 839cde28-2899-4d0d-855a-f9fff3d0e89d,
+                            "data": $eref:65,
+                            "state": 0
+                        }
+                    }
+                ]
+            }
+        },
+        "stats": {
+            "$id": 96,
+            "$type": "26|BulwarkStudios.Stanford.Common.Players.PlayerStateStats, BulwarkStudios.Stanford",
+            "probeScannedArea": 0,
+            "createdResourcesFromTransformation": {
+                "$id": 97,
+                "$type": "27|BulwarkStudios.Stanford.Core.GameResources.ResourceContainer, BulwarkStudios.Stanford",
+                "values": {
+                    "$id": 98,
+                    "$type": "28|System.Int32[], mscorlib",
+                    "$plength": 21,
+                    "$pcontent": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            },
+            "minedResources": {
+                "$id": 99,
+                "$type": 27,
+                "values": {
+                    "$id": 100,
+                    "$type": 28,
+                    "$plength": 21,
+                    "$pcontent": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            },
+            "cargoBringBackResources": {
+                "$id": 101,
+                "$type": 27,
+                "values": {
+                    "$id": 102,
+                    "$type": 28,
+                    "$plength": 21,
+                    "$pcontent": [
+                        50,
+                        0,
+                        62,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            },
+            "peopleUncryonized": 0,
+            "cryopodsFoundInSpace": 0,
+            "starvationSystemActivated": true,
+            "injurySystemActivated": true,
+            "homelessSystemActivated": true,
+            "citizenFeed": 1554,
+            "commitmentsRefused": 0,
+            "averageGain": {
+                "$id": 103,
+                "$type": "29|System.Collections.Generic.Dictionary`2[[BulwarkStudios.Stanford.Core.GameResources.ResourceData, BulwarkStudios.Stanford],[System.Single, mscorlib]], mscorlib",
+                "comparer": {
+                    "$id": 104,
+                    "$type": "30|System.Collections.Generic.ObjectEqualityComparer`1[[BulwarkStudios.Stanford.Core.GameResources.ResourceData, BulwarkStudios.Stanford]], mscorlib"
+                },
+                "$rlength": 2,
+                "$rcontent": [
+                    {
+                        "$k": $eref:66,
+                        "$v": 2.6
+                    },
+                    {
+                        "$k": $eref:67,
+                        "$v": 1
+                    }
+                ]
+            },
+            "averageLoss": {
+                "$id": 105,
+                "$type": 29,
+                "comparer": $iref:104,
+                "$rlength": 2,
+                "$rcontent": [
+                    {
+                        "$k": $eref:66,
+                        "$v": 4
+                    },
+                    {
+                        "$k": $eref:67,
+                        "$v": 18
+                    }
+                ]
+            },
+            "previousCycleGain": {
+                "$id": 106,
+                "$type": 29,
+                "comparer": $iref:104,
+                "$rlength": 2,
+                "$rcontent": [
+                    {
+                        "$k": $eref:67,
+                        "$v": 5
+                    },
+                    {
+                        "$k": $eref:66,
+                        "$v": 3
+                    }
+                ]
+            },
+            "previousCycleLoss": {
+                "$id": 107,
+                "$type": 29,
+                "comparer": $iref:104,
+                "$rlength": 1,
+                "$rcontent": [
+                    {
+                        "$k": $eref:67,
+                        "$v": 53
+                    }
+                ]
+            },
+            "stellarObjectsVisitedByTiqqun": {
+                "$id": 108,
+                "$type": "31|System.Collections.Generic.HashSet`1[[BulwarkStudios.Stanford.SolarSystem.StellarObjects.StellarObjectData, BulwarkStudios.Stanford]], System.Core",
+                "$rlength": 1,
+                "$rcontent": [
+                    $eref:68
+                ]
+            },
+            "reachedVeryLowHull": false,
+            "reachedVeryLowTrust": false,
+            "destroyedBuildings": 33,
+            "accidentsSolvedDuringLastCycle": 0,
+            "totalResourcesTransferedDuringLastCycle": 0,
+            "totalAlloyUsedToRepairHull": 0,
+            "totalNaomiProtocols": 0
+        },
+        "ui": {
+            "$id": 109,
+            "$type": "32|BulwarkStudios.Stanford.Common.Players.PlayerStateUI, BulwarkStudios.Stanford",
+            "scienceButtonDisplayed": true,
+            "solarSystemButtonDisplayed": true,
+            "dlsButtonDisplayed": false,
+            "solarPanelButtonDisplayed": false,
+            "engineButtonDisplayed": true,
+            "resourcesButtonDisplayed": false,
+            "populationButtonDisplayed": true,
+            "fleetButtonDisplayed": true,
+            "dialogDisplayMode": 0
+        },
+        "analytics": {
+            "$id": 110,
+            "$type": "33|BulwarkStudios.Stanford.Common.Players.PlayerStateAnalytics, BulwarkStudios.Stanford",
+            "playTime": 2976.1272,
+            "minHullIntegrity": {
+                "$type": "34|System.Nullable`1[[System.Single, mscorlib]], mscorlib",
+                828.1321
+            },
+            "maxHullIntegrity": {
+                "$type": 34,
+                900
+            },
+            "minTrust": {
+                "$type": 34,
+                50
+            },
+            "maxTrust": {
+                "$type": 34,
+                100
+            },
+            "minPowerConsumed": {
+                "$type": "35|System.Nullable`1[[System.Int32, mscorlib]], mscorlib",
+                0
+            },
+            "maxPowerConsumed": {
+                "$type": 35,
+                88
+            },
+            "overloadCount": 3,
+            "totalScience": 122,
+            "spaceVehicleDataToBuildCount": {
+                "$id": 111,
+                "$type": "36|System.Collections.Generic.Dictionary`2[[BulwarkStudios.Stanford.SolarSystem.SpaceVehicles.SpaceVehicleData, BulwarkStudios.Stanford],[System.Int32, mscorlib]], mscorlib",
+                "comparer": {
+                    "$id": 112,
+                    "$type": "37|System.Collections.Generic.ObjectEqualityComparer`1[[BulwarkStudios.Stanford.SolarSystem.SpaceVehicles.SpaceVehicleData, BulwarkStudios.Stanford]], mscorlib"
+                },
+                "$rlength": 3,
+                "$rcontent": [
+                    {
+                        "$k": $eref:69,
+                        "$v": 1
+                    },
+                    {
+                        "$k": $eref:70,
+                        "$v": 1
+                    },
+                    {
+                        "$k": $eref:71,
+                        "$v": 1
+                    }
+                ]
+            },
+            "spaceVehicleDataToDestroyCount": {
+                "$id": 113,
+                "$type": 36,
+                "comparer": $iref:112,
+                "$rlength": 1,
+                "$rcontent": [
+                    {
+                        "$k": $eref:72,
+                        "$v": 1
+                    }
+                ]
+            },
+            "weatherDataToCollideCount": {
+                "$id": 114,
+                "$type": "38|System.Collections.Generic.Dictionary`2[[BulwarkStudios.Stanford.Common.Weather.WeatherData, BulwarkStudios.Stanford],[System.Int32, mscorlib]], mscorlib",
+                "comparer": {
+                    "$id": 115,
+                    "$type": "39|System.Collections.Generic.ObjectEqualityComparer`1[[BulwarkStudios.Stanford.Common.Weather.WeatherData, BulwarkStudios.Stanford]], mscorlib"
+                },
+                "$rlength": 0,
+                "$rcontent": [
+                ]
+            },
+            "relativeUnlockedTechs": {
+                "$id": 116,
+                "$type": "40|System.Collections.Generic.HashSet`1[[BulwarkStudios.Stanford.Common.TechTree.TechnologyData, BulwarkStudios.Stanford]], System.Core",
+                "$rlength": 5,
+                "$rcontent": [
+                    $eref:73,
+                    $eref:74,
+                    $eref:75,
+                    $eref:76,
+                    $eref:77
+                ]
+            },
+            "relativeUnlockedTechUpgrades": {
+                "$id": 117,
+                "$type": 40,
+                "$rlength": 0,
+                "$rcontent": [
+                ]
+            },
+            "relativeTimeScaleToCount": {
+                "$id": 118,
+                "$type": "41|System.Collections.Generic.Dictionary`2[[BulwarkStudios.Stanford.Core.TimeManagement.TimeManager+TIME_SCALES, BulwarkStudios.Stanford],[System.Int32, mscorlib]], mscorlib",
+                "comparer": {
+                    "$id": 119,
+                    "$type": "42|System.Collections.Generic.EnumEqualityComparer`1[[BulwarkStudios.Stanford.Core.TimeManagement.TimeManager+TIME_SCALES, BulwarkStudios.Stanford]], mscorlib",
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "$rlength": 4,
+                "$rcontent": [
+                    {
+                        "$k": 0,
+                        "$v": 70
+                    },
+                    {
+                        "$k": 1,
+                        "$v": 24
+                    },
+                    {
+                        "$k": 4,
+                        "$v": 38
+                    },
+                    {
+                        "$k": 2,
+                        "$v": 5
+                    }
+                ]
+            },
+            "absoluteTimeScaleToCount": {
+                "$id": 120,
+                "$type": 41,
+                "comparer": $iref:119,
+                "$rlength": 4,
+                "$rcontent": [
+                    {
+                        "$k": 0,
+                        "$v": 70
+                    },
+                    {
+                        "$k": 1,
+                        "$v": 24
+                    },
+                    {
+                        "$k": 4,
+                        "$v": 38
+                    },
+                    {
+                        "$k": 2,
+                        "$v": 5
+                    }
+                ]
+            }
+        },
+        "buildingRestrictions": {
+            "$id": 121,
+            "$type": "43|System.Collections.Generic.Dictionary`2[[BulwarkStudios.Stanford.Torus.Buildings.BuildingData, BulwarkStudios.Stanford],[BulwarkStudios.Stanford.Common.Players.PlayerBuildingRestriction, BulwarkStudios.Stanford]], mscorlib",
+            "comparer": {
+                "$id": 122,
+                "$type": "44|System.Collections.Generic.ObjectEqualityComparer`1[[BulwarkStudios.Stanford.Torus.Buildings.BuildingData, BulwarkStudios.Stanford]], mscorlib"
+            },
+            "$rlength": 10,
+            "$rcontent": [
+                {
+                    "$k": $eref:78,
+                    "$v": {
+                        "$id": 123,
+                        "$type": "45|BulwarkStudios.Stanford.Common.Players.PlayerBuildingRestriction, BulwarkStudios.Stanford",
+                        "building": $eref:78,
+                        "size": {
+                            "$type": "46|System.Nullable`1[[UnityEngine.Vector2Int, UnityEngine.CoreModule]], mscorlib",
+                            null
+                        }
+                    }
+                },
+                {
+                    "$k": $eref:79,
+                    "$v": {
+                        "$id": 124,
+                        "$type": 45,
+                        "building": $eref:79,
+                        "size": {
+                            "$type": 46,
+                            null
+                        }
+                    }
+                },
+                {
+                    "$k": $eref:80,
+                    "$v": {
+                        "$id": 125,
+                        "$type": 45,
+                        "building": $eref:80,
+                        "size": {
+                            "$type": 46,
+                            null
+                        }
+                    }
+                },
+                {
+                    "$k": $eref:81,
+                    "$v": {
+                        "$id": 126,
+                        "$type": 45,
+                        "building": $eref:81,
+                        "size": {
+                            "$type": 46,
+                            null
+                        }
+                    }
+                },
+                {
+                    "$k": $eref:82,
+                    "$v": {
+                        "$id": 127,
+                        "$type": 45,
+                        "building": $eref:82,
+                        "size": {
+                            "$type": 46,
+                            null
+                        }
+                    }
+                },
+                {
+                    "$k": $eref:83,
+                    "$v": {
+                        "$id": 128,
+                        "$type": 45,
+                        "building": $eref:83,
+                        "size": {
+                            "$type": 46,
+                            null
+                        }
+                    }
+                },
+                {
+                    "$k": $eref:84,
+                    "$v": {
+                        "$id": 129,
+                        "$type": 45,
+                        "building": $eref:84,
+                        "size": {
+                            "$type": 46,
+                            null
+                        }
+                    }
+                },
+                {
+                    "$k": $eref:85,
+                    "$v": {
+                        "$id": 130,
+                        "$type": 45,
+                        "building": $eref:85,
+                        "size": {
+                            "$type": 46,
+                            null
+                        }
+                    }
+                },
+                {
+                    "$k": $eref:86,
+                    "$v": {
+                        "$id": 131,
+                        "$type": 45,
+                        "building": $eref:86,
+                        "size": {
+                            "$type": 46,
+                            null
+                        }
+                    }
+                },
+                {
+                    "$k": $eref:87,
+                    "$v": {
+                        "$id": 132,
+                        "$type": 45,
+                        "building": $eref:87,
+                        "size": {
+                            "$type": 46,
+                            null
+                        }
+                    }
+                }
+            ]
+        },
+        "buildObjectRestrictions": {
+            "$id": 133,
+            "$type": "47|System.Collections.Generic.Dictionary`2[[BulwarkStudios.Stanford.Core.ObjectDataPattern.ObjectData, BulwarkStudios.Stanford],[BulwarkStudios.Stanford.Common.Players.PlayerBuildObjectRestriction, BulwarkStudios.Stanford]], mscorlib",
+            "comparer": {
+                "$id": 134,
+                "$type": "48|System.Collections.Generic.ObjectEqualityComparer`1[[BulwarkStudios.Stanford.Core.ObjectDataPattern.ObjectData, BulwarkStudios.Stanford]], mscorlib"
+            },
+            "$rlength": 6,
+            "$rcontent": [
+                {
+                    "$k": $eref:88,
+                    "$v": {
+                        "$id": 135,
+                        "$type": "49|BulwarkStudios.Stanford.Common.Players.PlayerBuildObjectRestriction, BulwarkStudios.Stanford",
+                        "objectData": $eref:88
+                    }
+                },
+                {
+                    "$k": $eref:69,
+                    "$v": {
+                        "$id": 136,
+                        "$type": 49,
+                        "objectData": $eref:69
+                    }
+                },
+                {
+                    "$k": $eref:71,
+                    "$v": {
+                        "$id": 137,
+                        "$type": 49,
+                        "objectData": $eref:71
+                    }
+                },
+                {
+                    "$k": $eref:70,
+                    "$v": {
+                        "$id": 138,
+                        "$type": 49,
+                        "objectData": $eref:70
+                    }
+                },
+                {
+                    "$k": $eref:89,
+                    "$v": {
+                        "$id": 139,
+                        "$type": 49,
+                        "objectData": $eref:89
+                    }
+                },
+                {
+                    "$k": $eref:90,
+                    "$v": {
+                        "$id": 140,
+                        "$type": 49,
+                        "objectData": $eref:90
+                    }
+                }
+            ]
+        },
+        "dlsEventsCompleted": {
+            "$id": 141,
+            "$type": "50|System.Collections.Generic.HashSet`1[[BulwarkStudios.Stanford.Common.DLS.DlsEventData, BulwarkStudios.Stanford]], System.Core",
+            "$rlength": 9,
+            "$rcontent": [
+                $eref:91,
+                $eref:92,
+                $eref:93,
+                $eref:94,
+                $eref:95,
+                $eref:96,
+                $eref:97,
+                $eref:98,
+                $eref:99
+            ]
+        },
+        "optionsCompleted": {
+            "$id": 142,
+            "$type": "51|System.Collections.Generic.HashSet`1[[System.Guid, mscorlib]], System.Core",
+            "$rlength": 10,
+            "$rcontent": [
+                212320d5-1d41-4595-8758-bd5c6e8a229c,
+                8a289c1e-8b54-4445-b064-f161c4c1e121,
+                b1fed819-2ad4-42c0-8785-b27a5ed02146,
+                df7a1e11-d1e4-49f0-9290-73145f9276b4,
+                8f8f60d1-44ff-49ac-a15c-131db3e4095b,
+                41bdfa24-6312-4e0b-ade0-6d6522d7e17b,
+                24c3d822-7ed9-4802-8a98-897134605405,
+                7bdca9b6-83c8-49e8-8d4d-e539a2d4e5cf,
+                fd87944f-146b-4729-91de-41a61411d89c,
+                50782a36-107d-4517-abfd-62cc960a1dd0
+            ]
+        },
+        "dlsEventsAdded": {
+            "$id": 143,
+            "$type": 50,
+            "$rlength": 20,
+            "$rcontent": [
+                $eref:100,
+                $eref:97,
+                $eref:96,
+                $eref:93,
+                $eref:91,
+                $eref:92,
+                $eref:94,
+                $eref:95,
+                $eref:101,
+                $eref:102,
+                $eref:103,
+                $eref:104,
+                $eref:105,
+                $eref:106,
+                $eref:107,
+                $eref:108,
+                $eref:109,
+                $eref:99,
+                $eref:98,
+                $eref:110
+            ]
+        },
+        "dlsEventsLocked": {
+            "$id": 144,
+            "$type": 50,
+            "$rlength": 0,
+            "$rcontent": [
+            ]
+        },
+        "startedProbeScans": {
+            "$id": 145,
+            "$type": 31,
+            "$rlength": 0,
+            "$rcontent": [
+            ]
+        },
+        "techTree": {
+            "$id": 146,
+            "$type": "52|BulwarkStudios.Stanford.Common.TechTree.PlayerStateTechTree, BulwarkStudios.Stanford",
+            "currentResearch": null,
+            "technologyToState": {
+                "$id": 147,
+                "$type": "53|System.Collections.Generic.Dictionary`2[[BulwarkStudios.Stanford.Common.TechTree.TechnologyData, BulwarkStudios.Stanford],[BulwarkStudios.Stanford.Common.TechTree.TechnologyResearchState, BulwarkStudios.Stanford]], mscorlib",
+                "comparer": {
+                    "$id": 148,
+                    "$type": "54|System.Collections.Generic.ObjectEqualityComparer`1[[BulwarkStudios.Stanford.Common.TechTree.TechnologyData, BulwarkStudios.Stanford]], mscorlib"
+                },
+                "$rlength": 0,
+                "$rcontent": [
+                ]
+            },
+            "unlockTechnologies": {
+                "$id": 149,
+                "$type": 40,
+                "$rlength": 5,
+                "$rcontent": [
+                    $eref:73,
+                    $eref:74,
+                    $eref:75,
+                    $eref:76,
+                    $eref:77
+                ]
+            },
+            "technologyToAdditionnalUpgrades": {
+                "$id": 150,
+                "$type": "55|System.Collections.Generic.Dictionary`2[[BulwarkStudios.Stanford.Common.TechTree.TechnologyData, BulwarkStudios.Stanford],[System.Collections.Generic.List`1[[BulwarkStudios.Stanford.Common.TechTree.TechnologyData, BulwarkStudios.Stanford]], mscorlib]], mscorlib",
+                "comparer": $iref:148,
+                "$rlength": 0,
+                "$rcontent": [
+                ]
+            },
+            "enableTechnologies": {
+                "$id": 151,
+                "$type": 40,
+                "$rlength": 1,
+                "$rcontent": [
+                    $eref:111
+                ]
+            },
+            "unlockedAllTechnology": false,
+            "unlockedAllLayers": false,
+            "preUnlockedTechnologies": {
+                "$id": 152,
+                "$type": 40,
+                "$rlength": 13,
+                "$rcontent": [
+                    $eref:112,
+                    $eref:113,
+                    $eref:114,
+                    $eref:115,
+                    $eref:116,
+                    $eref:117,
+                    $eref:118,
+                    $eref:119,
+                    $eref:120,
+                    $eref:121,
+                    $eref:122,
+                    $eref:123,
+                    $eref:124
+                ]
+            },
+            "preEnableTechnologies": {
+                "$id": 153,
+                "$type": 40,
+                "$rlength": 13,
+                "$rcontent": [
+                    $eref:112,
+                    $eref:113,
+                    $eref:114,
+                    $eref:115,
+                    $eref:116,
+                    $eref:117,
+                    $eref:118,
+                    $eref:119,
+                    $eref:120,
+                    $eref:121,
+                    $eref:122,
+                    $eref:123,
+                    $eref:124
+                ]
+            },
+            "pendingTechnology": null
+        },
+        "objectives": {
+            "$id": 154,
+            "$type": "56|BulwarkStudios.Stanford.Common.Players.PlayerStateObjective, BulwarkStudios.Stanford",
+            "objectiveContainers": {
+                "$id": 155,
+                "$type": "57|System.Collections.Generic.List`1[[BulwarkStudios.Stanford.ObjectiveSystem.ObjectiveContainerState, BulwarkStudios.Stanford]], mscorlib",
+                "$rlength": 3,
+                "$rcontent": [
+                    {
+                        "$id": 156,
+                        "$type": "58|BulwarkStudios.Stanford.ObjectiveSystem.ObjectiveContainerState, BulwarkStudios.Stanford",
+                        "data": $eref:125,
+                        "objectiveStates": {
+                            "$id": 157,
+                            "$type": "59|System.Collections.Generic.List`1[[BulwarkStudios.Stanford.ObjectiveSystem.ObjectiveState, BulwarkStudios.Stanford]], mscorlib",
+                            "$rlength": 4,
+                            "$rcontent": [
+                                {
+                                    "$id": 158,
+                                    "$type": "60|BulwarkStudios.Stanford.ObjectiveSystem.ObjectiveState, BulwarkStudios.Stanford",
+                                    "status": 1,
+                                    "boolValue": false,
+                                    "floatValue": 0,
+                                    "intValue": 0,
+                                    "intValue2": 0,
+                                    "countToFeed": 0,
+                                    "totalResourcesToCollect": 0,
+                                    "repairCost": 0,
+                                    "intData1": 0,
+                                    "countToSend": 0,
+                                    "dataSector1": null,
+                                    "dataSector2": null,
+                                    "objectiveGuid": 7fd77305-d131-4704-862b-15aa7611a088,
+                                    "stellarObjectGuid": 00000000-0000-0000-0000-000000000000
+                                },
+                                {
+                                    "$id": 159,
+                                    "$type": 60,
+                                    "status": 0,
+                                    "boolValue": false,
+                                    "floatValue": 0,
+                                    "intValue": 0,
+                                    "intValue2": 0,
+                                    "countToFeed": 0,
+                                    "totalResourcesToCollect": 0,
+                                    "repairCost": 0,
+                                    "intData1": 0,
+                                    "countToSend": 0,
+                                    "dataSector1": null,
+                                    "dataSector2": null,
+                                    "objectiveGuid": 9b1d651f-e0cf-4c92-8967-e4115b94f8ad,
+                                    "stellarObjectGuid": 00000000-0000-0000-0000-000000000000
+                                },
+                                {
+                                    "$id": 160,
+                                    "$type": 60,
+                                    "status": 2,
+                                    "boolValue": true,
+                                    "floatValue": 0,
+                                    "intValue": 0,
+                                    "intValue2": 0,
+                                    "countToFeed": 0,
+                                    "totalResourcesToCollect": 0,
+                                    "repairCost": 0,
+                                    "intData1": 0,
+                                    "countToSend": 0,
+                                    "dataSector1": null,
+                                    "dataSector2": null,
+                                    "objectiveGuid": f7529df8-2b60-4d30-97ad-e6aeb9c179ef,
+                                    "stellarObjectGuid": 00000000-0000-0000-0000-000000000000
+                                },
+                                {
+                                    "$id": 161,
+                                    "$type": 60,
+                                    "status": 1,
+                                    "boolValue": false,
+                                    "floatValue": 0,
+                                    "intValue": 0,
+                                    "intValue2": 0,
+                                    "countToFeed": 1000,
+                                    "totalResourcesToCollect": 0,
+                                    "repairCost": 0,
+                                    "intData1": 1554,
+                                    "countToSend": 0,
+                                    "dataSector1": null,
+                                    "dataSector2": null,
+                                    "objectiveGuid": 66bfe5f4-7a72-4b49-a749-e2b43340b48a,
+                                    "stellarObjectGuid": 00000000-0000-0000-0000-000000000000
+                                }
+                            ]
+                        },
+                        "unlockedPlayTime": 2875.72046,
+                        "unlockedCycle": 97,
+                        "state": 0,
+                        "timeRemaining": 0,
+                        "originSector": null,
+                        "originBuilding": {
+                            "$id": 162,
+                            "$type": "61|BulwarkStudios.Stanford.Saves.SavedBuildingInstance, BulwarkStudios.Stanford",
+                            "guid": 00000000-0000-0000-0000-000000000000
+                        }
+                    },
+                    {
+                        "$id": 163,
+                        "$type": 58,
+                        "data": $eref:126,
+                        "objectiveStates": {
+                            "$id": 164,
+                            "$type": 59,
+                            "$rlength": 9,
+                            "$rcontent": [
+                                {
+                                    "$id": 165,
+                                    "$type": 60,
+                                    "status": 2,
+                                    "boolValue": true,
+                                    "floatValue": 0,
+                                    "intValue": 100,
+                                    "intValue2": 0,
+                                    "countToFeed": 0,
+                                    "totalResourcesToCollect": 0,
+                                    "repairCost": 0,
+                                    "intData1": 0,
+                                    "countToSend": 0,
+                                    "dataSector1": null,
+                                    "dataSector2": null,
+                                    "objectiveGuid": 921dee3f-c204-47ef-9a1f-2f22e2a95fe6,
+                                    "stellarObjectGuid": 00000000-0000-0000-0000-000000000000
+                                },
+                                {
+                                    "$id": 166,
+                                    "$type": 60,
+                                    "status": 1,
+                                    "boolValue": false,
+                                    "floatValue": 0,
+                                    "intValue": 0,
+                                    "intValue2": 0,
+                                    "countToFeed": 0,
+                                    "totalResourcesToCollect": 0,
+                                    "repairCost": 0,
+                                    "intData1": 0,
+                                    "countToSend": 0,
+                                    "dataSector1": null,
+                                    "dataSector2": null,
+                                    "objectiveGuid": 5f842301-c4f4-4e6d-806c-01f35c0afc26,
+                                    "stellarObjectGuid": 00000000-0000-0000-0000-000000000000
+                                },
+                                {
+                                    "$id": 167,
+                                    "$type": 60,
+                                    "status": 0,
+                                    "boolValue": false,
+                                    "floatValue": 0,
+                                    "intValue": 0,
+                                    "intValue2": 0,
+                                    "countToFeed": 0,
+                                    "totalResourcesToCollect": 0,
+                                    "repairCost": 0,
+                                    "intData1": 0,
+                                    "countToSend": 0,
+                                    "dataSector1": null,
+                                    "dataSector2": null,
+                                    "objectiveGuid": 358a8ed4-8333-465f-bf3f-7e2938287cfb,
+                                    "stellarObjectGuid": 00000000-0000-0000-0000-000000000000
+                                },
+                                {
+                                    "$id": 168,
+                                    "$type": 60,
+                                    "status": 0,
+                                    "boolValue": false,
+                                    "floatValue": 0,
+                                    "intValue": 0,
+                                    "intValue2": 0,
+                                    "countToFeed": 0,
+                                    "totalResourcesToCollect": 0,
+                                    "repairCost": 0,
+                                    "intData1": 0,
+                                    "countToSend": 0,
+                                    "dataSector1": null,
+                                    "dataSector2": null,
+                                    "objectiveGuid": 589c1d55-697d-4658-b76e-a5d16f39683b,
+                                    "stellarObjectGuid": 00000000-0000-0000-0000-000000000000
+                                },
+                                {
+                                    "$id": 169,
+                                    "$type": 60,
+                                    "status": 0,
+                                    "boolValue": false,
+                                    "floatValue": 0,
+                                    "intValue": 0,
+                                    "intValue2": 0,
+                                    "countToFeed": 0,
+                                    "totalResourcesToCollect": 0,
+                                    "repairCost": 0,
+                                    "intData1": 0,
+                                    "countToSend": 0,
+                                    "dataSector1": null,
+                                    "dataSector2": null,
+                                    "objectiveGuid": 5afb8ade-2080-4b62-b207-5d7fad275af1,
+                                    "stellarObjectGuid": 00000000-0000-0000-0000-000000000000
+                                },
+                                {
+                                    "$id": 170,
+                                    "$type": 60,
+                                    "status": 0,
+                                    "boolValue": false,
+                                    "floatValue": 0,
+                                    "intValue": 0,
+                                    "intValue2": 0,
+                                    "countToFeed": 0,
+                                    "totalResourcesToCollect": 0,
+                                    "repairCost": 0,
+                                    "intData1": 0,
+                                    "countToSend": 0,
+                                    "dataSector1": null,
+                                    "dataSector2": null,
+                                    "objectiveGuid": 002d4167-d4fb-4367-ba81-a41d7ea07e9f,
+                                    "stellarObjectGuid": 00000000-0000-0000-0000-000000000000
+                                },
+                                {
+                                    "$id": 171,
+                                    "$type": 60,
+                                    "status": 0,
+                                    "boolValue": false,
+                                    "floatValue": 0,
+                                    "intValue": 0,
+                                    "intValue2": 0,
+                                    "countToFeed": 0,
+                                    "totalResourcesToCollect": 0,
+                                    "repairCost": 0,
+                                    "intData1": 0,
+                                    "countToSend": 0,
+                                    "dataSector1": null,
+                                    "dataSector2": null,
+                                    "objectiveGuid": 0c79bba6-f812-4c55-8765-d1bea3512616,
+                                    "stellarObjectGuid": 00000000-0000-0000-0000-000000000000
+                                },
+                                {
+                                    "$id": 172,
+                                    "$type": 60,
+                                    "status": 0,
+                                    "boolValue": false,
+                                    "floatValue": 0,
+                                    "intValue": 0,
+                                    "intValue2": 0,
+                                    "countToFeed": 0,
+                                    "totalResourcesToCollect": 0,
+                                    "repairCost": 0,
+                                    "intData1": 0,
+                                    "countToSend": 0,
+                                    "dataSector1": null,
+                                    "dataSector2": null,
+                                    "objectiveGuid": b03c4872-3b96-48d6-8620-36a1e2d8f8e7,
+                                    "stellarObjectGuid": 00000000-0000-0000-0000-000000000000
+                                },
+                                {
+                                    "$id": 173,
+                                    "$type": 60,
+                                    "status": 0,
+                                    "boolValue": false,
+                                    "floatValue": 0,
+                                    "intValue": 0,
+                                    "intValue2": 0,
+                                    "countToFeed": 0,
+                                    "totalResourcesToCollect": 0,
+                                    "repairCost": 0,
+                                    "intData1": 0,
+                                    "countToSend": 0,
+                                    "dataSector1": null,
+                                    "dataSector2": null,
+                                    "objectiveGuid": f49e5033-ba6f-4e7d-8075-859a800f3205,
+                                    "stellarObjectGuid": 00000000-0000-0000-0000-000000000000
+                                }
+                            ]
+                        },
+                        "unlockedPlayTime": 2875.72046,
+                        "unlockedCycle": 97,
+                        "state": 0,
+                        "timeRemaining": 0,
+                        "originSector": null,
+                        "originBuilding": {
+                            "$id": 174,
+                            "$type": 61,
+                            "guid": 00000000-0000-0000-0000-000000000000
+                        }
+                    },
+                    {
+                        "$id": 175,
+                        "$type": 58,
+                        "data": $eref:127,
+                        "objectiveStates": {
+                            "$id": 176,
+                            "$type": 59,
+                            "$rlength": 1,
+                            "$rcontent": [
+                                {
+                                    "$id": 177,
+                                    "$type": 60,
+                                    "status": 1,
+                                    "boolValue": false,
+                                    "floatValue": 0,
+                                    "intValue": 0,
+                                    "intValue2": 0,
+                                    "countToFeed": 0,
+                                    "totalResourcesToCollect": 0,
+                                    "repairCost": 0,
+                                    "intData1": 0,
+                                    "countToSend": 0,
+                                    "dataSector1": null,
+                                    "dataSector2": null,
+                                    "objectiveGuid": 02bec211-2641-450a-b6dc-e76f036c135b,
+                                    "stellarObjectGuid": 00000000-0000-0000-0000-000000000000
+                                }
+                            ]
+                        },
+                        "unlockedPlayTime": 2888.61475,
+                        "unlockedCycle": 97,
+                        "state": 0,
+                        "timeRemaining": 0,
+                        "originSector": {
+                            "$id": 178,
+                            "$type": "62|BulwarkStudios.Stanford.Saves.SavedTorusSectorInstance, BulwarkStudios.Stanford",
+                            "guid": 80b1756b-f592-4c9d-a6f7-47b8706ddd2e
+                        },
+                        "originBuilding": {
+                            "$id": 179,
+                            "$type": 61,
+                            "guid": 64eca57b-04db-4fc6-85e2-e95e9608955e
+                        }
+                    }
+                ]
+            },
+            "timeLimitedObjectives": {
+                "$id": 180,
+                "$type": 57,
+                "$rlength": 0,
+                "$rcontent": [
+                ]
+            },
+            "objectiveContainersEnded": {
+                "$id": 181,
+                "$type": "63|System.Collections.Generic.HashSet`1[[BulwarkStudios.Stanford.ObjectiveSystem.ObjectiveContainer, BulwarkStudios.Stanford]], System.Core",
+                "$rlength": 9,
+                "$rcontent": [
+                    $eref:128,
+                    $eref:129,
+                    $eref:130,
+                    $eref:131,
+                    $eref:132,
+                    $eref:133,
+                    $eref:134,
+                    $eref:135,
+                    $eref:136
+                ]
+            },
+            "cantAddObjectives": {
+                "$id": 182,
+                "$type": 63,
+                "$rlength": 0,
+                "$rcontent": [
+                ]
+            }
+        },
+        "chapterEvents": {
+            "$id": 183,
+            "$type": "64|BulwarkStudios.Stanford.ObjectiveSystem.ChapterEventsState, BulwarkStudios.Stanford",
+            "chapterEventStates": {
+                "$id": 184,
+                "$type": "65|System.Collections.Generic.Dictionary`2[[BulwarkStudios.Stanford.ObjectiveSystem.ChapterEventData, BulwarkStudios.Stanford],[BulwarkStudios.Stanford.ObjectiveSystem.ChapterEventState, BulwarkStudios.Stanford]], mscorlib",
+                "comparer": {
+                    "$id": 185,
+                    "$type": "66|System.Collections.Generic.ObjectEqualityComparer`1[[BulwarkStudios.Stanford.ObjectiveSystem.ChapterEventData, BulwarkStudios.Stanford]], mscorlib"
+                },
+                "$rlength": 3,
+                "$rcontent": [
+                    {
+                        "$k": {
+                            "$id": 186,
+                            "$type": "67|BulwarkStudios.Stanford.ObjectiveSystem.ChapterEventData, BulwarkStudios.Stanford",
+                            "guid": 967605b5-fe15-4b6e-b6e3-f45bd6293f44,
+                            "activeOnStart": false,
+                            "autoRemove": true,
+                            "removeWhenChangeChapter": true,
+                            "conditions": {
+                                "$id": 187,
+                                "$type": "68|System.Collections.Generic.List`1[[BulwarkStudios.Stanford.ObjectiveSystem.IChapterEventCondition, BulwarkStudios.Stanford]], mscorlib",
+                                "$rlength": 1,
+                                "$rcontent": [
+                                    {
+                                        "$id": 188,
+                                        "$type": "69|BulwarkStudios.Stanford.ObjectiveSystem.ChapterEventConditionObjectivesCompleted, BulwarkStudios.Stanford",
+                                        "objectives": {
+                                            "$id": 189,
+                                            "$type": "70|System.Collections.Generic.List`1[[BulwarkStudios.Stanford.ObjectiveSystem.ObjectiveContainer, BulwarkStudios.Stanford]], mscorlib",
+                                            "$rlength": 2,
+                                            "$rcontent": [
+                                                $eref:125,
+                                                $eref:126
+                                            ]
+                                        },
+                                        "countToComplete": 2
+                                    }
+                                ]
+                            },
+                            "OnConditionsValid": {
+                                "$id": 190,
+                                "$type": "71|System.Collections.Generic.List`1[[BulwarkStudios.Stanford.Core.Execute.IExecute, BulwarkStudios.Stanford]], mscorlib",
+                                "$rlength": 1,
+                                "$rcontent": [
+                                    {
+                                        "$id": 191,
+                                        "$type": "72|BulwarkStudios.Stanford.Core.Execute.ExecuteLaunchDialog, BulwarkStudios.Stanford",
+                                        "dialogData": $eref:137,
+                                        "hasDelay": false,
+                                        "timeScale": false,
+                                        "delay": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "$v": {
+                            "$id": 192,
+                            "$type": "73|BulwarkStudios.Stanford.ObjectiveSystem.ChapterEventState, BulwarkStudios.Stanford",
+                            "data": $iref:186,
+                            "isValid": false,
+                            "isActive": false
+                        }
+                    },
+                    {
+                        "$k": {
+                            "$id": 193,
+                            "$type": 67,
+                            "guid": 141c8fa4-760d-4172-962c-9905b148a19f,
+                            "activeOnStart": true,
+                            "autoRemove": true,
+                            "removeWhenChangeChapter": true,
+                            "conditions": {
+                                "$id": 194,
+                                "$type": 68,
+                                "$rlength": 2,
+                                "$rcontent": [
+                                    {
+                                        "$id": 195,
+                                        "$type": "74|BulwarkStudios.Stanford.ObjectiveSystem.ChapterEventConditionSectorOvercharged, BulwarkStudios.Stanford",
+                                        "anySector": true,
+                                        "sector": $eref:138
+                                    },
+                                    {
+                                        "$id": 196,
+                                        "$type": "75|BulwarkStudios.Stanford.ObjectiveSystem.ChapterEventConditionTimePassed, BulwarkStudios.Stanford",
+                                        "timeInCycles": 1,
+                                        "cyclesElapsed": 2
+                                    }
+                                ]
+                            },
+                            "OnConditionsValid": {
+                                "$id": 197,
+                                "$type": 71,
+                                "$rlength": 1,
+                                "$rcontent": [
+                                    {
+                                        "$id": 198,
+                                        "$type": "76|BulwarkStudios.Stanford.Core.Execute.ExecuteAddDlsEvent, BulwarkStudios.Stanford",
+                                        "type": 1,
+                                        "preferedBuildings": {
+                                            "$id": 199,
+                                            "$type": "77|BulwarkStudios.Stanford.Torus.Buildings.BuildingData[], BulwarkStudios.Stanford",
+                                            "$rlength": 1,
+                                            "$rcontent": [
+                                                $eref:82
+                                            ]
+                                        },
+                                        "stellarObject": null,
+                                        "dlsEvent": $eref:139,
+                                        "spawnDelay": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "$v": {
+                            "$id": 200,
+                            "$type": 73,
+                            "data": $iref:193,
+                            "isValid": false,
+                            "isActive": true
+                        }
+                    },
+                    {
+                        "$k": {
+                            "$id": 201,
+                            "$type": 67,
+                            "guid": 4ecc6d4b-29a5-4a0d-9229-8d9f6637ee8e,
+                            "activeOnStart": true,
+                            "autoRemove": true,
+                            "removeWhenChangeChapter": true,
+                            "conditions": {
+                                "$id": 202,
+                                "$type": 68,
+                                "$rlength": 1,
+                                "$rcontent": [
+                                    {
+                                        "$id": 203,
+                                        "$type": 75,
+                                        "timeInCycles": 180,
+                                        "cyclesElapsed": 2
+                                    }
+                                ]
+                            },
+                            "OnConditionsValid": {
+                                "$id": 204,
+                                "$type": 71,
+                                "$rlength": 1,
+                                "$rcontent": [
+                                    {
+                                        "$id": 205,
+                                        "$type": 76,
+                                        "type": 1,
+                                        "preferedBuildings": null,
+                                        "stellarObject": null,
+                                        "dlsEvent": $eref:140,
+                                        "spawnDelay": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "$v": {
+                            "$id": 206,
+                            "$type": 73,
+                            "data": $iref:201,
+                            "isValid": false,
+                            "isActive": true
+                        }
+                    }
+                ]
+            },
+            "chapterEventsData": $eref:141,
+            "completedEventChapters": {
+                "$id": 207,
+                "$type": 51,
+                "$rlength": 0,
+                "$rcontent": [
+                ]
+            }
+        },
+        "weatherEffectIdToState": {
+            "$id": 208,
+            "$type": "78|System.Collections.Generic.Dictionary`2[[BulwarkStudios.Stanford.Common.Weather.TorusWeatherEffectId, BulwarkStudios.Stanford],[BulwarkStudios.Stanford.Common.Weather.TorusWeatherControllerState, BulwarkStudios.Stanford]], mscorlib",
+            "comparer": {
+                "$id": 209,
+                "$type": "79|System.Collections.Generic.ObjectEqualityComparer`1[[BulwarkStudios.Stanford.Common.Weather.TorusWeatherEffectId, BulwarkStudios.Stanford]], mscorlib"
+            },
+            "$rlength": 6,
+            "$rcontent": [
+                {
+                    "$k": $eref:142,
+                    "$v": {
+                        "$id": 210,
+                        "$type": "80|BulwarkStudios.Stanford.Common.Weather.TorusWeatherControllerState, BulwarkStudios.Stanford",
+                        "runningState": 0,
+                        "fadeTimer": 0,
+                        "initialFadeTimer": 0,
+                        "fadeProgress": 0
+                    }
+                },
+                {
+                    "$k": $eref:143,
+                    "$v": {
+                        "$id": 211,
+                        "$type": 80,
+                        "runningState": 0,
+                        "fadeTimer": 0,
+                        "initialFadeTimer": 0,
+                        "fadeProgress": 0
+                    }
+                },
+                {
+                    "$k": $eref:144,
+                    "$v": {
+                        "$id": 212,
+                        "$type": 80,
+                        "runningState": 0,
+                        "fadeTimer": 0,
+                        "initialFadeTimer": 0,
+                        "fadeProgress": 0
+                    }
+                },
+                {
+                    "$k": $eref:145,
+                    "$v": {
+                        "$id": 213,
+                        "$type": 80,
+                        "runningState": 0,
+                        "fadeTimer": 0,
+                        "initialFadeTimer": 0,
+                        "fadeProgress": 0
+                    }
+                },
+                {
+                    "$k": $eref:146,
+                    "$v": {
+                        "$id": 214,
+                        "$type": 80,
+                        "runningState": 0,
+                        "fadeTimer": 0,
+                        "initialFadeTimer": 0,
+                        "fadeProgress": 0
+                    }
+                },
+                {
+                    "$k": $eref:147,
+                    "$v": {
+                        "$id": 215,
+                        "$type": 80,
+                        "runningState": 0,
+                        "fadeTimer": 0,
+                        "initialFadeTimer": 5,
+                        "fadeProgress": 0
+                    }
+                }
+            ]
+        },
+        "science": 32,
+        "cryopodInSpaceContainingWorkersCount": 0,
+        "cryopodInTorusContainingWorkersCount": 0,
+        "neededTransfers": {
+            "$id": 216,
+            "$type": "81|System.Collections.Generic.Dictionary`2[[BulwarkStudios.Stanford.Core.GameResources.ResourceData, BulwarkStudios.Stanford],[System.Collections.Generic.Dictionary`2[[BulwarkStudios.Stanford.Torus.Sectors.TorusSectorData, BulwarkStudios.Stanford],[System.Int32, mscorlib]], mscorlib]], mscorlib",
+            "comparer": $iref:104,
+            "$rlength": 0,
+            "$rcontent": [
+            ]
+        },
+        "citizenTotalDeathCount": 0,
+        "firstBuildOrder": {
+            "$id": 217,
+            "$type": "82|System.Collections.Generic.HashSet`1[[BulwarkStudios.Stanford.Core.ObjectDataPattern.ObjectData, BulwarkStudios.Stanford]], System.Core",
+            "$rlength": 9,
+            "$rcontent": [
+                $eref:83,
+                $eref:81,
+                $eref:79,
+                $eref:78,
+                $eref:84,
+                $eref:85,
+                $eref:86,
+                $eref:80,
+                $eref:87
+            ]
+        },
+        "gameOverRetry": false,
+        "gameOverLockTrust": false,
+        "gameOverLockHull": false,
+        "gameOverLock": false,
+        "resourceTransferAdvSettingsShow": false,
+        "newBuildings": {
+            "$id": 218,
+            "$type": "83|System.Collections.Generic.Dictionary`2[[BulwarkStudios.Stanford.Torus.Buildings.BuildingCategory, BulwarkStudios.Stanford],[System.Collections.Generic.HashSet`1[[BulwarkStudios.Stanford.Torus.Buildings.BuildingData, BulwarkStudios.Stanford]], System.Core]], mscorlib",
+            "comparer": {
+                "$id": 219,
+                "$type": "84|System.Collections.Generic.ObjectEqualityComparer`1[[BulwarkStudios.Stanford.Torus.Buildings.BuildingCategory, BulwarkStudios.Stanford]], mscorlib"
+            },
+            "$rlength": 8,
+            "$rcontent": [
+                {
+                    "$k": $eref:148,
+                    "$v": {
+                        "$id": 220,
+                        "$type": "85|System.Collections.Generic.HashSet`1[[BulwarkStudios.Stanford.Torus.Buildings.BuildingData, BulwarkStudios.Stanford]], System.Core",
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    }
+                },
+                {
+                    "$k": $eref:149,
+                    "$v": {
+                        "$id": 221,
+                        "$type": 85,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    }
+                },
+                {
+                    "$k": $eref:150,
+                    "$v": {
+                        "$id": 222,
+                        "$type": 85,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    }
+                },
+                {
+                    "$k": $eref:151,
+                    "$v": {
+                        "$id": 223,
+                        "$type": 85,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    }
+                },
+                {
+                    "$k": $eref:152,
+                    "$v": {
+                        "$id": 224,
+                        "$type": 85,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    }
+                },
+                {
+                    "$k": $eref:153,
+                    "$v": {
+                        "$id": 225,
+                        "$type": 85,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    }
+                },
+                {
+                    "$k": $eref:154,
+                    "$v": {
+                        "$id": 226,
+                        "$type": 85,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    }
+                },
+                {
+                    "$k": $eref:155,
+                    "$v": {
+                        "$id": 227,
+                        "$type": 85,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    }
+                }
+            ]
+        },
+        "shortRangeMissileCooldownLeft": 0,
+        "isHUDAlwaysOn": true,
+        "trainStationDisplayMode": 1,
+        "disableLowPopGameOver": false,
+        "moodCitizenStage": {
+            "$id": 228,
+            "$type": "86|System.Collections.Generic.HashSet`1[[System.Int32, mscorlib]], System.Core",
+            "$rlength": 0,
+            "$rcontent": [
+            ]
+        },
+        "moodCitizenCount": 198,
+        "selectedFilter": null,
+        "colonizationAttempts": 0,
+        "citizenTotalDeathCountFromStarvation": 0,
+        "citizenTotalDeathCountFromInjury": 0,
+        "injuryRateModifier": 1,
+        "faithPropagationMultiplier": 0,
+        "piranesi": {
+            "$id": 229,
+            "$type": "87|BulwarkStudios.Stanford.Common.Players.PlayerStatePiranesi, BulwarkStudios.Stanford",
+            "angrinessLevel": 0,
+            "animatorState": 0,
+            "animationTiming": 0,
+            "isNextToTiqqun": false
+        },
+        "spaceVehicleGuids": {
+            "$id": 230,
+            "$type": "88|System.Collections.Generic.List`1[[System.Guid, mscorlib]], mscorlib",
+            "$rlength": 3,
+            "$rcontent": [
+                891a3a37-5808-43e8-9b99-5a6312243b6e,
+                6f958761-37be-4ad9-bd42-80b4b2205263,
+                0541e36c-13c2-4ac9-bc8f-f67daad5cb29
+            ]
+        },
+        "dlsEventGuids": {
+            "$id": 231,
+            "$type": 88,
+            "$rlength": 9,
+            "$rcontent": [
+                9a820e88-d7a0-4875-bd7b-c47b6e40973d,
+                6fb067a6-54e2-4131-bc68-f662533498d5,
+                bdbdbde1-8daa-47a7-87ca-05b76bf81db5,
+                0e792c5c-7500-4764-a3fb-b78d723fce22,
+                3d22aed5-2cb0-498f-949b-7e43f3ff5967,
+                6a268184-d6d0-4237-af11-9a05e7c48ffc,
+                111122df-3c13-4973-855f-38f74bb5a69e,
+                4415e410-8fb1-493d-9dde-6a1849b11cbd,
+                8a8855a9-82b5-4522-a46b-e1c22d8beb42
+            ]
+        },
+        "listCommandable": {
+            "$id": 232,
+            "$type": "89|System.Collections.Generic.List`1[[BulwarkStudios.Stanford.Core.Commands.ICommandSaveable, BulwarkStudios.Stanford]], mscorlib",
+            "$rlength": 60,
+            "$rcontent": [
+                {
+                    "$id": 233,
+                    "$type": "90|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventCryo01, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 234,
+                        "$type": "91|System.Collections.Generic.Queue`1[[BulwarkStudios.Stanford.Core.Commands.ICommandSaveable, BulwarkStudios.Stanford]], mscorlib",
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:156,
+                    "minChapter": 1,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0,
+                    "cyclesWithConditionsValid": {
+                        "$id": 235,
+                        "$type": 28,
+                        "$plength": 6,
+                        "$pcontent": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "previousUncryonizedCounts": {
+                        "$id": 236,
+                        "$type": 28,
+                        "$plength": 6,
+                        "$pcontent": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                {
+                    "$id": 237,
+                    "$type": "92|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventCryo02, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 238,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:157,
+                    "minChapter": 2,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0,
+                    "cyclesWithConditionsValid": {
+                        "$id": 239,
+                        "$type": 28,
+                        "$plength": 6,
+                        "$pcontent": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                {
+                    "$id": 240,
+                    "$type": "93|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventCryo03, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 241,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:158,
+                    "minChapter": 3,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0,
+                    "cyclesWithConditionsValid": {
+                        "$id": 242,
+                        "$type": 28,
+                        "$plength": 6,
+                        "$pcontent": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                {
+                    "$id": 243,
+                    "$type": "94|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventFood03, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 244,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:159,
+                    "minChapter": 1,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0
+                },
+                {
+                    "$id": 245,
+                    "$type": "95|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventFood04, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 246,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:160,
+                    "minChapter": 1,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0
+                },
+                {
+                    "$id": 247,
+                    "$type": "96|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventFood05, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 248,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:161,
+                    "minChapter": 1,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0
+                },
+                {
+                    "$id": 249,
+                    "$type": "97|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventFood06, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 250,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:162,
+                    "minChapter": 2,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0
+                },
+                {
+                    "$id": 251,
+                    "$type": "98|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventFood07, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 252,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:163,
+                    "minChapter": 2,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0,
+                    "cyclesWithRestrictedFoodDecree": {
+                        "$id": 253,
+                        "$type": 28,
+                        "$plength": 6,
+                        "$pcontent": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                {
+                    "$id": 254,
+                    "$type": "99|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventFood08, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 255,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:164,
+                    "minChapter": 2,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0,
+                    "cyclesWithInsectFarm": {
+                        "$id": 256,
+                        "$type": 28,
+                        "$plength": 6,
+                        "$pcontent": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                {
+                    "$id": 257,
+                    "$type": "100|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventFood09, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 258,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:165,
+                    "minChapter": 3,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0,
+                    "cyclesWithMushroomWall": {
+                        "$id": 259,
+                        "$type": 28,
+                        "$plength": 6,
+                        "$pcontent": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                {
+                    "$id": 260,
+                    "$type": "101|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventHappy01, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 261,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:166,
+                    "minChapter": 1,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0
+                },
+                {
+                    "$id": 262,
+                    "$type": "102|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventHappy02, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 263,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:167,
+                    "minChapter": 1,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0,
+                    "cyclesWithCropFarm": {
+                        "$id": 264,
+                        "$type": 28,
+                        "$plength": 6,
+                        "$pcontent": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "harvestedResource": {
+                        "$id": 265,
+                        "$type": "103|System.Boolean[], mscorlib",
+                        "$plength": 6,
+                        "$pcontent": [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    }
+                },
+                {
+                    "$id": 266,
+                    "$type": "104|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventHappy03, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 267,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:168,
+                    "minChapter": 2,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0
+                },
+                {
+                    "$id": 268,
+                    "$type": "105|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventHappy04, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 269,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:169,
+                    "minChapter": 2,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0
+                },
+                {
+                    "$id": 270,
+                    "$type": "106|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventHappy05, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 271,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:170,
+                    "minChapter": 2,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0
+                },
+                {
+                    "$id": 272,
+                    "$type": "107|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventHappy06, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 273,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:171,
+                    "minChapter": 3,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0
+                },
+                {
+                    "$id": 274,
+                    "$type": "108|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventHappy07, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 275,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:172,
+                    "minChapter": 1,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0
+                },
+                {
+                    "$id": 276,
+                    "$type": "109|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventHealth01, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 277,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:173,
+                    "minChapter": 0,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0
+                },
+                {
+                    "$id": 278,
+                    "$type": "110|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventHealth02, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 279,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:174,
+                    "minChapter": 1,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0,
+                    "cyclesWithEnoughUntreatedInjuries": {
+                        "$id": 280,
+                        "$type": 28,
+                        "$plength": 6,
+                        "$pcontent": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                {
+                    "$id": 281,
+                    "$type": "111|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventHealth04, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 282,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:175,
+                    "minChapter": 2,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0,
+                    "cyclesWithRecyclingCorpsesDecree": {
+                        "$id": 283,
+                        "$type": 28,
+                        "$plength": 6,
+                        "$pcontent": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                {
+                    "$id": 284,
+                    "$type": "112|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventHealth05, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 285,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:176,
+                    "minChapter": 3,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0
+                },
+                {
+                    "$id": 286,
+                    "$type": "113|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventHouse02, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 287,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:177,
+                    "minChapter": 2,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0,
+                    "cyclesWithConditionsValid": 0
+                },
+                {
+                    "$id": 288,
+                    "$type": "114|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventHouse03, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 289,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:178,
+                    "minChapter": 2,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0
+                },
+                {
+                    "$id": 290,
+                    "$type": "115|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventHouse05, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 291,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:179,
+                    "minChapter": 3,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0,
+                    "cyclesWithCellHousing": {
+                        "$id": 292,
+                        "$type": 28,
+                        "$plength": 6,
+                        "$pcontent": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                {
+                    "$id": 293,
+                    "$type": "116|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventHull01, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 294,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:180,
+                    "minChapter": 1,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0
+                },
+                {
+                    "$id": 295,
+                    "$type": "117|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventHull02, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 296,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:181,
+                    "minChapter": 1,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0
+                },
+                {
+                    "$id": 297,
+                    "$type": "118|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventHull03, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 298,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:182,
+                    "minChapter": 2,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0,
+                    "cyclesInsideWeather": 0
+                },
+                {
+                    "$id": 299,
+                    "$type": "119|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventMental12, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 300,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:183,
+                    "minChapter": 4,
+                    "hasMaxChapter": true,
+                    "maxChapter": 4,
+                    "stellarObjectData": $eref:184
+                },
+                {
+                    "$id": 301,
+                    "$type": "120|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventMental15, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 302,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:185,
+                    "minChapter": 3,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0,
+                    "nbCyclesWithAllSectors": 0
+                },
+                {
+                    "$id": 303,
+                    "$type": "121|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventMental16, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 304,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:186,
+                    "minChapter": 3,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0
+                },
+                {
+                    "$id": 305,
+                    "$type": "122|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventMental17, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 306,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:187,
+                    "minChapter": 1,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0
+                },
+                {
+                    "$id": 307,
+                    "$type": "123|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventMental18, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 308,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:188,
+                    "minChapter": 3,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0
+                },
+                {
+                    "$id": 309,
+                    "$type": "124|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventMental19, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 310,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:189,
+                    "minChapter": 2,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0
+                },
+                {
+                    "$id": 311,
+                    "$type": "125|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventMental20, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 312,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:190,
+                    "minChapter": 2,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0
+                },
+                {
+                    "$id": 313,
+                    "$type": "126|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventMental21, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 314,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:191,
+                    "minChapter": 1,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0
+                },
+                {
+                    "$id": 315,
+                    "$type": "127|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventMental22, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 316,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:192,
+                    "minChapter": 1,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0
+                },
+                {
+                    "$id": 317,
+                    "$type": "128|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventMental23, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 318,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:193,
+                    "minChapter": 3,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0
+                },
+                {
+                    "$id": 319,
+                    "$type": "129|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventSituation01, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 320,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:194,
+                    "minChapter": 1,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0
+                },
+                {
+                    "$id": 321,
+                    "$type": "130|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventSituation02, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 322,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:195,
+                    "minChapter": 2,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0
+                },
+                {
+                    "$id": 323,
+                    "$type": "131|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventSituation03, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 324,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:196,
+                    "minChapter": 2,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0,
+                    "cyclesElapsed": 0
+                },
+                {
+                    "$id": 325,
+                    "$type": "132|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventSituation04, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 326,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:197,
+                    "minChapter": 1,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0
+                },
+                {
+                    "$id": 327,
+                    "$type": "133|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventSituation05, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 328,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:198,
+                    "minChapter": 2,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0,
+                    "cyclesElapsed": 0
+                },
+                {
+                    "$id": 329,
+                    "$type": "134|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventSituation06, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 330,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:199,
+                    "minChapter": 3,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0,
+                    "cyclesElapsed": 0
+                },
+                {
+                    "$id": 331,
+                    "$type": "135|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventStory12, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 332,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:200,
+                    "minChapter": 3,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0
+                },
+                {
+                    "$id": 333,
+                    "$type": "136|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventStory14, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 334,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:201,
+                    "minChapter": 3,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0,
+                    "nbCycles": 0,
+                    "cyclesElapsed": 0
+                },
+                {
+                    "$id": 335,
+                    "$type": "137|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventStory20, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 336,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:202,
+                    "minChapter": 3,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0
+                },
+                {
+                    "$id": 337,
+                    "$type": "138|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventStory21, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 338,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:203,
+                    "minChapter": 4,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0,
+                    "cyclesElapsed": 0
+                },
+                {
+                    "$id": 339,
+                    "$type": "139|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventStory24, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 340,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:204,
+                    "minChapter": 3,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0,
+                    "uncryonizedCitizensAtStart": 0
+                },
+                {
+                    "$id": 341,
+                    "$type": "140|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventStory25, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 342,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:205,
+                    "minChapter": 2,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0,
+                    "cyclesElapsed": 0
+                },
+                {
+                    "$id": 343,
+                    "$type": "141|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventStory37, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 344,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:206,
+                    "minChapter": 3,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0
+                },
+                {
+                    "$id": 345,
+                    "$type": "142|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventTrust01, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 346,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:207,
+                    "minChapter": 1,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0
+                },
+                {
+                    "$id": 347,
+                    "$type": "143|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventTrust02, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 348,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:208,
+                    "minChapter": 1,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0
+                },
+                {
+                    "$id": 349,
+                    "$type": "144|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventTrust03, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 350,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:209,
+                    "minChapter": 1,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0
+                },
+                {
+                    "$id": 351,
+                    "$type": "145|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventWork02, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 352,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:210,
+                    "minChapter": 1,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0,
+                    "cyclesWithOverwork": {
+                        "$id": 353,
+                        "$type": 28,
+                        "$plength": 6,
+                        "$pcontent": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                {
+                    "$id": 354,
+                    "$type": "146|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventWork03, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 355,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:211,
+                    "minChapter": 3,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0,
+                    "cyclesWithOverwork": {
+                        "$id": 356,
+                        "$type": 28,
+                        "$plength": 6,
+                        "$pcontent": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                {
+                    "$id": 357,
+                    "$type": "147|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventWork04, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 358,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:212,
+                    "minChapter": 1,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0
+                },
+                {
+                    "$id": 359,
+                    "$type": "148|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventWork05, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 360,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:213,
+                    "minChapter": 0,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0
+                },
+                {
+                    "$id": 361,
+                    "$type": "149|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventWork06, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 362,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:214,
+                    "minChapter": 2,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0
+                },
+                {
+                    "$id": 363,
+                    "$type": "150|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventWork07, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 364,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:215,
+                    "minChapter": 3,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0,
+                    "cyclesWithIntenseWorkDecree": {
+                        "$id": 365,
+                        "$type": 28,
+                        "$plength": 6,
+                        "$pcontent": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                {
+                    "$id": 366,
+                    "$type": "151|BulwarkStudios.Stanford.Common.DLS.CommandInternalEventWork08, BulwarkStudios.Stanford",
+                    "Status": 2,
+                    "RemoveWhenDone": true,
+                    "fallbackCommands": {
+                        "$id": 367,
+                        "$type": 91,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "customTickableTime": 0,
+                    "dlsEvent": $eref:216,
+                    "minChapter": 2,
+                    "hasMaxChapter": false,
+                    "maxChapter": 0
+                }
+            ]
+        },
+        "listReplaySteps": null
+    }
+}

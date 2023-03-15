@@ -1,0 +1,235 @@
+{
+    "$id": 0,
+    "$type": "0|BulwarkStudios.Stanford.Saves.SaveDataReference, BulwarkStudios.Stanford",
+    "refObjects": {
+        "$id": 1,
+        "$type": "1|System.Collections.Generic.List`1[[BulwarkStudios.Stanford.Saves.SaveDataReference+DataRefObject, BulwarkStudios.Stanford]], mscorlib",
+        "$rlength": 32,
+        "$rcontent": [
+            {
+                "$type": "2|BulwarkStudios.Stanford.Saves.SaveDataReference+DataRefObject, BulwarkStudios.Stanford",
+                "name": "Sector1",
+                "path": "Assets/Data/Torus/Sectors/Sector1.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Sectors.TorusSectorData",
+                "guid": "6f2f165520675224cbbbf0a53c7b61d0"
+            },
+            {
+                "$type": 2,
+                "name": "Propaganda",
+                "path": "Assets/Data/Common/Decrees/Propaganda.asset",
+                "type": "BulwarkStudios.Stanford.Common.Decrees.DecreeData",
+                "guid": "ed3edfdcb05302e408bada841c6c2e74"
+            },
+            {
+                "$type": 2,
+                "name": "Food",
+                "path": "Assets/Data/Common/Decrees/Food.asset",
+                "type": "BulwarkStudios.Stanford.Common.Decrees.DecreeData",
+                "guid": "df2814d1bbc806c41ad6208ce267a809"
+            },
+            {
+                "$type": 2,
+                "name": "WorkingHours",
+                "path": "Assets/Data/Common/Decrees/WorkingHours.asset",
+                "type": "BulwarkStudios.Stanford.Common.Decrees.DecreeData",
+                "guid": "79ffac53220763c428fb23a414729976"
+            },
+            {
+                "$type": 2,
+                "name": "Death",
+                "path": "Assets/Data/Common/Decrees/Death.asset",
+                "type": "BulwarkStudios.Stanford.Common.Decrees.DecreeData",
+                "guid": "21d2be2619191be4c885ada72c0347c5"
+            },
+            {
+                "$type": 2,
+                "name": "Wastes",
+                "path": "Assets/Data/Common/Decrees/Wastes.asset",
+                "type": "BulwarkStudios.Stanford.Common.Decrees.DecreeData",
+                "guid": "dc45a66e79cc76640a6e96308a71cd39"
+            },
+            {
+                "$type": 2,
+                "name": "Starvation",
+                "path": "Assets/Data/Common/Decrees/Starvation.asset",
+                "type": "BulwarkStudios.Stanford.Common.Decrees.DecreeData",
+                "guid": "ab51b97893bdb5f429a065108718cb88"
+            },
+            {
+                "$type": 2,
+                "name": "Infirmaries",
+                "path": "Assets/Data/Common/Decrees/Infirmaries.asset",
+                "type": "BulwarkStudios.Stanford.Common.Decrees.DecreeData",
+                "guid": "6bdc358b7187ef04db9a260661cf40f9"
+            },
+            {
+                "$type": 2,
+                "name": "CryopodAwakening",
+                "path": "Assets/Data/Common/Decrees/CryopodAwakening.asset",
+                "type": "BulwarkStudios.Stanford.Common.Decrees.DecreeData",
+                "guid": "9b254367b502d344b8c3a7e01949d76a"
+            },
+            {
+                "$type": 2,
+                "name": "Industry",
+                "path": "Assets/Data/Common/Specializations/Industry.asset",
+                "type": "BulwarkStudios.Stanford.Common.Specialization.SpecializationData",
+                "guid": "1d2f771379a758247b19ea2229cebe6f"
+            },
+            {
+                "$type": 2,
+                "name": "Population",
+                "path": "Assets/Data/Common/Specializations/Population.asset",
+                "type": "BulwarkStudios.Stanford.Common.Specialization.SpecializationData",
+                "guid": "0a6807a36aa52644487ae53754421c4a"
+            },
+            {
+                "$type": 2,
+                "name": "Food",
+                "path": "Assets/Data/Common/Specializations/Food.asset",
+                "type": "BulwarkStudios.Stanford.Common.Specialization.SpecializationData",
+                "guid": "1af698746dfe2b841a8156c7a7cd7152"
+            },
+            {
+                "$type": 2,
+                "name": "Space",
+                "path": "Assets/Data/Common/Specializations/Space.asset",
+                "type": "BulwarkStudios.Stanford.Common.Specialization.SpecializationData",
+                "guid": "1b79b8312abab954e86408fc6cbeb82b"
+            },
+            {
+                "$type": 2,
+                "name": "Recycling",
+                "path": "Assets/Data/Common/Specializations/Recycling.asset",
+                "type": "BulwarkStudios.Stanford.Common.Specialization.SpecializationData",
+                "guid": "4bfe8462962746f46b84dfadebe93e7a"
+            },
+            {
+                "$type": 2,
+                "name": "Food",
+                "path": "Assets/Data/Common/ResourceTypes/Torus/Food.asset",
+                "type": "BulwarkStudios.Stanford.Core.GameResources.ResourceData",
+                "guid": "55f0ae81d4dbbef4f9d2db40db102568"
+            },
+            {
+                "$type": 2,
+                "name": "Alloy",
+                "path": "Assets/Data/Common/ResourceTypes/Torus/Alloy.asset",
+                "type": "BulwarkStudios.Stanford.Core.GameResources.ResourceData",
+                "guid": "919f1178d57ec624289193c68a6f6811"
+            },
+            {
+                "$type": 2,
+                "name": "Electronics",
+                "path": "Assets/Data/Common/ResourceTypes/Torus/Electronics.asset",
+                "type": "BulwarkStudios.Stanford.Core.GameResources.ResourceData",
+                "guid": "8ba0b4fc0582ce8448f4c5b373d3e926"
+            },
+            {
+                "$type": 2,
+                "name": "Polymer",
+                "path": "Assets/Data/Common/ResourceTypes/Torus/Polymer.asset",
+                "type": "BulwarkStudios.Stanford.Core.GameResources.ResourceData",
+                "guid": "a10a6647f4bbafd4cb1e8daddc8f53fa"
+            },
+            {
+                "$type": 2,
+                "name": "Waste",
+                "path": "Assets/Data/Common/ResourceTypes/Torus/Waste.asset",
+                "type": "BulwarkStudios.Stanford.Core.GameResources.ResourceData",
+                "guid": "5791ec7cf6aad6b418fa1d3d91b148dd"
+            },
+            {
+                "$type": 2,
+                "name": "CryonicPod",
+                "path": "Assets/Data/Common/ResourceTypes/CryonicPod.asset",
+                "type": "BulwarkStudios.Stanford.Core.GameResources.ResourceData",
+                "guid": "916b98cafb49cdc4a9ecea2e20ff28bb"
+            },
+            {
+                "$type": 2,
+                "name": "Ice",
+                "path": "Assets/Data/Common/ResourceTypes/Stellar map/Ice.asset",
+                "type": "BulwarkStudios.Stanford.Core.GameResources.ResourceData",
+                "guid": "4b08385f4c627bd4687745c7b109bf16"
+            },
+            {
+                "$type": 2,
+                "name": "Iron",
+                "path": "Assets/Data/Common/ResourceTypes/Stellar map/Iron.asset",
+                "type": "BulwarkStudios.Stanford.Core.GameResources.ResourceData",
+                "guid": "29d32da2a71729d4cbd1bb4c650c2634"
+            },
+            {
+                "$type": 2,
+                "name": "Carbon",
+                "path": "Assets/Data/Common/ResourceTypes/Stellar map/Carbon.asset",
+                "type": "BulwarkStudios.Stanford.Core.GameResources.ResourceData",
+                "guid": "ef7d6b46bbfb4c34792f1d8755562d2e"
+            },
+            {
+                "$type": 2,
+                "name": "Silicon",
+                "path": "Assets/Data/Common/ResourceTypes/Stellar map/Silicon.asset",
+                "type": "BulwarkStudios.Stanford.Core.GameResources.ResourceData",
+                "guid": "9a102a213d8be234797becc71ca70b4a"
+            },
+            {
+                "$type": 2,
+                "name": "Hydrogen",
+                "path": "Assets/Data/Common/ResourceTypes/Stellar map/Hydrogen.asset",
+                "type": "BulwarkStudios.Stanford.Core.GameResources.ResourceData",
+                "guid": "8f1dd69ffb5d9ae4c9297c9712d5b04c"
+            },
+            {
+                "$type": 2,
+                "name": "Sector2",
+                "path": "Assets/Data/Torus/Sectors/Sector2.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Sectors.TorusSectorData",
+                "guid": "ae2031a9b9481324eb651709848f0b09"
+            },
+            {
+                "$type": 2,
+                "name": "Workshop",
+                "path": "Assets/Data/Torus/Buildings/Maintenance/Workshop.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Buildings.BuildingData",
+                "guid": "ea04c57325425cf45b6ea6398f78a1cd"
+            },
+            {
+                "$type": 2,
+                "name": "StockpileSmall",
+                "path": "Assets/Data/Torus/Buildings/Maintenance/StockpileSmall.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Buildings.BuildingData",
+                "guid": "bbc91bd4406ea714591d08c2f74a4561"
+            },
+            {
+                "$type": 2,
+                "name": "Sector3",
+                "path": "Assets/Data/Torus/Sectors/Sector3.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Sectors.TorusSectorData",
+                "guid": "0a7be279d74d79b469843c3314bbb65a"
+            },
+            {
+                "$type": 2,
+                "name": "Sector4",
+                "path": "Assets/Data/Torus/Sectors/Sector4.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Sectors.TorusSectorData",
+                "guid": "7b139bf459da39a448b976f92da406e5"
+            },
+            {
+                "$type": 2,
+                "name": "Sector5",
+                "path": "Assets/Data/Torus/Sectors/Sector5.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Sectors.TorusSectorData",
+                "guid": "e90bc1b4d6872da4d864983f97c07d7a"
+            },
+            {
+                "$type": 2,
+                "name": "Sector6",
+                "path": "Assets/Data/Torus/Sectors/Sector6.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Sectors.TorusSectorData",
+                "guid": "1e9dfbcd25ae6154e869ea3344681599"
+            }
+        ]
+    }
+}

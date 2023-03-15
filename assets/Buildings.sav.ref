@@ -1,0 +1,186 @@
+{
+    "$id": 0,
+    "$type": "0|BulwarkStudios.Stanford.Saves.SaveDataReference, BulwarkStudios.Stanford",
+    "refObjects": {
+        "$id": 1,
+        "$type": "1|System.Collections.Generic.List`1[[BulwarkStudios.Stanford.Saves.SaveDataReference+DataRefObject, BulwarkStudios.Stanford]], mscorlib",
+        "$rlength": 25,
+        "$rcontent": [
+            {
+                "$type": "2|BulwarkStudios.Stanford.Saves.SaveDataReference+DataRefObject, BulwarkStudios.Stanford",
+                "name": "DockingBay",
+                "path": "Assets/Data/Torus/Buildings/Exterior/DockingBay.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Buildings.BuildingData",
+                "guid": "4fe15dea9130f434094adc58cda8ee9c"
+            },
+            {
+                "$type": 2,
+                "name": "Sector1",
+                "path": "Assets/Data/Torus/Sectors/Sector1.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Sectors.TorusSectorData",
+                "guid": "6f2f165520675224cbbbf0a53c7b61d0"
+            },
+            {
+                "$type": 2,
+                "name": "DebrisT2",
+                "path": "Assets/Data/Torus/Buildings/Special/DebrisT2.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Buildings.BuildingData",
+                "guid": "940fd129d6a998b479f1308a8df526be"
+            },
+            {
+                "$type": 2,
+                "name": "Sector2",
+                "path": "Assets/Data/Torus/Sectors/Sector2.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Sectors.TorusSectorData",
+                "guid": "ae2031a9b9481324eb651709848f0b09"
+            },
+            {
+                "$type": 2,
+                "name": "DebrisT3",
+                "path": "Assets/Data/Torus/Buildings/Special/DebrisT3.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Buildings.BuildingData",
+                "guid": "50f24aa78e2c6e94783dca8da9de49fe"
+            },
+            {
+                "$type": 2,
+                "name": "DebrisT1",
+                "path": "Assets/Data/Torus/Buildings/Special/DebrisT1.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Buildings.BuildingData",
+                "guid": "1a39dd6e722ec144ca1455dce57bbc10"
+            },
+            {
+                "$type": 2,
+                "name": "SuppliesT1",
+                "path": "Assets/Data/Torus/Buildings/Special/SuppliesT1.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Buildings.BuildingData",
+                "guid": "0d51d1aff38b7394981c022da48b0211"
+            },
+            {
+                "$type": 2,
+                "name": "Sector6",
+                "path": "Assets/Data/Torus/Sectors/Sector6.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Sectors.TorusSectorData",
+                "guid": "1e9dfbcd25ae6154e869ea3344681599"
+            },
+            {
+                "$type": 2,
+                "name": "SuppliesT3",
+                "path": "Assets/Data/Torus/Buildings/Special/SuppliesT3.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Buildings.BuildingData",
+                "guid": "92de5a9f940e6a5449ce72ca2e667221"
+            },
+            {
+                "$type": 2,
+                "name": "SuppliesT2",
+                "path": "Assets/Data/Torus/Buildings/Special/SuppliesT2.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Buildings.BuildingData",
+                "guid": "9a1faf1945b81ec469b17abb49cccd07"
+            },
+            {
+                "$type": 2,
+                "name": "Sector5",
+                "path": "Assets/Data/Torus/Sectors/Sector5.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Sectors.TorusSectorData",
+                "guid": "e90bc1b4d6872da4d864983f97c07d7a"
+            },
+            {
+                "$type": 2,
+                "name": "Sector3",
+                "path": "Assets/Data/Torus/Sectors/Sector3.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Sectors.TorusSectorData",
+                "guid": "0a7be279d74d79b469843c3314bbb65a"
+            },
+            {
+                "$type": 2,
+                "name": "Sector4",
+                "path": "Assets/Data/Torus/Sectors/Sector4.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Sectors.TorusSectorData",
+                "guid": "7b139bf459da39a448b976f92da406e5"
+            },
+            {
+                "$type": 2,
+                "name": "BaseQuarter",
+                "path": "Assets/Data/Torus/Buildings/Population/BaseQuarter.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Buildings.BuildingData",
+                "guid": "3790242a7cd4f4845be7308aea2355bf"
+            },
+            {
+                "$type": 2,
+                "name": "ProbeLauncher",
+                "path": "Assets/Data/Torus/Buildings/Exterior/ProbeLauncher.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Buildings.BuildingData",
+                "guid": "a116f0127c781a84a8b05829527c1541"
+            },
+            {
+                "$type": 2,
+                "name": "InsectFarm",
+                "path": "Assets/Data/Torus/Buildings/Food/InsectFarm.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Buildings.BuildingData",
+                "guid": "3620f795c0d2733479b54c65393da665"
+            },
+            {
+                "$type": 2,
+                "name": "Infirmary",
+                "path": "Assets/Data/Torus/Buildings/Population/Infirmary.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Buildings.BuildingData",
+                "guid": "84332a0c8268ded4dbb873b6988c33f8"
+            },
+            {
+                "$type": 2,
+                "name": "TechLab",
+                "path": "Assets/Data/Torus/Buildings/Factories/TechLab.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Buildings.BuildingData",
+                "guid": "2735837e8ac1aeb45af8bb41e138ac80"
+            },
+            {
+                "$type": 2,
+                "name": "StockpileSmall",
+                "path": "Assets/Data/Torus/Buildings/Maintenance/StockpileSmall.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Buildings.BuildingData",
+                "guid": "bbc91bd4406ea714591d08c2f74a4561"
+            },
+            {
+                "$type": 2,
+                "name": "Alloy",
+                "path": "Assets/Data/Common/ResourceTypes/Torus/Alloy.asset",
+                "type": "BulwarkStudios.Stanford.Core.GameResources.ResourceData",
+                "guid": "919f1178d57ec624289193c68a6f6811"
+            },
+            {
+                "$type": 2,
+                "name": "Food",
+                "path": "Assets/Data/Common/ResourceTypes/Torus/Food.asset",
+                "type": "BulwarkStudios.Stanford.Core.GameResources.ResourceData",
+                "guid": "55f0ae81d4dbbef4f9d2db40db102568"
+            },
+            {
+                "$type": 2,
+                "name": "EVAAirlock",
+                "path": "Assets/Data/Torus/Buildings/Exterior/EVAAirlock.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Buildings.BuildingData",
+                "guid": "6ba8bf9f2a199a74fb29b9f8456f3cb0"
+            },
+            {
+                "$type": 2,
+                "name": "Polymer",
+                "path": "Assets/Data/Common/ResourceTypes/Torus/Polymer.asset",
+                "type": "BulwarkStudios.Stanford.Core.GameResources.ResourceData",
+                "guid": "a10a6647f4bbafd4cb1e8daddc8f53fa"
+            },
+            {
+                "$type": 2,
+                "name": "Refectory",
+                "path": "Assets/Data/Torus/Buildings/Food/Refectory.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Buildings.BuildingData",
+                "guid": "d49c18f7ab709ff4592f52134617f870"
+            },
+            {
+                "$type": 2,
+                "name": "Workshop",
+                "path": "Assets/Data/Torus/Buildings/Maintenance/Workshop.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Buildings.BuildingData",
+                "guid": "ea04c57325425cf45b6ea6398f78a1cd"
+            }
+        ]
+    }
+}

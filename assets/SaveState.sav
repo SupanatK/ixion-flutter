@@ -1,0 +1,49 @@
+{
+    "$type": "0|BulwarkStudios.Stanford.Saves.SaveState+Data, BulwarkStudios.Stanford",
+    "index": 3,
+    "type": 0,
+    "dateCreated": {
+        "$type": "1|System.DateTime, mscorlib",
+        -8585249828227911525
+    },
+    "dateUpdated": {
+        "$type": 1,
+        -8585226987365714017
+    },
+    "format": 1,
+    "version": "1.0.3.7",
+    "saveStateName": "Flutter",
+    "chapter": 1,
+    "cycles": 99,
+    "objectiveName": "Send an expedition to Earth",
+    "crc32Building": "c1cf147c",
+    "crc32BuildingRef": "4bc50950",
+    "crc32Lockdoor": "c5b2bea9",
+    "crc32LockdoorRef": "d64e114f",
+    "crc32Player": "c5d6703e",
+    "crc32PlayerRef": "f5041ca1",
+    "crc32DlsEvent": "582e7076",
+    "crc32DlsEventRef": "e6c84f89",
+    "crc32StellarObject": "83d31942",
+    "crc32StellarObjectRef": "d3e94897",
+    "crc32SpaceVehicle": "91d10062",
+    "crc32SpaceVehicleRef": "65217924",
+    "crc32Citizen": "2f466faf",
+    "crc32CitizenRef": "4e039580",
+    "crc32Torus": "29a277e0",
+    "crc32TorusRef": "bb60c163",
+    "crc32TorusSector": "f4665eee",
+    "crc32TorusSectorRef": "c841e517",
+    "crc32Transporter": "289a8418",
+    "crc32TransporterRef": "6c4e21b0",
+    "crc32EvaModule": "a65850ac",
+    "crc32EvaModuleRef": "c1f4fe8d",
+    "crc32Road": "a8c635a0",
+    "crc32RoadRef": "9a5f0a02",
+    "crc32Weather": "7be6b5c6",
+    "crc32WeatherRef": "d3c8c380",
+    "chapterStartSaveIndex": {
+        "$type": "2|System.Nullable`1[[System.Int32, mscorlib]], mscorlib",
+        2
+    }
+}

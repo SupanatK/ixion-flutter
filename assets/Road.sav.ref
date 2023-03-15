@@ -1,0 +1,18 @@
+{
+    "$id": 0,
+    "$type": "0|BulwarkStudios.Stanford.Saves.SaveDataReference, BulwarkStudios.Stanford",
+    "refObjects": {
+        "$id": 1,
+        "$type": "1|System.Collections.Generic.List`1[[BulwarkStudios.Stanford.Saves.SaveDataReference+DataRefObject, BulwarkStudios.Stanford]], mscorlib",
+        "$rlength": 1,
+        "$rcontent": [
+            {
+                "$type": "2|BulwarkStudios.Stanford.Saves.SaveDataReference+DataRefObject, BulwarkStudios.Stanford",
+                "name": "ALL",
+                "path": "Assets/Data/Torus/Road/ALL.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Roads.RoadData",
+                "guid": "d72bf585e4c792b4e96359ff4d91fd92"
+            }
+        ]
+    }
+}

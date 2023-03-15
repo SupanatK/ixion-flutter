@@ -1,0 +1,53 @@
+{
+    "$id": 0,
+    "$type": "0|BulwarkStudios.Stanford.Saves.SaveDataReference, BulwarkStudios.Stanford",
+    "refObjects": {
+        "$id": 1,
+        "$type": "1|System.Collections.Generic.List`1[[BulwarkStudios.Stanford.Saves.SaveDataReference+DataRefObject, BulwarkStudios.Stanford]], mscorlib",
+        "$rlength": 6,
+        "$rcontent": [
+            {
+                "$type": "2|BulwarkStudios.Stanford.Saves.SaveDataReference+DataRefObject, BulwarkStudios.Stanford",
+                "name": "Lockdoor_Sector6To1_1",
+                "path": "Assets/Data/Torus/Lockdoors/Lockdoor_Sector6To1_1.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Sectors.LockdoorData",
+                "guid": "1488c0416b69f9e4e8e9f73e761b357f"
+            },
+            {
+                "$type": 2,
+                "name": "Lockdoor_Sector1To2_2",
+                "path": "Assets/Data/Torus/Lockdoors/Lockdoor_Sector1To2_2.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Sectors.LockdoorData",
+                "guid": "53c8062c55002344c828ed1859f0c3b9"
+            },
+            {
+                "$type": 2,
+                "name": "Lockdoor_Sector2To3_3",
+                "path": "Assets/Data/Torus/Lockdoors/Lockdoor_Sector2To3_3.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Sectors.LockdoorData",
+                "guid": "02d9251a54ab6704e8ab488ced64eac9"
+            },
+            {
+                "$type": 2,
+                "name": "Lockdoor_Sector3To4_4",
+                "path": "Assets/Data/Torus/Lockdoors/Lockdoor_Sector3To4_4.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Sectors.LockdoorData",
+                "guid": "a72f026a6d9e98e42bb4f008182bb4cd"
+            },
+            {
+                "$type": 2,
+                "name": "Lockdoor_Sector4To5_5",
+                "path": "Assets/Data/Torus/Lockdoors/Lockdoor_Sector4To5_5.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Sectors.LockdoorData",
+                "guid": "b8a1b3a29e7489e4cbcc3906c8f65693"
+            },
+            {
+                "$type": 2,
+                "name": "Lockdoor_Sector5To6_6",
+                "path": "Assets/Data/Torus/Lockdoors/Lockdoor_Sector5To6_6.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Sectors.LockdoorData",
+                "guid": "3418ecdac0b9d7c44a2c9d84f558506b"
+            }
+        ]
+    }
+}

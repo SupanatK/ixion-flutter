@@ -1,0 +1,11 @@
+{
+    "$id": 0,
+    "$type": "0|BulwarkStudios.Stanford.Saves.SaveDataWeather, BulwarkStudios.Stanford",
+    "states": {
+        "$id": 1,
+        "$type": "1|System.Collections.Generic.List`1[[BulwarkStudios.Stanford.Common.Weather.WeatherState, BulwarkStudios.Stanford]], mscorlib",
+        "$rlength": 0,
+        "$rcontent": [
+        ]
+    }
+}

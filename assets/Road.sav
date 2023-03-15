@@ -1,0 +1,2001 @@
+{
+    "$id": 0,
+    "$type": "0|BulwarkStudios.Stanford.Saves.SaveDataRoad, BulwarkStudios.Stanford",
+    "states": {
+        "$id": 1,
+        "$type": "1|System.Collections.Generic.List`1[[BulwarkStudios.Stanford.Torus.Roads.RoadState, BulwarkStudios.Stanford]], mscorlib",
+        "$rlength": 199,
+        "$rcontent": [
+            {
+                "$id": 2,
+                "$type": "2|BulwarkStudios.Stanford.Torus.Roads.RoadState, BulwarkStudios.Stanford",
+                "guid": 25b5baca-3b87-4403-bc1b-9777e009dcca,
+                "data": null,
+                "x": 64,
+                "y": 0,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 3,
+                "$type": 2,
+                "guid": 587efed4-072d-4ed5-b8a4-b71253f00607,
+                "data": null,
+                "x": 64,
+                "y": 1,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 4,
+                "$type": 2,
+                "guid": 091bca9f-f5f3-4f04-a2f8-76ddbf9beb90,
+                "data": null,
+                "x": 64,
+                "y": 2,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 5,
+                "$type": 2,
+                "guid": def4c55e-88f0-4366-9439-cfee3b53f339,
+                "data": null,
+                "x": 64,
+                "y": 3,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 6,
+                "$type": 2,
+                "guid": 2218afb1-4ee1-4fd3-a708-3baf1f197d08,
+                "data": null,
+                "x": 64,
+                "y": 4,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 7,
+                "$type": 2,
+                "guid": 23668cd6-169b-420d-9fb6-56589fac9d82,
+                "data": null,
+                "x": 64,
+                "y": 5,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 8,
+                "$type": 2,
+                "guid": 82f4beee-bc80-46bf-a65e-aa9a2b747bfa,
+                "data": null,
+                "x": 64,
+                "y": 6,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 9,
+                "$type": 2,
+                "guid": 0f6b860f-34e3-4023-bfd6-925e2121a833,
+                "data": null,
+                "x": 64,
+                "y": 7,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 10,
+                "$type": 2,
+                "guid": af6dc12e-3f9c-41e9-b191-4a9f8f8426ae,
+                "data": null,
+                "x": 64,
+                "y": 8,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 11,
+                "$type": 2,
+                "guid": 7e7a79c1-3123-4095-a5b2-9a5d5ce9c03a,
+                "data": $eref:0,
+                "x": 60,
+                "y": 9,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 12,
+                "$type": 2,
+                "guid": 16274ba1-cbf7-4604-9191-d002bb1f51bd,
+                "data": $eref:0,
+                "x": 59,
+                "y": 9,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 13,
+                "$type": 2,
+                "guid": 34c6d8d5-1e04-47da-b4f1-53a0415d8fc1,
+                "data": $eref:0,
+                "x": 58,
+                "y": 9,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 14,
+                "$type": 2,
+                "guid": d86dba14-8ae4-4f3c-8c21-6401e3f8aa81,
+                "data": $eref:0,
+                "x": 57,
+                "y": 9,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 15,
+                "$type": 2,
+                "guid": 41c738a8-7657-4897-8687-cf5d50f22fcb,
+                "data": $eref:0,
+                "x": 56,
+                "y": 9,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 16,
+                "$type": 2,
+                "guid": 67d7ec6d-53c0-436f-86dd-be24772a81cd,
+                "data": $eref:0,
+                "x": 55,
+                "y": 9,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 17,
+                "$type": 2,
+                "guid": f330605a-b471-4bdd-8759-61da3e6b839e,
+                "data": $eref:0,
+                "x": 54,
+                "y": 9,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 18,
+                "$type": 2,
+                "guid": cba37c56-05d2-4cd9-9739-bc1700dd24c0,
+                "data": $eref:0,
+                "x": 53,
+                "y": 9,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 19,
+                "$type": 2,
+                "guid": d968f966-4ef4-43a4-b832-37ae2d688041,
+                "data": $eref:0,
+                "x": 52,
+                "y": 9,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 20,
+                "$type": 2,
+                "guid": b78d173c-bf29-4d91-ba96-4412e0dac1bd,
+                "data": $eref:0,
+                "x": 51,
+                "y": 9,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 21,
+                "$type": 2,
+                "guid": dd47b212-3837-4848-bd89-a307ac0d3408,
+                "data": $eref:0,
+                "x": 50,
+                "y": 9,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 22,
+                "$type": 2,
+                "guid": d35ca229-5ae3-462c-8d1d-b8dea07345e4,
+                "data": $eref:0,
+                "x": 49,
+                "y": 9,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 23,
+                "$type": 2,
+                "guid": 31e841a4-df5e-4f76-9544-bfe595861e75,
+                "data": $eref:0,
+                "x": 48,
+                "y": 9,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 24,
+                "$type": 2,
+                "guid": c673576a-58e0-433f-82e4-d6d60cd56f76,
+                "data": $eref:0,
+                "x": 47,
+                "y": 9,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 25,
+                "$type": 2,
+                "guid": 81d05775-74b9-4bb6-a442-11e11495340b,
+                "data": $eref:0,
+                "x": 47,
+                "y": 8,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 26,
+                "$type": 2,
+                "guid": 54717eb7-8c86-4b42-b770-8661adccfff5,
+                "data": $eref:0,
+                "x": 47,
+                "y": 7,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 27,
+                "$type": 2,
+                "guid": 5075a8c5-5a97-4885-9229-cef6c7778b9f,
+                "data": $eref:0,
+                "x": 47,
+                "y": 6,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 28,
+                "$type": 2,
+                "guid": c68f24c8-46d5-4833-be08-153440747ae0,
+                "data": $eref:0,
+                "x": 47,
+                "y": 5,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 29,
+                "$type": 2,
+                "guid": d56055e6-c042-4a97-b97a-6c4c9059cd18,
+                "data": $eref:0,
+                "x": 47,
+                "y": 4,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 30,
+                "$type": 2,
+                "guid": d4cfd87a-31a8-402f-8e99-6834300a413c,
+                "data": $eref:0,
+                "x": 47,
+                "y": 3,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 31,
+                "$type": 2,
+                "guid": 2031e857-1e84-4a02-9b0c-eb580662114a,
+                "data": $eref:0,
+                "x": 47,
+                "y": 2,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 32,
+                "$type": 2,
+                "guid": e81dedf1-a579-4e06-8d99-9fc63e8ed146,
+                "data": $eref:0,
+                "x": 47,
+                "y": 1,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 33,
+                "$type": 2,
+                "guid": 07d53b5e-1577-4385-9f09-0a22c332f8fc,
+                "data": $eref:0,
+                "x": 47,
+                "y": 0,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 34,
+                "$type": 2,
+                "guid": 279d6df9-c562-4b60-926b-07bcd8ff2bf5,
+                "data": $eref:0,
+                "x": 53,
+                "y": 24,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 35,
+                "$type": 2,
+                "guid": 8eb85bda-25b1-42cc-8e11-8917afb1344c,
+                "data": $eref:0,
+                "x": 53,
+                "y": 23,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 36,
+                "$type": 2,
+                "guid": 6e8d4e5f-a562-4f8b-88dc-530390b90636,
+                "data": $eref:0,
+                "x": 53,
+                "y": 22,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 37,
+                "$type": 2,
+                "guid": ce159d1e-b586-4e4f-9472-66bcc25d166e,
+                "data": $eref:0,
+                "x": 53,
+                "y": 21,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 38,
+                "$type": 2,
+                "guid": 64adde23-d9c3-4c32-967c-ab51625563c8,
+                "data": $eref:0,
+                "x": 53,
+                "y": 20,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 39,
+                "$type": 2,
+                "guid": 2952a6c1-5568-4a24-9e46-f0b2df8ef5d7,
+                "data": $eref:0,
+                "x": 53,
+                "y": 19,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 40,
+                "$type": 2,
+                "guid": 598072fa-c040-4290-ace5-5975d05b9a8d,
+                "data": $eref:0,
+                "x": 53,
+                "y": 18,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 41,
+                "$type": 2,
+                "guid": 10b5b380-060e-4e81-8989-59c302612307,
+                "data": $eref:0,
+                "x": 53,
+                "y": 17,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 42,
+                "$type": 2,
+                "guid": 860cf5e4-a238-4b86-adde-27f1ad3a8fee,
+                "data": $eref:0,
+                "x": 53,
+                "y": 16,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 43,
+                "$type": 2,
+                "guid": a3484ce7-6b5b-430e-a1ad-c8b10fc68b30,
+                "data": $eref:0,
+                "x": 53,
+                "y": 15,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 44,
+                "$type": 2,
+                "guid": 27fc601a-9c5d-4951-9b10-d88150597f30,
+                "data": $eref:0,
+                "x": 49,
+                "y": 22,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 45,
+                "$type": 2,
+                "guid": 5f3ddc07-86fa-4f6a-b5df-4f63752e6943,
+                "data": $eref:0,
+                "x": 50,
+                "y": 22,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 46,
+                "$type": 2,
+                "guid": 22699eb8-12e3-4271-807d-6557f0d622b8,
+                "data": $eref:0,
+                "x": 51,
+                "y": 22,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 47,
+                "$type": 2,
+                "guid": c056aeb9-bcb7-4abb-bf41-39d49f482b40,
+                "data": $eref:0,
+                "x": 52,
+                "y": 22,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 48,
+                "$type": 2,
+                "guid": 1b03a577-fe37-4e28-bec1-87c9f8d03de9,
+                "data": $eref:0,
+                "x": 41,
+                "y": 20,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 49,
+                "$type": 2,
+                "guid": 6d1112d6-717e-4948-9aa8-cb8035468d1a,
+                "data": $eref:0,
+                "x": 40,
+                "y": 20,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 50,
+                "$type": 2,
+                "guid": 0e14c233-9bf9-43be-95e6-90891d86acb8,
+                "data": $eref:0,
+                "x": 39,
+                "y": 20,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 51,
+                "$type": 2,
+                "guid": 389bdd01-3072-4b5f-af08-6099e8633168,
+                "data": $eref:0,
+                "x": 38,
+                "y": 20,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 52,
+                "$type": 2,
+                "guid": cecf19ea-8b81-4b65-8136-3bd35a198bf9,
+                "data": $eref:0,
+                "x": 37,
+                "y": 20,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 53,
+                "$type": 2,
+                "guid": 98c5ac30-1db7-427f-90fe-892407bcdbfa,
+                "data": $eref:0,
+                "x": 36,
+                "y": 20,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 54,
+                "$type": 2,
+                "guid": d63bf437-8f70-4f0a-a1dd-9bf597ab2a22,
+                "data": $eref:0,
+                "x": 35,
+                "y": 20,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 55,
+                "$type": 2,
+                "guid": ddaa1d77-4ce2-4e32-a823-341444830e72,
+                "data": $eref:0,
+                "x": 34,
+                "y": 20,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 56,
+                "$type": 2,
+                "guid": 836cdbae-5b7f-424c-8332-7d025ee35fd9,
+                "data": $eref:0,
+                "x": 33,
+                "y": 20,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 57,
+                "$type": 2,
+                "guid": 9fe9cdb4-7ea6-4304-a381-655d2dc95bac,
+                "data": $eref:0,
+                "x": 32,
+                "y": 20,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 58,
+                "$type": 2,
+                "guid": 511e1151-d23e-475b-b9d3-e7a3faf0d849,
+                "data": $eref:0,
+                "x": 31,
+                "y": 20,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 59,
+                "$type": 2,
+                "guid": 25f9a0b3-0a35-452f-b4f5-3470db9bf3b2,
+                "data": $eref:0,
+                "x": 30,
+                "y": 20,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 60,
+                "$type": 2,
+                "guid": e4d40472-babf-4d0c-9cdb-79f2ce585c15,
+                "data": $eref:0,
+                "x": 29,
+                "y": 20,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 61,
+                "$type": 2,
+                "guid": a0568fdb-5c9e-4f58-a60c-ba9fc21d5627,
+                "data": $eref:0,
+                "x": 28,
+                "y": 20,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 62,
+                "$type": 2,
+                "guid": eaf0990b-7c3b-4505-a091-34511955889f,
+                "data": null,
+                "x": 23,
+                "y": 9,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 63,
+                "$type": 2,
+                "guid": 1fc6aa44-053e-46e3-b012-36b63c2fb640,
+                "data": null,
+                "x": 24,
+                "y": 9,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 64,
+                "$type": 2,
+                "guid": 2859a64b-fc5f-4a9b-90ae-17106a8433d2,
+                "data": null,
+                "x": 25,
+                "y": 9,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 65,
+                "$type": 2,
+                "guid": 6169f6fb-7250-4a69-b9e3-dc40dd14fd06,
+                "data": null,
+                "x": 26,
+                "y": 9,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 66,
+                "$type": 2,
+                "guid": bcd1354b-f320-46a0-9f5a-10206a1e6078,
+                "data": null,
+                "x": 27,
+                "y": 9,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 67,
+                "$type": 2,
+                "guid": 266e4b85-f6d1-4c25-afae-fa8efdce5264,
+                "data": null,
+                "x": 53,
+                "y": 14,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 68,
+                "$type": 2,
+                "guid": 787c3ee0-bd56-4cd6-9436-c45a2ffc913e,
+                "data": null,
+                "x": 53,
+                "y": 13,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 69,
+                "$type": 2,
+                "guid": 1fb4bfed-9ead-4b3a-82b3-4c2f1c45510f,
+                "data": null,
+                "x": 53,
+                "y": 12,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 70,
+                "$type": 2,
+                "guid": 51b072f6-1bda-449b-a410-e9eddadf989f,
+                "data": null,
+                "x": 53,
+                "y": 11,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 71,
+                "$type": 2,
+                "guid": 42d09aca-1fc4-4f96-8950-69d9202e4ad1,
+                "data": null,
+                "x": 53,
+                "y": 10,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 72,
+                "$type": 2,
+                "guid": f0702a0f-9757-4f21-b7c2-0bacfd3d13f7,
+                "data": null,
+                "x": 48,
+                "y": 22,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 73,
+                "$type": 2,
+                "guid": 21018ebd-16c3-4329-9292-c952d44c78fa,
+                "data": null,
+                "x": 47,
+                "y": 22,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 74,
+                "$type": 2,
+                "guid": 3ab74dab-2f99-43c0-9e98-7f0942edb918,
+                "data": null,
+                "x": 18,
+                "y": 19,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 75,
+                "$type": 2,
+                "guid": 4fa2bc4e-1657-434e-81f4-3245171e209f,
+                "data": null,
+                "x": 18,
+                "y": 18,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 76,
+                "$type": 2,
+                "guid": 4329e2f8-94b5-4c1e-9a9c-cde3b7d86998,
+                "data": null,
+                "x": 18,
+                "y": 17,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 77,
+                "$type": 2,
+                "guid": 067d0bd6-0803-4d02-a465-e0f101b44840,
+                "data": null,
+                "x": 18,
+                "y": 16,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 78,
+                "$type": 2,
+                "guid": 9e16ad94-3c67-4dd6-894d-6ef463e0c4f4,
+                "data": null,
+                "x": 18,
+                "y": 15,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 79,
+                "$type": 2,
+                "guid": 7846adee-7031-4ade-a335-a56b0136e7b3,
+                "data": null,
+                "x": 18,
+                "y": 14,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 80,
+                "$type": 2,
+                "guid": ab0bacc7-96a9-4535-940d-c927dcc75815,
+                "data": null,
+                "x": 18,
+                "y": 13,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 81,
+                "$type": 2,
+                "guid": 3874bad7-ccea-40b4-b4f7-bb3521f40611,
+                "data": null,
+                "x": 27,
+                "y": 20,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 82,
+                "$type": 2,
+                "guid": 454bc586-c150-4262-b188-e897b5858417,
+                "data": null,
+                "x": 26,
+                "y": 20,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 83,
+                "$type": 2,
+                "guid": 32d7d694-effa-4f86-b1f0-1b127f6d89f7,
+                "data": null,
+                "x": 25,
+                "y": 20,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 84,
+                "$type": 2,
+                "guid": a50cdcb6-b79d-4ad9-831c-e9f8776fe193,
+                "data": null,
+                "x": 24,
+                "y": 20,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 85,
+                "$type": 2,
+                "guid": cafb26c4-7692-424b-93c3-06050527b810,
+                "data": null,
+                "x": 23,
+                "y": 20,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 86,
+                "$type": 2,
+                "guid": c1d09019-0243-4ba3-9a26-63546c0b4488,
+                "data": null,
+                "x": 60,
+                "y": 13,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 87,
+                "$type": 2,
+                "guid": 429d3a3d-6ff2-4bd6-b7c5-ecd14dc121c5,
+                "data": null,
+                "x": 59,
+                "y": 13,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 88,
+                "$type": 2,
+                "guid": 6f84eba3-db7c-4b7a-a087-af63fe318c33,
+                "data": null,
+                "x": 58,
+                "y": 13,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 89,
+                "$type": 2,
+                "guid": 3d83fcb1-cf3c-4f45-b9f3-0b97e96f68ba,
+                "data": null,
+                "x": 61,
+                "y": 13,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 90,
+                "$type": 2,
+                "guid": ae6f33c5-f681-48e8-a455-fe84b30ed20e,
+                "data": null,
+                "x": 62,
+                "y": 13,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 91,
+                "$type": 2,
+                "guid": 7c875699-6703-48bc-8548-406acb1f0c6b,
+                "data": null,
+                "x": 63,
+                "y": 13,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 92,
+                "$type": 2,
+                "guid": 5fe052f6-54da-49fe-9bfb-a10a5a005f4b,
+                "data": null,
+                "x": 64,
+                "y": 13,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 93,
+                "$type": 2,
+                "guid": 348caff7-9e88-4899-a120-41905bc4fba5,
+                "data": null,
+                "x": 65,
+                "y": 13,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 94,
+                "$type": 2,
+                "guid": 0be0a3ca-9da5-4311-b8d0-c7ced66aaeef,
+                "data": null,
+                "x": 66,
+                "y": 13,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 95,
+                "$type": 2,
+                "guid": d2cd8c9b-ea8f-4384-819f-c8fcc8783cbd,
+                "data": null,
+                "x": 19,
+                "y": 20,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 96,
+                "$type": 2,
+                "guid": b7655d5e-c2d4-4544-9c7c-c2b26e329394,
+                "data": null,
+                "x": 18,
+                "y": 20,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 97,
+                "$type": 2,
+                "guid": eeb1a83e-04f1-4926-8a68-e2da001c2706,
+                "data": null,
+                "x": 17,
+                "y": 20,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 98,
+                "$type": 2,
+                "guid": 7fc638d2-9229-45e3-a001-7a52b2a278bb,
+                "data": null,
+                "x": 16,
+                "y": 20,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 99,
+                "$type": 2,
+                "guid": cf444f5c-91cd-454e-ace3-997d7fad54be,
+                "data": null,
+                "x": 15,
+                "y": 20,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 100,
+                "$type": 2,
+                "guid": 6e4a28d0-afb1-49c3-be68-966ddc7b7b1d,
+                "data": null,
+                "x": 14,
+                "y": 20,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 101,
+                "$type": 2,
+                "guid": ec94ff88-31ba-4dea-bbbe-ef0720f47d59,
+                "data": null,
+                "x": 13,
+                "y": 20,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 102,
+                "$type": 2,
+                "guid": c3c41b24-b4b3-4be6-99fc-a4a7edbbcd2c,
+                "data": null,
+                "x": 12,
+                "y": 20,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 103,
+                "$type": 2,
+                "guid": 43dbfd28-e2fa-4f4c-aca7-ffbcf0f5163b,
+                "data": null,
+                "x": 47,
+                "y": 21,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 104,
+                "$type": 2,
+                "guid": 1fcb9d21-a106-4aac-9423-c212409c710d,
+                "data": null,
+                "x": 47,
+                "y": 20,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 105,
+                "$type": 2,
+                "guid": 71875186-64c1-4df5-a069-2ff5e41d8fb2,
+                "data": null,
+                "x": 46,
+                "y": 20,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 106,
+                "$type": 2,
+                "guid": 303ea246-37ba-49f3-925e-f255df66a192,
+                "data": null,
+                "x": 45,
+                "y": 20,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 107,
+                "$type": 2,
+                "guid": 0a69f836-d1ac-4652-9c9d-fed780815c3a,
+                "data": null,
+                "x": 44,
+                "y": 20,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 108,
+                "$type": 2,
+                "guid": a0c12185-9289-42b2-a6db-1615835a0ad8,
+                "data": null,
+                "x": 43,
+                "y": 20,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 109,
+                "$type": 2,
+                "guid": 4637f422-4e7f-4e0f-a94c-aba708a491c7,
+                "data": null,
+                "x": 42,
+                "y": 20,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 110,
+                "$type": 2,
+                "guid": 988391e1-4e47-46fe-b83d-24e0a91ee904,
+                "data": null,
+                "x": 17,
+                "y": 13,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 111,
+                "$type": 2,
+                "guid": 37c581d5-236d-4ed7-8a82-78a44f36924f,
+                "data": null,
+                "x": 16,
+                "y": 13,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 112,
+                "$type": 2,
+                "guid": 7d183ca9-53db-4123-b06e-f2787cd0da8d,
+                "data": null,
+                "x": 15,
+                "y": 13,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 113,
+                "$type": 2,
+                "guid": 890f7616-9055-46b3-bb47-67d6f067b4f8,
+                "data": null,
+                "x": 14,
+                "y": 13,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 114,
+                "$type": 2,
+                "guid": 70ddce70-f69d-45c1-94c0-6ddf555f637f,
+                "data": null,
+                "x": 13,
+                "y": 13,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 115,
+                "$type": 2,
+                "guid": 2fa41e3d-4f28-4885-b1a9-1f533d124430,
+                "data": null,
+                "x": 12,
+                "y": 13,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 116,
+                "$type": 2,
+                "guid": 190d23f1-bd2a-4661-b521-d1950dfa489b,
+                "data": null,
+                "x": 46,
+                "y": 9,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 117,
+                "$type": 2,
+                "guid": d1765ffd-16bc-4bf3-b44b-d5a8fc12e58f,
+                "data": null,
+                "x": 45,
+                "y": 9,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 118,
+                "$type": 2,
+                "guid": e60d7d86-56be-43b5-bdfe-017f74f5f108,
+                "data": null,
+                "x": 44,
+                "y": 9,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 119,
+                "$type": 2,
+                "guid": a1c99c59-51e8-43e2-b3d5-5e6b8dc4a0c5,
+                "data": null,
+                "x": 44,
+                "y": 10,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 120,
+                "$type": 2,
+                "guid": 956145b8-2e78-4e77-a382-e74fd2159927,
+                "data": null,
+                "x": 44,
+                "y": 11,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 121,
+                "$type": 2,
+                "guid": 4185636c-53b4-49ee-9d24-ebaef6dd552f,
+                "data": null,
+                "x": 39,
+                "y": 9,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 122,
+                "$type": 2,
+                "guid": c04833f7-b8b0-4718-97e0-d29c66a402be,
+                "data": null,
+                "x": 54,
+                "y": 24,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 123,
+                "$type": 2,
+                "guid": 9a8d56db-23e3-420d-8a6b-31e105faa546,
+                "data": null,
+                "x": 54,
+                "y": 25,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 124,
+                "$type": 2,
+                "guid": c5d002b7-1c30-4441-90ae-b448bcd85e1f,
+                "data": null,
+                "x": 34,
+                "y": 8,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 125,
+                "$type": 2,
+                "guid": eb6279bc-1d63-455e-8e07-f4aff785fcf3,
+                "data": null,
+                "x": 39,
+                "y": 8,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 126,
+                "$type": 2,
+                "guid": 77ae7a8c-546b-4223-8f8c-79727538d5f9,
+                "data": null,
+                "x": 34,
+                "y": 9,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 127,
+                "$type": 2,
+                "guid": 506aa545-9b4e-4947-8547-fafdc4a9e982,
+                "data": null,
+                "x": 33,
+                "y": 9,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 128,
+                "$type": 2,
+                "guid": 332d9185-cffb-485d-869a-abd5c22cb48d,
+                "data": null,
+                "x": 32,
+                "y": 9,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 129,
+                "$type": 2,
+                "guid": e10d0306-750d-4407-bf35-3a407699baa7,
+                "data": null,
+                "x": 31,
+                "y": 9,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 130,
+                "$type": 2,
+                "guid": 5186fbe9-c0d9-4517-b80c-78f1ef347aca,
+                "data": null,
+                "x": 30,
+                "y": 9,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 131,
+                "$type": 2,
+                "guid": f56b9fd6-1a61-4a4d-ad99-d89061d2122c,
+                "data": null,
+                "x": 29,
+                "y": 9,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 132,
+                "$type": 2,
+                "guid": da26768b-864a-4bae-8d03-da35b4588cd7,
+                "data": null,
+                "x": 28,
+                "y": 9,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 133,
+                "$type": 2,
+                "guid": ea809372-fad5-456f-8bdf-f85651502510,
+                "data": null,
+                "x": 67,
+                "y": 9,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 134,
+                "$type": 2,
+                "guid": 38afd0e6-3bd3-438b-b2c1-b3edb0110dd9,
+                "data": null,
+                "x": 66,
+                "y": 9,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 135,
+                "$type": 2,
+                "guid": 6dcbe30c-56bf-42ce-b9ed-ad8a63bb24c5,
+                "data": null,
+                "x": 65,
+                "y": 9,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 136,
+                "$type": 2,
+                "guid": b74d6625-a6f7-4482-a0c4-91c91349d03f,
+                "data": null,
+                "x": 64,
+                "y": 9,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 137,
+                "$type": 2,
+                "guid": a2dc1223-9623-4bb0-885d-775a965537aa,
+                "data": null,
+                "x": 63,
+                "y": 9,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 138,
+                "$type": 2,
+                "guid": c4467036-ff1a-451d-bb43-f989e211aa27,
+                "data": null,
+                "x": 62,
+                "y": 9,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 139,
+                "$type": 2,
+                "guid": 04a9ab21-cfae-4f73-9ed5-9314daa5290c,
+                "data": null,
+                "x": 61,
+                "y": 9,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 140,
+                "$type": 2,
+                "guid": 2ce84d4f-f270-4e35-8343-dd9b28989ad7,
+                "data": null,
+                "x": 67,
+                "y": 13,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 141,
+                "$type": 2,
+                "guid": 1352bbfa-c0a3-4e45-9ab0-ff68ea696ea1,
+                "data": null,
+                "x": 20,
+                "y": 20,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 142,
+                "$type": 2,
+                "guid": f8aeb7b7-8b45-437a-b2e4-d714650dac78,
+                "data": null,
+                "x": 21,
+                "y": 20,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 143,
+                "$type": 2,
+                "guid": 956f67b6-89ae-447d-9d71-04e0003a0442,
+                "data": null,
+                "x": 22,
+                "y": 20,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 144,
+                "$type": 2,
+                "guid": bfa31c20-cd8c-4941-a7d8-f86b68c06097,
+                "data": null,
+                "x": 14,
+                "y": 9,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 145,
+                "$type": 2,
+                "guid": 0a92b0bd-dd66-4d4d-a4d0-dec19c6471aa,
+                "data": null,
+                "x": 15,
+                "y": 9,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 146,
+                "$type": 2,
+                "guid": 79bfd658-f270-4b53-94eb-92769da087c2,
+                "data": null,
+                "x": 54,
+                "y": 19,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 147,
+                "$type": 2,
+                "guid": d06d84f8-d3ec-4c9d-9842-1342b08b4b3a,
+                "data": null,
+                "x": 55,
+                "y": 19,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 148,
+                "$type": 2,
+                "guid": bc88d6c7-b444-460d-a671-4dffc38fb8eb,
+                "data": null,
+                "x": 56,
+                "y": 19,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 149,
+                "$type": 2,
+                "guid": b3850884-cb58-4a0c-9837-81f93c65c8b3,
+                "data": null,
+                "x": 57,
+                "y": 19,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 150,
+                "$type": 2,
+                "guid": ca5a8c13-8035-4a89-8795-1d83438bab6f,
+                "data": null,
+                "x": 58,
+                "y": 19,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 151,
+                "$type": 2,
+                "guid": 14a46547-e199-48fc-924b-f95b6e47d2bb,
+                "data": null,
+                "x": 59,
+                "y": 19,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 152,
+                "$type": 2,
+                "guid": 0e80236c-8d63-4951-b619-82b4f2c3c1f7,
+                "data": null,
+                "x": 60,
+                "y": 19,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 153,
+                "$type": 2,
+                "guid": 489b20f6-57de-4fb5-a488-b7e24980cadb,
+                "data": null,
+                "x": 18,
+                "y": 12,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 154,
+                "$type": 2,
+                "guid": 2e22fe2a-6f71-4c73-a425-29cccd8c38f8,
+                "data": null,
+                "x": 18,
+                "y": 11,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 155,
+                "$type": 2,
+                "guid": 1e0dd7d0-33e6-4dbe-8258-701eaa243200,
+                "data": null,
+                "x": 16,
+                "y": 9,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 156,
+                "$type": 2,
+                "guid": 99fb4a9e-3694-4a3a-8da1-180390341b18,
+                "data": null,
+                "x": 18,
+                "y": 10,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 157,
+                "$type": 2,
+                "guid": ac3f257d-d3c9-4420-9c97-97f6f742f9f0,
+                "data": null,
+                "x": 18,
+                "y": 9,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 158,
+                "$type": 2,
+                "guid": f38ff8b1-4e24-4624-a5af-4cd999edbd6a,
+                "data": null,
+                "x": 22,
+                "y": 9,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 159,
+                "$type": 2,
+                "guid": 75d7b6bf-79d8-45bf-88df-780084308c50,
+                "data": null,
+                "x": 21,
+                "y": 9,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 160,
+                "$type": 2,
+                "guid": 4f900743-a272-42f7-abe0-f806fb9b2fad,
+                "data": null,
+                "x": 20,
+                "y": 9,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 161,
+                "$type": 2,
+                "guid": 9a6c5298-7726-43fb-949a-bab58a814e0c,
+                "data": null,
+                "x": 19,
+                "y": 9,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 162,
+                "$type": 2,
+                "guid": 0999090f-2e0f-42a5-9078-81c2b4a068ce,
+                "data": null,
+                "x": 17,
+                "y": 9,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 163,
+                "$type": 2,
+                "guid": d8e2d33c-3b98-4e32-9064-d798cc88bcd6,
+                "data": null,
+                "x": 30,
+                "y": 13,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 164,
+                "$type": 2,
+                "guid": 4399e6fc-9857-46d6-ae55-f745d4f78b5e,
+                "data": null,
+                "x": 29,
+                "y": 13,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 165,
+                "$type": 2,
+                "guid": 8cf1885f-8891-476f-b1b1-a4dbfffd88e4,
+                "data": null,
+                "x": 28,
+                "y": 13,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 166,
+                "$type": 2,
+                "guid": 04724757-7b86-4fba-a10b-e36bb98856d5,
+                "data": null,
+                "x": 27,
+                "y": 13,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 167,
+                "$type": 2,
+                "guid": 5c6a6d04-f735-48be-a97c-3c32d2cc1f81,
+                "data": null,
+                "x": 26,
+                "y": 13,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 168,
+                "$type": 2,
+                "guid": f80b69ca-b22e-42d9-b847-7482cd31d013,
+                "data": null,
+                "x": 25,
+                "y": 13,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 169,
+                "$type": 2,
+                "guid": c5fcfc2d-6dc4-4d8b-9db8-03f5047099f6,
+                "data": null,
+                "x": 24,
+                "y": 13,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 170,
+                "$type": 2,
+                "guid": 09436143-ea74-4771-ad82-567f33dda64f,
+                "data": null,
+                "x": 23,
+                "y": 13,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 171,
+                "$type": 2,
+                "guid": c0b18850-38fd-4ef7-aa2b-b595e48c9017,
+                "data": null,
+                "x": 22,
+                "y": 13,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 172,
+                "$type": 2,
+                "guid": fad69ec8-111e-4fb0-b6e4-f7d333db6177,
+                "data": null,
+                "x": 21,
+                "y": 13,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 173,
+                "$type": 2,
+                "guid": 7451b84d-d4c9-44fe-be88-e6c60f657ecd,
+                "data": null,
+                "x": 20,
+                "y": 13,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 174,
+                "$type": 2,
+                "guid": dcb6af0b-89b5-4a94-afb8-8f2abb7c2002,
+                "data": null,
+                "x": 19,
+                "y": 13,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 175,
+                "$type": 2,
+                "guid": b499e843-e4d3-4311-a2fa-4be883ec072c,
+                "data": null,
+                "x": 31,
+                "y": 13,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 176,
+                "$type": 2,
+                "guid": 921b0c82-6e05-4f65-b22e-0fdd729a0cce,
+                "data": null,
+                "x": 32,
+                "y": 13,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 177,
+                "$type": 2,
+                "guid": a6ea5218-92da-45c5-aa02-3e22cbda5bfc,
+                "data": null,
+                "x": 33,
+                "y": 13,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 178,
+                "$type": 2,
+                "guid": d5b8ef58-c72b-4357-af73-96c9f619a419,
+                "data": null,
+                "x": 34,
+                "y": 13,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 179,
+                "$type": 2,
+                "guid": a2aaf9fb-aafc-4411-a83d-550c3e571a5a,
+                "data": null,
+                "x": 35,
+                "y": 13,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 180,
+                "$type": 2,
+                "guid": b16db523-901a-4ee9-a69b-3d62f54e9f00,
+                "data": null,
+                "x": 36,
+                "y": 13,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 181,
+                "$type": 2,
+                "guid": 44dd6006-5584-43ac-92df-0708e6086ede,
+                "data": null,
+                "x": 37,
+                "y": 13,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 182,
+                "$type": 2,
+                "guid": 330917be-2fb1-4bdc-a2de-1208163b857f,
+                "data": null,
+                "x": 38,
+                "y": 13,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 183,
+                "$type": 2,
+                "guid": b68048f8-06ca-4f91-83a7-7e5f7db297f8,
+                "data": null,
+                "x": 39,
+                "y": 13,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 184,
+                "$type": 2,
+                "guid": 9d524efd-d234-4b02-8088-fa09ab7ebcc5,
+                "data": null,
+                "x": 40,
+                "y": 13,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 185,
+                "$type": 2,
+                "guid": 8495d216-0c34-46b1-9ad6-c582d55e7ece,
+                "data": null,
+                "x": 41,
+                "y": 13,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 186,
+                "$type": 2,
+                "guid": 05aac13b-f20d-4326-acc3-a4d9388ee317,
+                "data": null,
+                "x": 42,
+                "y": 13,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 187,
+                "$type": 2,
+                "guid": 03704488-4bfc-4472-be9a-adc0d6f37f51,
+                "data": null,
+                "x": 43,
+                "y": 13,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 188,
+                "$type": 2,
+                "guid": be766669-9744-4f8c-86c4-03c3fa3e5d2a,
+                "data": null,
+                "x": 44,
+                "y": 13,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 189,
+                "$type": 2,
+                "guid": 611bf71b-1fde-432f-917e-7e3459ddc618,
+                "data": null,
+                "x": 44,
+                "y": 12,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 190,
+                "$type": 2,
+                "guid": 5e1795e7-37b3-44e2-a50e-31c6faa8785f,
+                "data": null,
+                "x": 40,
+                "y": 9,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 191,
+                "$type": 2,
+                "guid": bfe00573-68fc-4592-9b49-cc1effac00c6,
+                "data": null,
+                "x": 41,
+                "y": 9,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 192,
+                "$type": 2,
+                "guid": d99b05a7-8126-4b76-a16e-4c40c58c8584,
+                "data": null,
+                "x": 42,
+                "y": 9,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 193,
+                "$type": 2,
+                "guid": f67d2ba6-8c48-4acf-b1d6-5c6b1de641d2,
+                "data": null,
+                "x": 43,
+                "y": 9,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 194,
+                "$type": 2,
+                "guid": 37a92b67-a025-419e-bab0-5c08788dce39,
+                "data": null,
+                "x": 58,
+                "y": 12,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 195,
+                "$type": 2,
+                "guid": 25427c2a-eb98-4e31-8a82-d739de939936,
+                "data": null,
+                "x": 58,
+                "y": 11,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 196,
+                "$type": 2,
+                "guid": 48e6d8fb-18b2-4f5b-8b91-85f6eff650ca,
+                "data": null,
+                "x": 58,
+                "y": 10,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 197,
+                "$type": 2,
+                "guid": 6a540231-2fe9-44cc-bdd6-6e9e87e59a86,
+                "data": null,
+                "x": 38,
+                "y": 8,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 198,
+                "$type": 2,
+                "guid": 900e3beb-3bfc-441d-b2fb-1f077b175cbb,
+                "data": null,
+                "x": 37,
+                "y": 8,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 199,
+                "$type": 2,
+                "guid": 630bdf7e-693d-413c-a490-013ae66bdb3e,
+                "data": null,
+                "x": 36,
+                "y": 8,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            },
+            {
+                "$id": 200,
+                "$type": 2,
+                "guid": 255866b3-c136-4dab-a995-b43c76a2f952,
+                "data": null,
+                "x": 35,
+                "y": 8,
+                "constructionProgress": 1,
+                "incomingBuildEffort": 0
+            }
+        ]
+    }
+}

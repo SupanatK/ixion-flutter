@@ -1,0 +1,35 @@
+{
+    "$id": 0,
+    "$type": "0|BulwarkStudios.Stanford.Saves.SaveDataGameplayNotification, BulwarkStudios.Stanford",
+    "states": {
+        "$id": 1,
+        "$type": "1|System.Collections.Generic.List`1[[BulwarkStudios.Stanford.Common.UI.NotificationStateBase, BulwarkStudios.Stanford]], mscorlib",
+        "$rlength": 1,
+        "$rcontent": [
+            {
+                "$id": 2,
+                "$type": "2|BulwarkStudios.Stanford.Common.UI.NotificationShipArrivedAtAStellarObject, BulwarkStudios.Stanford",
+                "icon": 3,
+                "notificationState": 1,
+                "guid": 108420fc-2b37-49c0-9087-a130ccde865c,
+                "cycle": 97,
+                "isWarning": false,
+                "notificationTxt": "The <i>Science Ship - <i>Darwin</i></i> has arrived at: <b>Earth</b>.",
+                "ship": {
+                    "$id": 3,
+                    "$type": "3|BulwarkStudios.Stanford.Saves.SavedSpaceVehicleInstance, BulwarkStudios.Stanford",
+                    "guid": 891a3a37-5808-43e8-9b99-5a6312243b6e
+                },
+                "specificName": "Science Ship - <i>Darwin</i>",
+                "stellarObjectData": $eref:0,
+                "color": {
+                    "$type": "4|UnityEngine.Color, UnityEngine.CoreModule",
+                    0.380392164,
+                    0.733333349,
+                    1,
+                    1
+                }
+            }
+        ]
+    }
+}

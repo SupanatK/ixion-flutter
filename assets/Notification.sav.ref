@@ -1,0 +1,18 @@
+{
+    "$id": 0,
+    "$type": "0|BulwarkStudios.Stanford.Saves.SaveDataReference, BulwarkStudios.Stanford",
+    "refObjects": {
+        "$id": 1,
+        "$type": "1|System.Collections.Generic.List`1[[BulwarkStudios.Stanford.Saves.SaveDataReference+DataRefObject, BulwarkStudios.Stanford]], mscorlib",
+        "$rlength": 1,
+        "$rcontent": [
+            {
+                "$type": "2|BulwarkStudios.Stanford.Saves.SaveDataReference+DataRefObject, BulwarkStudios.Stanford",
+                "name": "C1_Earth",
+                "path": "Assets/Data/SolarSystem/CelestialObjects/Chapter1/C1_Earth.asset",
+                "type": "BulwarkStudios.Stanford.SolarSystem.StellarObjects.StellarObjectData",
+                "guid": "542de107dc5a8d844915e53ccc01f213"
+            }
+        ]
+    }
+}

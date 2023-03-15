@@ -1,0 +1,307 @@
+{
+    "$id": 0,
+    "$type": "0|BulwarkStudios.Stanford.Saves.SaveDataTorus, BulwarkStudios.Stanford",
+    "state": {
+        "$id": 1,
+        "$type": "1|BulwarkStudios.Stanford.Torus.Structure.TorusState, BulwarkStudios.Stanford",
+        "guid": ef6b5e53-2820-414b-bdff-be54cd39a443,
+        "data": $eref:0,
+        "EddenOnline": true,
+        "torusTravelState": {
+            "$type": "2|BulwarkStudios.Stanford.SolarSystem.TorusTravelState, BulwarkStudios.Stanford",
+            "isValid": false,
+            "isPiranesiHack": false,
+            "pathInputs": {
+                "$type": "3|BulwarkStudios.Stanford.SolarSystem.TorusPathInputs, BulwarkStudios.Stanford",
+                "to": {
+                    "$id": 2,
+                    "$type": "4|BulwarkStudios.Stanford.Saves.SavedStellarObjectInstance, BulwarkStudios.Stanford",
+                    "guid": 00000000-0000-0000-0000-000000000000
+                },
+                "from": {
+                    "$id": 3,
+                    "$type": 4,
+                    "guid": 00000000-0000-0000-0000-000000000000
+                },
+                "curveDefinition": 50,
+                "startVista": {
+                    "$type": "5|UnityEngine.Vector3, UnityEngine.CoreModule",
+                    1.05426979,
+                    0.056,
+                    -3.03310418
+                },
+                "startPosition": {
+                    "$type": 5,
+                    1.17560315,
+                    0,
+                    -3.02563763
+                },
+                "endVista": {
+                    "$type": 5,
+                    1.6328274,
+                    0.000106666674,
+                    -2.76919746
+                },
+                "endPosition": {
+                    "$type": 5,
+                    1.68208075,
+                    0,
+                    -2.77378416
+                },
+                "tangentStrength": 0
+            },
+            "travelTimeInfo": {
+                "$type": "6|BulwarkStudios.Stanford.Games.Chapters.TravelTimeInfo, BulwarkStudios.Stanford",
+                "from": null,
+                "to": null,
+                "speedMultiplier": 0,
+                "startRotationTime": 0,
+                "takeOffTime": 0,
+                "accelerationTime": 0,
+                "decelerationTime": 0,
+                "landingTime": 0,
+                "endRotationTime": 0,
+                "totalTime": 0,
+                "takeOffFuncMultiplier": 0,
+                "landingFuncMultiplier": 0
+            },
+            "to": {
+                "$id": 4,
+                "$type": 4,
+                "guid": 00000000-0000-0000-0000-000000000000
+            },
+            "from": {
+                "$id": 5,
+                "$type": 4,
+                "guid": 00000000-0000-0000-0000-000000000000
+            },
+            "pathState": {
+                "$type": "7|BulwarkStudios.Stanford.Utils.Extensions.PathUtils+WalkingState, BulwarkStudios.Stanford",
+                "pathIndex": 0,
+                "currentPosition": {
+                    "$type": 5,
+                    0,
+                    0,
+                    0
+                },
+                "distanceWalked": 0,
+                "currentDirection": {
+                    "$type": 5,
+                    0,
+                    0,
+                    0
+                },
+                "leftoverTime": 0,
+                "currentSegmentLength": 0,
+                "currentSegmentWalked": 0
+            },
+            "normalizedDistance": 0,
+            "currentSpeedPerSecond": 0,
+            "currentTime": 0
+        },
+        "eddenOnline": true,
+        "isVohleEngineOn": false,
+        "startingMovement": false,
+        "solarSystemPosition": {
+            "$type": 5,
+            -2.1270175,
+            -0.01688,
+            2.04562116
+        },
+        "stellarObjectPosition": $eref:1,
+        "rotatingTowardVista": false,
+        "rotator": {
+            "$id": 6,
+            "$type": "8|BulwarkStudios.Stanford.Torus.Structure.TorusStateRotator, BulwarkStudios.Stanford",
+            "angle": 931.376343,
+            "ekpAngle": -6892.675,
+            "isRotating": true,
+            "useUnityDeltaTime": false
+        },
+        "baseElectricityAmount": 60,
+        "isOvercharged": false,
+        "currentlyConsumed": 91,
+        "hullIntegrity": 828.1321,
+        "torusTrust": {
+            "$id": 7,
+            "$type": "9|BulwarkStudios.Stanford.Torus.Sectors.TorusTrust, BulwarkStudios.Stanford",
+            "trust": 53.96,
+            "trustEffects": {
+                "$id": 8,
+                "$type": "10|System.Collections.Generic.List`1[[BulwarkStudios.Stanford.Torus.Sectors.ITrustEffect, BulwarkStudios.Stanford]], mscorlib",
+                "$rlength": 0,
+                "$rcontent": [
+                ]
+            },
+            "lastUpdateDay": 99
+        },
+        "nbCitizenStarveLvl1": 0,
+        "nbCitizenStarveLvl2": 0,
+        "nbCitizenStarveLvl3": 0,
+        "transferCitizenInProgress": {
+            "$id": 9,
+            "$type": "11|System.Collections.Generic.List`1[[BulwarkStudios.Stanford.Torus.Structure.CommandTransferCitizen, BulwarkStudios.Stanford]], mscorlib",
+            "$rlength": 0,
+            "$rcontent": [
+            ]
+        },
+        "transferCitizenDone": {
+            "$id": 10,
+            "$type": 11,
+            "$rlength": 0,
+            "$rcontent": [
+            ]
+        },
+        "evaBuildObject": {
+            "$id": 11,
+            "$type": "12|BulwarkStudios.Stanford.Torus.Buildings.Actions.BuildingActionStateBuildObject, BulwarkStudios.Stanford",
+            "objectBuild": null,
+            "buildingState": 0,
+            "previousState": 0,
+            "objectToBuild": 0,
+            "effort": 0,
+            "incomingEffort": 0,
+            "stockIncoming": {
+                "$id": 12,
+                "$type": "13|BulwarkStudios.Stanford.Core.GameResources.ResourceContainer, BulwarkStudios.Stanford",
+                "values": {
+                    "$id": 13,
+                    "$type": "14|System.Int32[], mscorlib",
+                    "$plength": 21,
+                    "$pcontent": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            },
+            "stock": {
+                "$id": 14,
+                "$type": 13,
+                "values": {
+                    "$id": 15,
+                    "$type": 14,
+                    "$plength": 21,
+                    "$pcontent": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            },
+            "stockOutgoing": {
+                "$id": 16,
+                "$type": 13,
+                "values": {
+                    "$id": 17,
+                    "$type": 14,
+                    "$plength": 21,
+                    "$pcontent": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            },
+            "neededResources": null,
+            "neededEffort": 0
+        },
+        "reservedResourcesData": {
+            "$id": 18,
+            "$type": "15|System.Collections.Generic.Dictionary`2[[BulwarkStudios.Stanford.Core.GameResources.ResourceData, BulwarkStudios.Stanford],[System.Int32, mscorlib]], mscorlib",
+            "comparer": {
+                "$id": 19,
+                "$type": "16|System.Collections.Generic.ObjectEqualityComparer`1[[BulwarkStudios.Stanford.Core.GameResources.ResourceData, BulwarkStudios.Stanford]], mscorlib"
+            },
+            "$rlength": 0,
+            "$rcontent": [
+            ]
+        },
+        "currentlyUnlockingSectors": 0,
+        "hullIntegrityModifiers": {
+            "$id": 20,
+            "$type": "17|System.Collections.Generic.Dictionary`2[[System.Guid, mscorlib],[System.Single, mscorlib]], mscorlib",
+            "comparer": {
+                "$id": 21,
+                "$type": "18|System.Collections.Generic.GenericEqualityComparer`1[[System.Guid, mscorlib]], mscorlib"
+            },
+            "$rlength": 0,
+            "$rcontent": [
+            ]
+        },
+        "disableElectricityOverload": false,
+        "autoRepairHull": false,
+        "repairProgress": 0,
+        "paidAlloyForHullRepair": false,
+        "hasAlloyForHullRepair": false,
+        "homesicknessStabilityModifier": 0,
+        "listCommandable": {
+            "$id": 22,
+            "$type": "19|System.Collections.Generic.List`1[[BulwarkStudios.Stanford.Core.Commands.ICommandSaveable, BulwarkStudios.Stanford]], mscorlib",
+            "$rlength": 0,
+            "$rcontent": [
+            ]
+        },
+        "listCommandableEVA": {
+            "$id": 23,
+            "$type": 19,
+            "$rlength": 0,
+            "$rcontent": [
+            ]
+        }
+    }
+}

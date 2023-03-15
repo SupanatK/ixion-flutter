@@ -1,0 +1,25 @@
+{
+    "$id": 0,
+    "$type": "0|BulwarkStudios.Stanford.Saves.SaveDataReference, BulwarkStudios.Stanford",
+    "refObjects": {
+        "$id": 1,
+        "$type": "1|System.Collections.Generic.List`1[[BulwarkStudios.Stanford.Saves.SaveDataReference+DataRefObject, BulwarkStudios.Stanford]], mscorlib",
+        "$rlength": 2,
+        "$rcontent": [
+            {
+                "$type": "2|BulwarkStudios.Stanford.Saves.SaveDataReference+DataRefObject, BulwarkStudios.Stanford",
+                "name": "CarTransporter",
+                "path": "Assets/Data/Torus/Buildings/Transporters/CarTransporter.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Buildings.TransporterData",
+                "guid": "5946e136efc49eb4890b473488446809"
+            },
+            {
+                "$type": 2,
+                "name": "MechaTransporter",
+                "path": "Assets/Data/Torus/Buildings/Transporters/MechaTransporter.asset",
+                "type": "BulwarkStudios.Stanford.Torus.Buildings.TransporterData",
+                "guid": "a1993f4a28d46054f82ab86a89605a25"
+            }
+        ]
+    }
+}

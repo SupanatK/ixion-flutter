@@ -1,0 +1,11 @@
+{
+    "$id": 0,
+    "$type": "0|BulwarkStudios.Stanford.Torus.Drone.SaveDataDrone, BulwarkStudios.Stanford",
+    "states": {
+        "$id": 1,
+        "$type": "1|System.Collections.Generic.List`1[[BulwarkStudios.Stanford.Torus.Drone.DroneState, BulwarkStudios.Stanford]], mscorlib",
+        "$rlength": 0,
+        "$rcontent": [
+        ]
+    }
+}
